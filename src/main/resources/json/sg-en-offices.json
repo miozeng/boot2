@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Prudential Customer Service Centre",
+		"id": 0,
+		"latitude": 1.278134,
+		"longtitude": 103.852924,
+		"registrationNumber": "",
+		"address": "5 Straits View  #01-18/19, Marina One The Heart, Singapore 018935",
+		"officeHours": "Mondays to Fridays, 9:00am to 5:45pm (excluding Public Holidays)",
+		"phones": [
+			{
+				"region": "",
+				"number": "1800 333 0333 ",
+				"type": "Mondays to Fridays, 8:30am to 5:30pm"
+			},
+			{
+				"region": "",
+				"number": "+65 6333 0333 ",
+				"type": "If you're dialling from overseas or via a payphone"
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Prudential Assurance Company Singapore (Pte) Ltd ",
+		"id": 1,
+		"latitude": 1.278134,
+		"longtitude": 103.852924,
+		"registrationNumber": "199002477Z",
+		"address": "7 Straits View #06-01, Marina One East Tower, Singapore 018936 ",
+		"officeHours": "",
+		"phones": [],
+		"phoneDescription": "",
+		"fax": "",
+		"email": ""
+	}
+]

@@ -1,0 +1,815 @@
+ [
+	{
+		"name": "Head Office",
+		"id": 0,
+		"latitude": 14.556530,
+		"longtitude": 121.053818,
+		"address": "9F Uptown Place Tower 1, 1 East 11th Drive, Uptown Bonifacio, 1634 Taguig City, Philippines",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(632) 683 9000",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(632) 884 8484",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Head Office - Business Center",
+		"id": 1,
+		"latitude": 14.557297,
+		"longtitude": 121.054493,
+		"address": "G/F Cluster 2, Uptown Parade, Megaworld Blvd. corner 36th street, Uptown Bonifacio, 1634 Taguig City, Philippines",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(632) 887 5433",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "1 800 10 7785465",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(632) 817 1167",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Alabang",
+		"id": 2,
+		"latitude": 14.426326,
+		"longtitude": 121.023427,
+		"address": "12/F Kingston Building, Blk 2, Lot 1, Acacia Avenue, Madrigal Business Park, Alabang, 1770 Muntinlupa City",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(02) 519 5025",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Bacolod",
+		"id": 3,
+		"latitude": 10.676444,
+		"longtitude": 122.953293,
+		"address": "Units 7-9 LD Center, 7th Lacson Street, 6100 Bacolod City, Negros Occidental",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(034) 434 8388",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Baguio",
+		"id": 4,
+		"latitude": 16.405593,
+		"longtitude": 120.597728,
+		"address": "3/F DBP Building, Lower Session Road, 2600 Baguio City, Benguet",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(074) 422 0249",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Batangas",
+		"id": 5,
+		"latitude": 13.941096,
+		"longtitude": 121.158042,
+		"address": "2/F AMS Building, 52 B. Morada Avenue, 4217 Lipa City, Batangas",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(043) 757 2089",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(043) 757 2089",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Bulacan",
+		"id": 6,
+		"latitude": 14.953446,
+		"longtitude": 120.900856,
+		"address": "2/F Estrada Building, Barrera Street, Poblacion, 3006 Baliuag, Bulacan",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(044) 766 5128",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(044) 766 4458",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Butuan",
+		"id": 7,
+		"latitude": 8.947759,
+		"longtitude": 125.537432,
+		"address": "2/F Acerado Building, J.C. Aquino Avenue, 8600 Butuan City, Agusan del Norte",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(085) 342 5278",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Cabanatuan",
+		"id": 8,
+		"latitude": 15.481523,
+		"longtitude": 120.961290,
+		"address": "KM 114 2/F Tiburcia Building, Maharlika Highway, Bernardo District, 3100 Cabanatuan City, Nueva Ecija",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(044) 463 7954",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(044) 463 4159",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Cagayan de Oro ",
+		"id": 9,
+		"latitude": 8.481531,
+		"longtitude": 124.656231,
+		"address": "4/F Limketkai Center, Gateway Tower, Lapasan Highway, 9000 Cagayan de Oro, Misamis Oriental",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(088) 856 5711",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(088) 856 5784",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Calamba 1",
+		"id": 10,
+		"latitude": 14.206325,
+		"longtitude": 121.154849,
+		"address": "3/F SQA Corporate Center, National Highway, Crossing, 4027 Calamba City, Laguna",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(049) 502 9910",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(049) 502 9890",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Calamba 2",
+		"id": 11,
+		"latitude": 14.204056,
+		"longtitude": 121.157367,
+		"address": "2/F Sterling Building, Brgy. Uno Crossing, Calamba City",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(049) 508 6247",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(049) 508 6196",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Cavite",
+		"id": 12,
+		"latitude": 14.426276,
+		"longtitude": 120.944378,
+		"address": "2/F Esguerra Building, Palico IV, Aguinaldo Highway, 4103 Imus, Cavite",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(046) 476 0265",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Cebu 1",
+		"id": 13,
+		"latitude": 10.328084,
+		"longtitude": 123.906117,
+		"address": "G/F TGU Towers, Asia Town, IT Park, Salinas Drive, Apas, 6000 Cebu City, Cebu",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(032) 238 7888",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(032) 236 0688",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Cebu 2",
+		"id": 14,
+		"latitude": 10.319037,
+		"longtitude": 123.906884,
+		"address": "G/F Unit 1206 Apple One Tower, Mindanao Avenue corner Biliran Road, Cebu Business Park, 6000 Cebu City, Cebu",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(032) 261 2372",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(032) 234 0643",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Dagupan",
+		"id": 15,
+		"latitude": 16.056374,
+		"longtitude": 120.340744,
+		"address": "2/F Danilo C. Uy Commercial Complex, Arellano Street, Bani, 2400 Dagupan, Pangasinan",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(075) 523 7750",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(075) 523 7749",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Davao 1",
+		"id": 16,
+		"latitude": 7.084296,
+		"longtitude": 125.611363,
+		"address": "5/F Landco Business Center, Bajada, 8000 Davao City, Davao del Sur",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(082) 224 4777",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(082) 222 8484",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Davao 2",
+		"id": 17,
+		"latitude": 7.075948,
+		"longtitude": 125.611551,
+		"address": "2/F Davao Primeland Building, E. Quirino Avenue corner Jacinto Extension, 8000 Davao City, Davao del Sur",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(082) 221 9884",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(082) 221 9886",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Davao 3",
+		"id": 18,
+		"latitude": 7.060675,
+		"longtitude": 125.593906,
+		"address": "Borromeo Insurance Bldg., 11 Juna Ave.,Juna Subd., Matina, Davao City 8000",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(082) 297 7788",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(082) 297 8693",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Escolta",
+		"id": 19,
+		"latitude": 14.597972,
+		"longtitude": 120.978679,
+		"address": "G/F Escolta Twin Towers, 288 Escolta Street, 1006 Sta. Cruz, Manila",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(02) 522 7998",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(02) 245 4884",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - General Santos",
+		"id": 20,
+		"latitude": 6.113836,
+		"longtitude": 125.181768,
+		"address": "Unit 2 Lourdes Llido Building, J. Catolico Sr. Avenue, 9500 General Santos, South Cotabato",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(083) 553 5546",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Iloilo",
+		"id": 21,
+		"latitude": 10.700622,
+		"longtitude": 122.561544,
+		"address": "2/F Adelina Building, General Luna corner Jalandoni Street, 5000 Iloilo City, Iloilo",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(033) 336 0367",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - La Union",
+		"id": 22,
+		"latitude": 16.608685,
+		"longtitude": 120.316715,
+		"address": "Carlos A. Tam Building, Quezon Avenue, 2500 San Fernando City, La Union",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(072) 888 5685",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Laoag",
+		"id": 23,
+		"latitude": 18.196557,
+		"longtitude": 120.591763,
+		"address": "G/F L.C. Square Building, J.P. Rizal Street, 2900 Laoag City, Ilocos Norte",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(077) 773 1773",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(077) 600 4379",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Lucena",
+		"id": 24,
+		"latitude": 13.936588,
+		"longtitude": 121.609093,
+		"address": "Mezzanine Level Estrella Star Building, Pacific Mall Compound, 4301 Lucena City, Quezon Province",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(042) 717 1463",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Makati 1",
+		"id": 25,
+		"latitude": 14.555389,
+		"longtitude": 121.019846,
+		"address": "G/F SSHG Law Centre, 105 Paseo De Roxas Avenue, Legaspi Village, 1229 Makati City",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(02) 892 3268",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Makati 2",
+		"id": 26,
+		"latitude": 14.557886,
+		"longtitude": 121.020109,
+		"address": "G/F Tower 6789 Building, 6789 Ayala Avenue, 1226 Makati City",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(02) 805 2635",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Makati 3",
+		"id": 27,
+		"latitude": 14.560561,
+		"longtitude": 121.017207,
+		"address": "21/F Cityland Executive Tower, HV Dela Costa corner Valero Street, Salcedo Village, 1227 Makati",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(02) 817 1169",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(02) 886 5089",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Makati 4",
+		"id": 28,
+		"latitude": 14.556145,
+		"longtitude": 121.023608,
+		"address": "G/F Makati Stock Exchange Building, 1226 Ayala Avenue, Makati City",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(02) 810 0320 ",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Naga",
+		"id": 29,
+		"latitude": 13.632339,
+		"longtitude": 123.196194,
+		"address": "2/F Avenue Square, Magsaysay Avenue, Balatas, 4400 Naga, Camarines Sur",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(054) 473 6090",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Ortigas",
+		"id": 30,
+		"latitude": 14.586141,
+		"longtitude": 121.061524,
+		"address": "2/F Wynsum Corporate Plaza, Emerald Avenue, Ortigas Center, 1605 Pasig City",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(02) 650 5082",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Pampanga",
+		"id": 31,
+		"latitude": 15.042492,
+		"longtitude": 120.675848,
+		"address": "2/F CTH Building, Barangay Dolores, MacArthur Highway, 2000 San Fernando, Pampanga",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(045) 961 8820",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Quezon City",
+		"id": 32,
+		"latitude": 14.639289,
+		"longtitude": 121.029823,
+		"address": "2/F Coher Center, 1424 Quezon Avenue, 1103 Quezon City",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(02) 294 6156",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - San Pablo",
+		"id": 33,
+		"latitude": 14.071263,
+		"longtitude": 121.307755,
+		"address": "G/F Bien Paz Arcade, Maharlika Highway, Brgy. San Rafael, 4000 San Pablo, Laguna",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(049) 561 1377 ",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Santiago",
+		"id": 34,
+		"latitude": 16.688751,
+		"longtitude": 121.550761,
+		"address": "2/F Heritage Commercial Complex, Maharlika Hihgway, 3311 Santiago City, Isabela",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(078) 305 0183",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Sta. Rosa",
+		"id": 35,
+		"latitude": 14.249669,
+		"longtitude": 121.062757,
+		"address": "G/F Piazza Building, Tagaytay-Sta. Rosa Road, 4026 Sta. Rosa, Laguna",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(049) 541 0343",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Tacloban",
+		"id": 36,
+		"latitude": 11.241527,
+		"longtitude": 125.001060,
+		"address": "Uytingkoc Building, Barangay 50, Real Street, 6500 Tacloban, Leyte",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(053) 325 8181",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	},
+	{
+		"name": "Business Center - Urdaneta",
+		"id": 37,
+		"latitude": 15.971975,
+		"longtitude": 120.571844,
+		"address": "2/F S&P North Building, MacArthur Highway, 2428 Urdaneta City, Pangasinan",
+		"officeHours": "9:00 a.m. to 6:00 p.m.",
+		"phones": [
+			{
+				"region": "",
+				"number": "(075) 529 2674",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "",
+		"members": []
+	}
+
+		]

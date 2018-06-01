@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>reCAPTCHA demo: Explicit render after an onload callback</title>
+    <script type="text/javascript">
+    
+      var verifyCallback = function(response) {
+    		// do nothing
+    		alert("aa");
+    	}
+    	var onloadCallBack = function(){
+    		grecaptcha.render('recaptcha-container', {
+    			'sitekey' : '6LelIFsUAAAAAFn86sJ74eVQP7bmWZNTlA_o-wn1',
+    			'callback' : verifyCallback
+    		});
+    		res = grecaptcha.getResponse();
+    		
+    	}
+    	var submitForm = function(){
+    		re = grecaptcha.getResponse();
+    		alert(re);
+    	}
+    </script>
+  </head>
+  <body>
+    <form action="?" method="POST">
+     
+      <br>
+      <div class="recaptcha row-form">
+						<div id="recaptcha-container" ></div>
+						<span class="has-error error" id="grecaptcha_error" style=" display: none;">This is mandatory</span><!-- <fmt:message key="key.fundReportForm.captcha.mandatory" />-->
+					</div>
+      <input type="button" value="Submit" onclick="submitForm()">
+    </form>
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallBack&render=explicit"
+        async defer>
+    </script>
+  </body>
+</html>

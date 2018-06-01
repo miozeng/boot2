@@ -1,0 +1,387 @@
+[
+	{
+		"name": "Saigon Trade Center",
+		"id": 0,
+		"latitude": 10.783976,
+		"longtitude": 106.703577,
+		"address": "25th Floor, 37 Ton Duc Thang Street, Ho Chi Minh City",
+		"officeHours": "Mon – Fri: 8:00 AM – 5:00 PM Sat: 8:00 AM – 11:30 AM",
+		"phones": [
+			{
+				"region": "",
+				"number": "(08) 39 101 660",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(08) 39 100 899",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Ho Chi Minh - District 8",
+		"id": 1,
+		"latitude": 10.747444,
+		"longtitude": 106.660241,
+		"address": "2-4 Ben Can Giuoc, District 8, Ho Chi Minh City",
+		"officeHours": "8:00 - 17:00 (Monday to Friday); 8:00 - 12:00 (Saturday)",
+		"phones": [
+			{
+				"region": "",
+				"number": "(08) 39 513 099",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(08) 39 513 098",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Ha Noi - Keangman Landmark Tower",
+		"id": 2,
+		"latitude": 21.008702,
+		"longtitude": 105.776198,
+		"address": "29th Floor, Keangnam Landmark 72 Tower, E6 Lot, Me Tri Ward, Tu Liem District, Ha Noi City",
+		"officeHours": "8:00 - 17:00 (Monday to Friday); 8:00 - 12:00 (Saturday)",
+		"phones": [
+			{
+				"region": "",
+				"number": "(04) 38 337 209",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(04) 38 337 213",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "An Giang",
+		"id": 3,
+		"latitude": 10.383396,
+		"longtitude": 105.442625,
+		"address": "5th Floor ACB Building, 9 Tran Hung Dao Street, Long Xuyen City, An Giang",
+		"officeHours": "8:00 - 17:00 (Monday to Friday)",
+		"phones": [
+			{
+				"region": "",
+				"number": "(076) 3942 299",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(076) 3942 288",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Bình Định",
+		"id": 4,
+		"latitude": 13.75262,
+		"longtitude": 109.21092,
+		"address": "278 Nguyen Thi Dinh, Quy Nhon City, Binh Dinh",
+		"officeHours": "8:00 - 17:00 (Monday to Friday); 8:00 - 12:00 (Saturday)",
+		"phones": [
+			{
+				"region": "",
+				"number": "(056) 3 546 299",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(056) 3 546 333",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Bình Dương",
+		"id": 5,
+		"latitude": 10.970996,
+		"longtitude": 106.667011,
+		"address": "91 Hoàng Văn Thụ Street, Chánh Nghĩa Ward, Thủ Dầu Một City, Binh Duong province",
+		"officeHours": "8:00 - 17:00 (Monday to Friday); 8:00 - 12:00 (Saturday)",
+		"phones": [
+			{
+				"region": "",
+				"number": "(0650) 3870 299",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Binh Thuận",
+		"id": 6,
+		"latitude": 10.935487,
+		"longtitude": 108.112433,
+		"address": "2-4 Nguyen Thi Minh Khai, Phan Thiet City, Binh Thuan",
+		"officeHours": "8:00 - 17:00 (Monday to Friday)",
+		"phones": [
+			{
+				"region": "",
+				"number": "(062) 3 720 999",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(062) 3 720 777",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Thái Nguyên",
+		"id": 7,
+		"latitude": 21.589058,
+		"longtitude": 105.829421,
+		"address": "Tòa nhà TSP số 318 Quang Trung, Phường Tân Thịnh, TP. Thái Nguyên",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(0280) 3653 999",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(0280) 3653 590",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Quảng Ninh",
+		"id": 8,
+		"latitude": 20.95114,
+		"longtitude": 107.073934,
+		"address": "Số 1, Đường 25/4, Phường Bạch Đằng, TP Hạ Long",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(033) 3 624260",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "(033) 3 624262",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(033) 3 624271",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Thanh Hóa",
+		"id": 9,
+		"latitude": 19.776861,
+		"longtitude": 105.794027,
+		"address": "Tầng trệt, tòa nhà khách sạn Lam Sơn, Số 253 Trần Phú - P. Ba Đình - Tp. Thanh Hóa - tỉnh Thanh Hóa",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(037) 3722 577",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(037) 3722 570",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Hải Phòng",
+		"id": 10,
+		"latitude": 20.86417,
+		"longtitude": 106.689364,
+		"address": "Tòa nhà Harbour View, số 12 Trần Phú, phường Máy Tơ, quận Ngô Quyền, Hải Phòng",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(031) 3551 990",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(031) 3551 998",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Nghệ An",
+		"id": 11,
+		"latitude": 18.669492,
+		"longtitude": 105.691406,
+		"address": "Tầng 1, Số 2 Trường Thi, TP. Vinh",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(038) 3844 999",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(038) 3590 912",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Thừa Thiên Huế",
+		"id": 12,
+		"latitude": 16.46182,
+		"longtitude": 107.590967,
+		"address": "25 Nguyễn Văn Cừ, TP. Huế",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(054) 3835 999",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(054) 3830 183",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Khánh Hòa",
+		"id": 13,
+		"latitude": 12.252043,
+		"longtitude": 109.189491,
+		"address": "38-40 Thống Nhất, TP. Nha Trang",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(058) 3814 933",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(058) 3814 934",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Đắk Lắk",
+		"id": 14,
+		"latitude": 12.68265,
+		"longtitude": 108.04866,
+		"address": "27 Nguyễn Tất Thành, Phường Tân Lợi, TP. Buôn Ma Thuột",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(0500) 3953 599",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(0500) 3953 772",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Lâm Đồng",
+		"id": 15,
+		"latitude": 11.945991,
+		"longtitude": 108.439726,
+		"address": "133 Bùi Thị Xuân, Phường 2, TP. Đà Lạt",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(063) 3531 999",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(063) 3531 042",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Cần Thơ",
+		"id": 16,
+		"latitude": 10.040043,
+		"longtitude": 105.777307,
+		"address": "20 Trần Hưng Đạo, Q. Ninh Kiều, TP. Cần Thơ",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(0710) 3835 230",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(0710) 3831 777",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Kiên Giang",
+		"id": 17,
+		"latitude": 10.011115,
+		"longtitude": 105.085119,
+		"address": "218 Trần Phú, TP. Rạch Giá, Tỉnh Kiên Giang",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu; 8h00 đến 12h00: Thứ Bảy",
+		"phones": [
+			{
+				"region": "",
+				"number": "(077) 3877 699",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(077) 3877 612",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Cà Mau",
+		"id": 18,
+		"latitude": 9.17454,
+		"longtitude": 105.14946,
+		"address": "Lầu 3, Tòa nhà Ngân hàng Đông Á, 03 An Dương Vương, phường 7, TP.Cà Mau",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu",
+		"phones": [
+			{
+				"region": "",
+				"number": "(0780) 3824 999",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(0780) 3827 955",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	},
+	{
+		"name": "Tiền Giang",
+		"id": 19,
+		"latitude": 10.356193,
+		"longtitude": 106.361566,
+		"address": "Lầu 5, Toà nhà ACB, 139 Nam Kỳ Khởi Nghĩa, TP.Mỹ Tho, Tỉnh Tiền Giang",
+		"officeHours": "8h00 đến 17h00: Thứ Hai đến Thứ Sáu, 8h00 đến 12h00 Thứ 7",
+		"phones": [
+			{
+				"region": "",
+				"number": "(073) 3 888 388",
+				"type": ""
+			}
+		],
+		"phoneDescription": "",
+		"fax": "(073) 3 978 554",
+		"email": "customer.service@prudential.com.vn",
+		"members": []
+	}
+]

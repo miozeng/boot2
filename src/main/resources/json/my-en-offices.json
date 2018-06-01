@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Head Office (Menara Prudential)",
+		"id": 0,
+		"latitude": 3.154894,
+		"longtitude": 101.7069959,
+		"address": "Ground Floor, Menara Prudential, No.10, Jalan Sultan Ismail, 50250 Kuala Lumpur",
+		"officeHours": "Monday to Friday, 8:45am to 4:30pm (excluding Public Holidays)",
+		"phones": [
+			{
+				"region": "",
+				"number": "03-2031 8228 (General Line)",
+				"type": ""
+			},
+			{
+				"region": "",
+				"number": "03-2116 0228 (Call Centre)",
+				"type": ""
+			}
+		],
+		"phoneDescription": " ",
+		"fax": "03-2032 3939",
+		"email": "customer.mys@prudential.com.my",
+		"members": []
+	}
+]

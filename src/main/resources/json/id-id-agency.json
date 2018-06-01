@@ -1,0 +1,6349 @@
+ [
+	{
+		"state": "BALI",
+		"cities": [
+			{
+				"city": "BADUNG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PRU Amerta Bumi - Bali",
+						"address": "Jl. Raya Luk Luk No. 2, Badung, Bali",
+						"pic": "Dra. N L KT Sri Sitiasih",
+						"manager": "",
+						"tel1": "+62361-427921",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "DENPASAR",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Flobamora - Denpasar",
+						"address": "Jl. Raya Sesetan No. 212A, Denpasar - Bali",
+						"pic": "Johannes Paulus",
+						"manager": "",
+						"tel1": "+62361-710204",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62361-724358",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Abundance - Denpasar",
+						"address": "Jl. Cokroaminoto No. 460B, Denpasar, Bali 80116",
+						"pic": "I Nyoman Suarnaya",
+						"manager": "",
+						"tel1": "+62361-428386",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Avera - Denpasar",
+						"address": "Jl. Bypass Prof I.B. No. 101 A-B, Denpasar",
+						"pic": "Verasanny Setiawan",
+						"manager": "",
+						"tel1": "+62361-462535",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62361-468176",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Gemilang - Denpasar",
+						"address": "Jl. Mahendradata No. 97B, Denpasar 80119",
+						"pic": "Liela Darsana",
+						"manager": "",
+						"tel1": "+62361-483388",
+						"tel2": "+62361-485277",
+						"tel3": "",
+						"fax1": "+62361-485178",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Infinity - Denpasar",
+						"address": "Pertokoan Diponegoro Indah, Jl. Diponegoro No. 135-137 Kav. 6, Denpasar 80361",
+						"pic": "Ni Made Hariniti",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Integrity - Denpasar",
+						"address": "Jl. Buluh Indah No. 88B, Denpasar",
+						"pic": "Fera Hartono",
+						"manager": "",
+						"tel1": "+62361-418327",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Kharisma - Denpasar",
+						"address": "Jl. Gatot Subroto Barat No. 409, Denpasar, Bali 80116",
+						"pic": "Januri Abdi Ikwan",
+						"manager": "",
+						"tel1": "+62361-8443916",
+						"tel2": "+62361-8443917",
+						"tel3": "",
+						"fax1": "+62361-8443918",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Merdeka - Denpasar",
+						"address": "Jl. Patimura 32, Puri Bali Ayu Blok B 1-2, Denpasar Bali 80231",
+						"pic": "M. Putra Wijaya",
+						"manager": "",
+						"tel1": "+62361-265273",
+						"tel2": "+62361-265274",
+						"tel3": "+62361-233405",
+						"fax1": "+62361-230089",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Sahadewa - Denpasar",
+						"address": "Komplek Pertokoan Sanur Raya No. 1, Jl. Hang Tuah/Bypass, Ngurah Rai, Denpasar, Bali",
+						"pic": "I Gede Rhyza Helces",
+						"manager": "",
+						"tel1": "+62361-288728",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Samurai - Denpasar",
+						"address": "Renon Square Kav. E, Jl. Raya Puputan Renon, Denpasar 80226",
+						"pic": "Nyoman Wibawa Darma",
+						"manager": "",
+						"tel1": "+62361-238999",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62361-240862",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Venture - Denpasar",
+						"address": "Istana Kuta Galeria Kompleks, Blok BW1-20, Kuta, Denpasar",
+						"pic": "Reno Cahyadi",
+						"manager": "",
+						"tel1": "+62361-769131",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Xpand - Denpasar",
+						"address": "Gedung Indovision, Jl. Diponegoro No. 109 Lt. 2 - Lot M, Denpasar, Bali",
+						"pic": "Dewi Sawitri Sudibya",
+						"manager": "",
+						"tel1": "+62361-8001905",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "GIANYAR",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Archisa Agency - Denpasar",
+						"address": "Jl. Gatot Subroto Timur No. 49, Pertokoan Maha Graha Ruko 12-12A, Denpasar Bali",
+						"pic": "Ni Ketut Ariningsih",
+						"manager": "",
+						"tel1": "+62361-296175",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62361-296175",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Megas - Denpasar",
+						"address": "Jl. Prof. Dr. Ida Bagus Mantra No. 2, Perempatan Pantai Masceti, Medahan, Gianyar, Bali",
+						"pic": "Endy Sutrisno",
+						"manager": "",
+						"tel1": "+62361-4791083",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PRU Sahadewa - Gianyar",
+						"address": "Jl. By Pass Darma Giri Buruan, Blahbatuh, Gianyar Bali 80581",
+						"pic": "I Gede Rhyza Helces",
+						"manager": "",
+						"tel1": "+62361-8958425",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KUTA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PRU Citra - Denpasar",
+						"address": "Jl. Bypass Ngurah Rai, Ruko Tuban Plaza Kav. 5, Tuban, Kuta, Bali",
+						"pic": "Luh Made Pertiwi Penyarikan, SE",
+						"manager": "",
+						"tel1": "+62361-759715",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "NEGARA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PRU Satwika Negara - Bali",
+						"address": "Jl. Sudirman, Daun Waru, Negara, Jembrana, Bali",
+						"pic": "Ida Bagus Purwasila",
+						"manager": "",
+						"tel1": "+62365-53901",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "NUSA DUA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Puravida Agency - Nusa Dua",
+						"address": "Jl. ByPass Ngurah Rai No. 100, Mumbul, Nusa Dua (seberang perumahan taman mumbul)",
+						"pic": "Ishak Yaffry Oenady",
+						"manager": "",
+						"tel1": "+62361-778643",
+						"tel2": "+62361-778648",
+						"tel3": "+62361-778661",
+						"fax1": "+62361-419074",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SEMINYAK",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PRU Anugrah - Denpasar",
+						"address": "Jl. Sunset Road No. 48A Seminyak, Denpasar, Bali",
+						"pic": "Yuhyung Suhargo",
+						"manager": "",
+						"tel1": "+62361-7451206",
+						"tel2": "+62361-7451468",
+						"tel3": "",
+						"fax1": "+62361-8475851",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TABANAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PRU Merdeka - Tabanan",
+						"address": "Jl. Dr. Ir. Soekarno No. 3B, Tabanan, Bali 82111",
+						"pic": "M. Putra Wijaya",
+						"manager": "",
+						"tel1": "+62361-7809062",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62361-230089",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "BANTEN",
+		"cities": [
+			{
+				"city": "BINTARO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Desire - Bintaro",
+						"address": "Ruko Victorian  Bintaro Blok AA No. 2, Jl. Bintaro Utama 3, Bintaro, Tangerang",
+						"pic": "Suroyo",
+						"manager": "",
+						"tel1": "+6221-73690379",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-7378524",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "CILEGON",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Eternity - Cilegon",
+						"address": "Cilegon City Square Blok A No. 8, Jl. Raya Cilegon, Serang, Cibeber, Cilegon, Banten 42431",
+						"pic": "Petrus Tri Rahardjo",
+						"manager": "",
+						"tel1": "+62254-375150",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62254-375036",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "CITRA RAYA - CIKUPA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PAM Agency - Citra Raya",
+						"address": "Mardy Grass Blok KC02/02 Citra Raya, Tangerang",
+						"pic": "Lily",
+						"manager": "",
+						"tel1": "+6221-29003503",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29003503",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KARAWACI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Dinasti Agency - Karawaci",
+						"address": "Karawaci Office Park Blok H No. 35, Lippo Karawaci, Tangerang 15811",
+						"pic": "Suryadi, S.Sos",
+						"manager": "",
+						"tel1": "+6221-55769821",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-55769820",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "RANGKASBITUNG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Eternity - Rangkas Bitung",
+						"address": "Jl. Tb Surya Atmadja, Ruko Winangun, Rangkas Bitung, Lebak, Banten",
+						"pic": "Novita Rachman",
+						"manager": "",
+						"tel1": "+62252-208934",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62252-208937",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SERANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Excellent - Serang",
+						"address": "Jl. Ahmad Yani No. 165 B, Link. Cipete, Serang, Banten",
+						"pic": "Karianto",
+						"manager": "",
+						"tel1": "+62254-7912026",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SERPONG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Champion - Serpong",
+						"address": "Ruko WTC Matahari No. 852, Serpong",
+						"pic": "Mulyanto",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Fin Winner - Serpong",
+						"address": "The Prominence Tower Lt. 20, Jl. Jalur Sutera Barat No. 15, Alam Sutera, Tangerang 15325",
+						"pic": "Helen Susantio",
+						"manager": "",
+						"tel1": "+6221-53152726",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Master Consultant Management - Serpong",
+						"address": "Paramount Glaze 1 Blok A No. 19, Gading Serpong, Tangerang",
+						"pic": "Franky Lambert",
+						"manager": "",
+						"tel1": "+6221-29321346",
+						"tel2": "+6221-29321347",
+						"tel3": "",
+						"fax1": "+6221-29321346",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Exellent - Serpong",
+						"address": "Ruko CBD Blok F11-F12, BSD City, Serpong",
+						"pic": "Dody Nelwan",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Harmony - BSD",
+						"address": "Ruko Golden Boulevard Blok R No. 22, BSD, Tangerang 15323",
+						"pic": "Debby Rianti",
+						"manager": "",
+						"tel1": "+6221-53161531",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-53161530",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TANGERANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Magnificent Agency - Jakarta",
+						"address": "Rukan Crown Perum Green Lake City Blok E3-E5, Cipondoh, Tangerang 15147",
+						"pic": "Lim Willisan",
+						"manager": "",
+						"tel1": "+6221-29621608",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29621609",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Team Agency - Tangerang",
+						"address": "Ruko Tangcity Business Park F-38, Jl. Jend. Sudirman No.1, Cikokol, Tangerang",
+						"pic": "",
+						"manager": "Cyrus Stefan",
+						"tel1": "+6221-55782515",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-55782516",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "BENGKULU",
+		"cities": [
+			{
+				"city": "ARGA MAKMUR",
+				"branches": []
+			},
+			{
+				"city": "BENGKULU",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Hans Agency - Bengkulu",
+						"address": "Jl. Jend. Ahmad Yani No. 94, Depan Benteng Malborugh, Bengkulu",
+						"pic": "Han Francisca Setiadi",
+						"manager": "",
+						"tel1": "+62736-345085",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62736-345085",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Bengkulu",
+						"address": "Jl. S. Parman No. 19, Tanah Patah, Bengkulu",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+62736-20383",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62736-20383",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "DAERAH KHUSUS ACEH",
+		"cities": [
+			{
+				"city": "BANDA ACEH",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Aini - Aceh",
+						"address": "Jl. T.P. Nyak Makam No. 3 (Samping Kantor Badan Pemeriksa Keuangan Prov. Aceh), Banda Aceh",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "+62651-49263",
+						"tel2": "+62651-49265",
+						"tel3": "",
+						"fax1": "+62651-49268",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "LANGSA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Aini - Langsa",
+						"address": "Jl. Ahmad Yani No. 71C, Langsa, Sumatera Utara",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SIGLI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Aini Sigli - Aceh",
+						"address": "Jl. Prof A. Madjid Ibrahim No. 39 A, Sigli 24112, Nanggroe Aceh Darussalam",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "+62653-23853",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TAKENGON",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Aini - Takengon",
+						"address": "Jl. Lintang/Sengeda No. 5, Kala Kemili, Kec. Bebesan, Aceh Tengah, Takengon 24552",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "+62643-2625173",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "DI YOGYAKARTA",
+		"cities": [
+			{
+				"city": "SLEMAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Raising - Yogyakarta",
+						"address": "Jl. Babarsari No. 888 Tambak Bayan, Sleman - Yogyakarta 55281",
+						"pic": "Aries Christanto",
+						"manager": "",
+						"tel1": "+62274-489347",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62274-489385",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "YOGYAKARTA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Amazing Team - Yogyakarta",
+						"address": "Sumber Baru Square kav. V, Jl. Ring Road Jombor, Yogyakarta 55285",
+						"pic": "Retno Astuti, SE",
+						"manager": "",
+						"tel1": "+62274-4469717",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Frans & Tom Agency - Yogyakarta",
+						"address": "Ruko Jogonegaran No. 55C, Yogyakarta",
+						"pic": "Frans Bunandi",
+						"manager": "",
+						"tel1": "+62274-582560",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62274-372803",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Advantage - Yogyakarta",
+						"address": "Jl. Kaliwaru 70D, Soropadan, Gejayan, Yogyakarta",
+						"pic": "Saiful Bakhry",
+						"manager": "",
+						"tel1": "+62274-5304393",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Yogyakarta",
+						"address": "Casa Grande Square Kav 106, Ring Road Utara, Maguwoharjo, Yogyakarta 55281",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+62274-871286",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62274-871287",
+						"fax2": "+62274-871246",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru One Heart - Yogyakarta",
+						"address": "Jl. Jogonegaran No. 55C, Pringgokusuman, Yogyakarta",
+						"pic": "Frans Bunandi",
+						"manager": "",
+						"tel1": "+62274-544795",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62274-544795",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Rudy  & Tom Agency - Solo",
+						"address": "Rukan Gading Mas No. 8-B, Jl. Godean Km. 4, Banyuraden, Yogyakarta",
+						"pic": "Verry Tom Harry",
+						"manager": "",
+						"tel1": "+62274-617621",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Xpand - Yogyakarta",
+						"address": "Jl. Taman Siswa No. 160 Slot B8, Yogyakarta",
+						"pic": "Dewi Sawitri Sudibya",
+						"manager": "",
+						"tel1": "+62274-382661",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "DKI JAKARTA",
+		"cities": [
+			{
+				"city": "JAKARTA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Tom Agency - Jakarta",
+						"address": "Grand Slipi Tower Lt. 15 Unit 15E, Jl. S. Parman Kav. 22-24, Jakarta Barat",
+						"pic": "Verry Tom Harry",
+						"manager": "",
+						"tel1": "+6221-88965290",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-5359662",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "MKG1",
+						"agency": "Work With Heart",
+						"address": "Ruko Mall Indonesia Blok M/23A Kelapa Gading Square Jl. Boulevard Barat Daya Jakarta 14240",
+						"pic": "Dewi Kartika (00102722)",
+						"manager": "PT Bahtera Prima Konsulindo",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "US Teams - Jakarta",
+						"address": "Mall Mangga Dua Square, Lt. 1 Blok A No. 46A-46B, Jl. Gunung Sahari Raya No. 1, Jakarta Utara",
+						"pic": "Sudin",
+						"manager": "",
+						"tel1": "+6221-26075806",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "JAKARTA BARAT",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Champion - Jakarta",
+						"address": "Grand Slipi Tower Lt. 43, Jl. Letjend S. Parman Kav. 22,24, Jakarta 11480",
+						"pic": "Mulyanto",
+						"manager": "",
+						"tel1": "+6221-29022559",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29022560",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Hope Agency - Jakarta",
+						"address": "Agung Sedayu Square, Jl. Outer Ringroad Lingkar Luar No. N9, Cengkareng Barat, Jakarta 11730",
+						"pic": "Ricky Susanto",
+						"manager": "",
+						"tel1": "+6221-22553481",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Kingdom Agency - Jakarta",
+						"address": "Ruko Garden Shopping Arcade Blok B09 CM, Podomoro City, Jl. S. Parman Kav. 28, Jakarta 11470",
+						"pic": "Oni Yosetiawan",
+						"manager": "",
+						"tel1": "+6221-29337189",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-3920222",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Diamond - Jakarta",
+						"address": "Twin Plaza Tower, Suite 435, Jl. S. Parman Kav. 94-95, Jakarta",
+						"pic": "Beben Chaniago",
+						"manager": "",
+						"tel1": "+6221-5692123",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Dynamic - Jakarta",
+						"address": "APL Tower Lt. 41, Jl. S. Parman Kav. 28, Jakarta 11470",
+						"pic": "Heriyanto",
+						"manager": "",
+						"tel1": "+6221-29339235",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29339234",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru First - Jakarta",
+						"address": "Grand Slipi Tower Lt. 15, Blok I,J,K dan L, Jl. S. Parman Kav. 22-24, Jakarta 11480",
+						"pic": "Liliana Kurniawan",
+						"manager": "",
+						"tel1": "+6221-29022338",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29022339",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Light - Jakarta",
+						"address": "Grand Slipi Tower Lt. 37, Jl. S. Parman Kav. 22-24, Jakarta Barat",
+						"pic": "Erwin",
+						"manager": "",
+						"tel1": "+6221-29022322",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29022321",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Power Vision - Jakarta",
+						"address": "APL Tower Lt. 33 Unit T5-T6, Jl. Jend. S. Parman Kav. 28, Podomoro City, Grogol, Jakarta Barat 11470",
+						"pic": "Susanto",
+						"manager": "",
+						"tel1": "+6221-29339505",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29339506",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Viva - Jakarta",
+						"address": "Grand Slipi Tower, Lobby D, Jl. Letjen S. Parman Kav. 22-24, Jakarta Barat",
+						"pic": "Bertha Satyadi Umbul",
+						"manager": "",
+						"tel1": "+6221-31990058",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-31990057",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Wisdom - Jakarta",
+						"address": "Grand Slipi Tower, Lobby D, Jl. Letjen S. Parman Kav. 22-24, Jakarta 111480",
+						"pic": "Lie Kai Fung",
+						"manager": "",
+						"tel1": "+6221-29022598",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29022596",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Strong Agency - Jakarta",
+						"address": "Gedung Agung Podomoro (APL Tower) Lt. 36 Unit T5, Central Park, Jl. Letjend S. Parman, Jakarta Barat",
+						"pic": "Karto",
+						"manager": "",
+						"tel1": "+6221-29119119",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29119118",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Trust Advisor Kebon Jeruk - Jakarta",
+						"address": "Jl. Lapangan Bola No. 9 A, Kebon Jeruk, Jakarta  Barat",
+						"pic": "Merry",
+						"manager": "",
+						"tel1": "+6221-5309216",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Wealth Agency - Jakarta",
+						"address": "APL Tower Lt. 33 T.8, Jl. LetJend. S. Parman Kav. 28, Podomoro City, Grogol, Jakarta 11470",
+						"pic": "Jie Tjie Fie",
+						"manager": "",
+						"tel1": "+6221-29034511",
+						"tel2": "+6221-29034512",
+						"tel3": "",
+						"fax1": "+6221-58322291",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "JAKARTA PUSAT",
+				"branches": [
+					{
+						"code": "",
+						"agency": "All Star Corporation - Jakarta",
+						"address": "Menara Dea, Tower 2 Lt. 8, Jl. Mega Kuningan Barat Kav. E4.3 No. 1-2, Kuningan Timur",
+						"pic": "Dendy Gunawan",
+						"manager": "",
+						"tel1": "+6221-5761220",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-5761221",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "B Agency - Jakarta",
+						"address": "Apartemen Thamrin Residence, Ruko Unit RC-05J, Jakarta 10230",
+						"pic": "Lanny Kardiman",
+						"manager": "",
+						"tel1": "+6221-29932488",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29932485",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Empower Inc - Jakarta",
+						"address": "Gedung Lippo Kuningan Lt. 8D, Jl. HR Rasuna Said Kav. B12, Jakarta 12940",
+						"pic": "Pit Siung",
+						"manager": "",
+						"tel1": "+6221-29110008",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29937239",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "EXCELLENT STARS - Jakarta",
+						"address": "Multivision Tower Lt. 5, Jl. Kuningan Mulia Lot 9B, Jakarta Selatan 12980",
+						"pic": "Doddy Nelwan",
+						"manager": "",
+						"tel1": "+6221-29380008",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "fp one - Jakarta",
+						"address": "Tower One, 8th floor, suite #06-07, Jl. KH Mas Mansyur Kav. 126, Jakarta Pusat 10220",
+						"pic": "Cassandra Farrell",
+						"manager": "",
+						"tel1": "+6221-29529368",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29529360",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Infiniteam - Jakarta",
+						"address": "Gajah Mada Tower Lt. 22 Unit 09, Jl. Gajah Mada No. 19-26, Jakarta Pusat",
+						"pic": "Daniel Ardi Prasadja",
+						"manager": "",
+						"tel1": "+6221-6344172",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "MA Agency - Jakarta",
+						"address": "Taman Sari Parama Boutique Office 7F Jl. KH Wahid Hasyim 84-88 Jakarta 10340",
+						"pic": "Jeannette Sulindro",
+						"manager": "",
+						"tel1": "021-22346018-19",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-3902229",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "MRT Eagles Favor - Jakarta",
+						"address": "Gedung Jaya Lt. 5, Jl. MH Thamrin kav 5, Jakarta 10250",
+						"pic": "Martinus",
+						"manager": "",
+						"tel1": "+6221-3908950",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Noble Agency - Jakarta",
+						"address": "Pusat Bisnis Thamrin City, Jl. Thamrin Booulevard Lt.7, Office Suite No. 08 A,B,C,D, Jakarta Pusat",
+						"pic": "Anni P",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Prodigy - Jakarta",
+						"address": "Menara Thamrin Lt. 1 Suite 108 Prodigy, Jl. MH Thamrin Kav. 3, Jakarta  Pusat 10250",
+						"pic": "Elita Hidayat",
+						"manager": "",
+						"tel1": "+6221-2303858",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-2303868",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Advance - Jakarta",
+						"address": "The Mansion at Dukuh Golf Kemayoran, Office Tower Fontana Fl. 32 Unit B1, Jl. Trembesi Blok D, Jakarta 14410",
+						"pic": "Darmawani",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Barokah - Jakarta",
+						"address": "Menara Ravindo Lt. 12,  Jl. Kebon Sirih Kav. 75, Jakarta 10340",
+						"pic": "Bilkis",
+						"manager": "",
+						"tel1": "+6221-3915131",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Dynasty - Jakarta",
+						"address": "Gedung Jaya Lt. 5, Jl. MH Thamrin No. 12, Jakarta 10340",
+						"pic": "Gustiawan Tan",
+						"manager": "",
+						"tel1": "+6221-3101811",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-3101875",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Fortuna - Jakarta",
+						"address": "Gedung Thamrin City Lt. 6 No. 602-603, Jl. Thamrin Boulevard, Jakarta 10230",
+						"pic": "Shirley Tasada Dipl.ING",
+						"manager": "",
+						"tel1": "+6221-31990973",
+						"tel2": "+6221-31990978",
+						"tel3": "",
+						"fax1": "+6221-31990971",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Smart Synergy - Jakarta",
+						"address": "Gedung Sarinah Lt. 11, Jl. MH Thamrin No. 11, Jakarta 10350",
+						"pic": "Lay Eddy Sartono",
+						"manager": "",
+						"tel1": "+6221-3903551",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-39832172",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Solution - Jakarta",
+						"address": "Intiland Tower Lt. 10, Jl. Jend Sudirman Kav. 32, Jakarta",
+						"pic": "Box Seli Lie",
+						"manager": "",
+						"tel1": "+6221-57851568",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-57851569",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Spirit - Jakarta",
+						"address": "Menara Thamrin Lt.23, Jl. MH Thamrin Kav. 3, Jakarta 10250",
+						"pic": "Tony",
+						"manager": "",
+						"tel1": "+6221-39830619",
+						"tel2": "+6221-2302923",
+						"tel3": "",
+						"fax1": "+6221-39830620",
+						"fax2": "+6221-2303267",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Quantum Agency - Jakarta",
+						"address": "Gedung Wisma Amex Fl.1, Jl. Melawai Raya No. 7, Jakarta 12160",
+						"pic": "Ariantara Arsyaf",
+						"manager": "",
+						"tel1": "+6221-2701170",
+						"tel2": "+6221-2701174",
+						"tel3": "",
+						"fax1": "+6221-2701180",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "SP Group - Jakarta",
+						"address": "Graha Iskandarsyah Lt. 10, Jl. Iskandarsyah Raya No. 66C, Jakarta 12160",
+						"pic": "Soemarlin",
+						"manager": "",
+						"tel1": "+6221-72792027",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-72792027",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Surya Agency - Jakarta",
+						"address": "Jl. Melawai Raya No. 8 Lt. 2, Jakarta 12160",
+						"pic": "Lim Li Li",
+						"manager": "",
+						"tel1": "+6221-29306063",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-3902266",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "True Mission Agency - Jakarta",
+						"address": "Graha MR21 (Jasindo), Jl. Menteng Raya No. 21, Jakarta Pusat",
+						"pic": "Fifi Sofian",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Trust Advisor  - Jakarta",
+						"address": "The Boulevard Office 7-C1 & 7-C2, Jl. Fachrudin Raya No. 5, Kampung Bali (sebelah Hotel Millenium), Jakarta 10250",
+						"pic": "Merry",
+						"manager": "",
+						"tel1": "+6221-31991480",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "JAKARTA SELATAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Amazing Team Corporation - Jakarta",
+						"address": "Menara Palma Lt. 16 Unit 2-3, Jl. HR Rasuna Said Blok X2 Kav. 6, Jakarta 12950",
+						"pic": "Jeremiah Johan",
+						"manager": "",
+						"tel1": "+6221-57957515",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Benefitrust - Jakarta",
+						"address": "Jl. KH Abdullah Syafei Gudang peluru Blok A No. 27B, Tebet, Jakarta Selatan 12830",
+						"pic": "Meni",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Best One Agency - Jakarta",
+						"address": "Wisma Kosgoro Fl. 7, Jl. MH Thamrin Kav. 53, Jakarta 10350",
+						"pic": "Surya Wirata",
+						"manager": "",
+						"tel1": "+6221-2300988",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-3141726",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "DG & Partners - Jakarta",
+						"address": "Setiabudi Building 2 No. 208, Jl. Rasuna Said, Jakarta Selatan",
+						"pic": "Lie Tek Hwa",
+						"manager": "",
+						"tel1": "+6221-52901024",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "DOD Team - Jakarta",
+						"address": "Gedung L'Avenue Lt. 27C, Jl. Raya Pasar Minggu Kav. 16, Jakarta Selatan",
+						"pic": "Poltak Sihombing",
+						"manager": "",
+						"tel1": "+6221-29533300",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Enterprise Agency - Jakarta",
+						"address": "Menara Imperium Lt. 28, Suite B-1, Metropolitan Kuningan Superblok Kav. No. 1, Jl. HR Rasuna Said, Jakarta 12980",
+						"pic": "Renaldy Soetedjo",
+						"manager": "",
+						"tel1": "+6221-83789020",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-83789021",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "enTRpreneur$ - Jakarta",
+						"address": "Menara Standard Chartered fl. 33, Jl. Prof dr Satrio 164, Jakarta",
+						"pic": "Thomas Sugiarto",
+						"manager": "",
+						"tel1": "+6221-25532900",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-25532901",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Evolution Team - Jakarta",
+						"address": "Gran Rubina Business Park Lt. 21, Kawasan Rasuna Epicentrum, Jl. HR Rasuna Said, Jakarta 12960",
+						"pic": "Verawati",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Fin Winner - Jakarta",
+						"address": "Sona Topas Tower Lt. 17, Jl. Jend. Sudirman Kav. 26, Jakarta 12290",
+						"pic": "Helen Susantio",
+						"manager": "",
+						"tel1": "+6221-2506250",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-2506251",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Future Team GA Nusantara - Jakarta",
+						"address": "Eightyeight Building, Tower A Lt. 15F, Jl. Kasablanka Raya Kav. 88, Jakarta 12870",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+6221-29602690",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29612689",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Futureinc - Jakarta",
+						"address": "The H Tower Suite 15 D, Jl. HR Rasuna Said Kav. 20, Jakarta Selatan",
+						"pic": "Ferra Trisiana",
+						"manager": "",
+						"tel1": "+6221-82564670",
+						"tel2": "+6221-82564169",
+						"tel3": "",
+						"fax1": "+6221-33274033",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "IT2",
+						"agency": "Glory Corporation - Jakarta",
+						"address": "Wisma Staco Lt. GF, Jl. Casablanka Raya Kav. 18, Jakarta 12870",
+						"pic": "Lanny Sugiharta",
+						"manager": "",
+						"tel1": "+6221-8317222",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-8317219",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "GP United - Jakarta",
+						"address": "Lippo Kuningan Lt. 15, Jl. HR Rasuna Said Kav. B-12, Jakarta 12920",
+						"pic": "Gencar",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Grand Vision - Jakarta",
+						"address": "Eighty Eight @Kasablanka Office Tower, Lt. 26 Unit E, Jl. Kasablanka Kav. 88, Jakarta Selatan",
+						"pic": "Carolus Wisry Sanrow",
+						"manager": "",
+						"tel1": "+6221-29681681",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29681680",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Infigy Group - Jakarta",
+						"address": "Gran Rubina Business Park Lt. 21 Unit E, Kawasan Rasuna Epicentrum, Jl. HR Rasuna Said, Jakarta 12940",
+						"pic": "Tek Holman Cendana",
+						"manager": "",
+						"tel1": "+6221-5200228",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-52921258",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Inspiring - Jakarta",
+						"address": "Lippo Kuningan Lt. 8, Jl. HR. Rasuna Said Kav. B-12, Jakarta 12920",
+						"pic": "Wong Agus Tjahjadi",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Miracle Agency - Jakarta",
+						"address": "Sahid Sudirman Centre Lt. 53 Unit H, Jl. Jend. Sudirman No. 86, Jakarta 10220",
+						"pic": "Johan",
+						"manager": "",
+						"tel1": "021-22535473 / 021-22532576",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "021-22532982",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "One Favor - Jakarta",
+						"address": "Kota Kasablanka Lt. 5 Unit B, Jl. Kasablanka Raya Kav. 88, Jakarta Selatan",
+						"pic": "Hellen Hakim",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "One Vision - Jakarta",
+						"address": "Tamara Centre Lt. 05, Suite 504, Jl. Jend. Sudirman Kav. 24, Jakarta Selatan",
+						"pic": "Wahidin",
+						"manager": "",
+						"tel1": "+6221-5202981",
+						"tel2": "+6221-5202983",
+						"tel3": "",
+						"fax1": "+6221-5202980",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Prime Agency - Jakarta",
+						"address": "Kasablanka 88 Tower A, Lt. 6 Unit D, Jl. Casablanka Kav.88, Jakarta 12870",
+						"pic": "Ketty Go",
+						"manager": "",
+						"tel1": "+6221-29568599",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29568601",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Ant - Jakarta",
+						"address": "Komplek Apartemen Taman Rasuna, Rasuna Office Park EO-01, Jl. HR Rasuna Said, Kuningan, Jakarta 12940",
+						"pic": "Wawat Herwandi S",
+						"manager": "",
+						"tel1": "+6221-83786443",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Cahaya - Jakarta",
+						"address": "Menara 165 Lt. 8, Unit D Zona A, Jl. TB. Simatupang Kav. 1, Jakarta 12560",
+						"pic": "Endah Muthiah",
+						"manager": "",
+						"tel1": "+6221-29406439",
+						"tel2": "+6221-29406440",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Empire - Jakarta",
+						"address": "Menara Imperium Lt. 22C, Jl. Rasuna Said Kav. 1, Jakarta 12980",
+						"pic": "Domenico Cakrawala",
+						"manager": "",
+						"tel1": "+6221-83781588",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-83781589",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Matahari - Jakarta",
+						"address": "Epicentrum Walk SOS Lt. 7 Unit 710A, Jl. HR Rasuna Said, Kuningan, Jakarta Selatan 12940",
+						"pic": "Syamsirsyah",
+						"manager": "",
+						"tel1": "+6221-56100212",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-56100213",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Smart Team - Jakarta",
+						"address": "Graha Tunas Kav. D Lt. 1, Warung Jati Buncit No. 63 Unit A-B, Jakarta Selatan 12740",
+						"pic": "Dami Hartati",
+						"manager": "",
+						"tel1": "+6221-7988745",
+						"tel2": "+6221-7970286",
+						"tel3": "",
+						"fax1": "+6221-79159805",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Victory - Jakarta",
+						"address": "Gedung 88 Tower A, Lt. 25 Unit B-F, Kota Kasablanka, Jl. Casablanka Raya Kav. 88, Jakarta Selatan 12870",
+						"pic": "T.J. Timotius",
+						"manager": "",
+						"tel1": "+6221-29568733",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29568762",
+						"fax2": "+6221-29568762",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Rich and Grow Agency - Jakarta",
+						"address": "Eightyeight @Kasablanka Office Tower Lt. 9 Unit A, Jl. Casablanka Kav. 88, Jakarta 12870",
+						"pic": "Supardi Husin",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Skyline - Jakarta",
+						"address": "Lippo Kuningan Lt. 15 Unit C, Jl. HR Rasuna Said Kav. B-12, Jakarta 12920",
+						"pic": "Setiawan Nurtjahja",
+						"manager": "",
+						"tel1": "+6221-5761220",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-5761221",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "The Best Vision - Jakarta",
+						"address": "Gedung Menara Imperium Lt. 20 Suite D, Metropolitan Kuningan Superblok Kav. 1, Jl. Rasuna Said, Jakarta 12980",
+						"pic": "Ratna Paula Sutedja",
+						"manager": "",
+						"tel1": "+6221-83794348",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Unity Agency - Jakarta",
+						"address": "Plaza Central Lt. 5A, Jl. Jend. Sudirman Kav. 47, Jakarta 12930",
+						"pic": "Audityaningrum",
+						"manager": "",
+						"tel1": "+6221-5705069",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-5704760",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Xpand - Jakarta",
+						"address": "Gedung Arthaloka Lt. 16 Suite 1610, Jl. Jend. Sudirman kav. 2, Jakarta 10220",
+						"pic": "Dewi Sawitri Sudibya",
+						"manager": "",
+						"tel1": "+6221-57933228",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "PCA1",
+						"agency": "Priority Corporation Jakarta",
+						"address": "Puri Indah Financial Tower Unit 1606 Jl. Puri Lingkar Dalam Blok T8 Jakarta 11640",
+						"pic": "dr.  Iky Didik (00067061)",
+						"manager": "PT Mitra Prioritas  Makmur",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "INA1",
+						"agency": "IN & Associates",
+						"address": "Sopodel Tower , Tower B, Lt. 10 Unit 8 Jl. Mega Kuningan Barat III Jakarta Selatan",
+						"pic": "Indra Hoesein",
+						"manager": "PT Insan Nusa Nayottama Awra",
+						"tel1": "021-50806598-99",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "GORONTALO",
+		"cities": [
+			{
+				"city": "GORONTALO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Blessing - Gorontalo",
+						"address": "Jl. Jaksa Agung Suprapto No. 45, Komp. Toko Roberta, Kel. Limba U II RT 2 RW 3, Kota Selatan, Gorontalo",
+						"pic": "Eddy Gunawan Winarta",
+						"manager": "",
+						"tel1": "+62435-835004",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62435-835005",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TELAGA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Seventh Sky - Gorontalo",
+						"address": "Jl. Ahmad A. Wahab Dusun V, Desa Luhu, Kec. Telaga, Gorontalo 96181",
+						"pic": "Novardi Rahim",
+						"manager": "",
+						"tel1": "+62435-838523",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "JAMBI",
+		"cities": [
+			{
+				"city": "JAMBI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Fin Winner - Jambi",
+						"address": "Jl. Halim Perdana Kusuma No. 6-7, Depan Koni Tri Lomba Juang, Pasar Jambi 36134",
+						"pic": "Helen Susantio",
+						"manager": "",
+						"tel1": "+62741-7555960",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Miracle Agency - Jambi",
+						"address": "Jl. Kol. Pol. M. Taher No. 41-42, Jambi",
+						"pic": "Ong Agustina Taslim",
+						"manager": "",
+						"tel1": "+62741-351163",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Believe - Jambi",
+						"address": "Jalur 3, Jl. Lintas Sumatra RT 009 RW 004, Sungai Ulak, Jambi",
+						"pic": "Hj. Ranita",
+						"manager": "",
+						"tel1": "+62746-21829",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Diamond - Jambi",
+						"address": "Jl. Kol. M. Taher No. 3 (sebelah Cafe Dolen), Talang Banjar Jambi Selatan, Jambi",
+						"pic": "Beben Chaniago",
+						"manager": "",
+						"tel1": "+62741-7551873",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62741-7551873",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Jambi",
+						"address": "Komplek Ruko Abadi No. A-5, Jl. Gatot Subroto, Jambi 36134",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+62741-7550487",
+						"tel2": "+62741-7550489",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Platinum Diamond - Jambi",
+						"address": "Jl. Lintas Sumatera Sungai Ulak Km. 3, Bangko, Jambi",
+						"pic": "Budiantono",
+						"manager": "",
+						"tel1": "+62746-21891",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62746-21891",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Synergy - Jambi",
+						"address": "Jl. Bapadal No. 4, Kecamatan Jelutung, Kel. Cempaka  Putih,  Jambi",
+						"pic": "Alex Salim",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "MUARO BUNGO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Diamond - Muaro Bungo",
+						"address": "Komplek Wiltop Bungo Plaza No. G10, Muaro Bungo, Jambi",
+						"pic": "Beben Chaniago",
+						"manager": "",
+						"tel1": "+62747-7324106",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "JAWA BARAT",
+		"cities": [
+			{
+				"city": "BANDUNG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "fp one - Bandung",
+						"address": "Jl. Moch Ramdhan No. 82, Bandung",
+						"pic": "Paulus Mesias Sendjaja",
+						"manager": "",
+						"tel1": "+6222-5209800",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Match Team - Bandung",
+						"address": "Rukan Jl. Jend. Gatot Subroto No.361, Bandung",
+						"pic": "Abdi Istora Simanjuntak",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Freedom Team - Bandung",
+						"address": "Jl. Sunda No. 7C, Bandung 40262",
+						"pic": "Yustini, S.Kom",
+						"manager": "",
+						"tel1": "+6222-4211788",
+						"tel2": "+6222-4219978",
+						"tel3": "",
+						"fax1": "+6222-4211799",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Legacy Inc - Bandung",
+						"address": "Jl. Pasir Kaliki No. 178, Bandung",
+						"pic": "Andre Gunawan",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Ant - Bandung",
+						"address": "Jl. Achmad Yani 271C, Bandung 40114",
+						"pic": "Wawat Herwandi S",
+						"manager": "",
+						"tel1": "+6222-7270859",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6222-7217212",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Billionaires - Bandung",
+						"address": "Jl. Terusan Sutami Kav. 2 RT. 07 RW. 04 Sarijadi, Sukasari, Bandung",
+						"pic": "Leamartin Laurensius",
+						"manager": "",
+						"tel1": "+6222-87783399",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Dynamic - Bandung",
+						"address": "Jl. Pasar Kaliki - Ruko Paskal Hyper Square Blok B63-65, Bandung 40181",
+						"pic": "Heriyanto",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Fortune - Bandung",
+						"address": "Jl. Prof Dr Ir Sutami 69, Sukarasa, Bandung 40152",
+						"pic": "Hardinata Djajanegara",
+						"manager": "",
+						"tel1": "+6222-2013276",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6222-6046312",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Bandung",
+						"address": "Ruko Metro Indah Mall Blok D57, Jl. Soekarno Hatta, Bandung 40287",
+						"pic": "Risnawati",
+						"manager": "",
+						"tel1": "+6222-7536358",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Sparkling - Bandung",
+						"address": "Ruko Surapati Core Blok J No. 7, Jl. PHH Mustofa 39, Bandung",
+						"pic": "Irene M. Setyanugraha",
+						"manager": "",
+						"tel1": "+6222-87241426",
+						"tel2": "+6222-87241427",
+						"tel3": "+6222-87242727",
+						"fax1": "+6222-87242846",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Stars Agency - Bandung",
+						"address": "Paskal Hypersquare, Jl. Pasirkaliki No. 25-27, Blok D-47,48,49, Bandung 40181",
+						"pic": "Leonardus Bing",
+						"manager": "",
+						"tel1": "+6222-86060778",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6222-86060987",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Rock Agency - Bandung",
+						"address": "Jl. Cipaganti No. 140, Bandung",
+						"pic": "Henry",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Sentosa Ananda Agency - Bandung",
+						"address": "Jl. Buah Batu No. 107 Bandung",
+						"pic": "Pato Ruslie",
+						"manager": "",
+						"tel1": "+6222-7301475",
+						"tel2": "+6222-7322227",
+						"tel3": "+6222-7307020",
+						"fax1": "+6222-7313509",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Sun Diamond - Bandung",
+						"address": "Buah Batu 100A, Bandung 40262",
+						"pic": "Lin Indriyani",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Tom Agency - Bandung",
+						"address": "Wisma Bumi Putera Fl. 7, Suite 701A, Jl. Asia Afrika No. 141-149, Bandung",
+						"pic": "Verry Tom Harry",
+						"manager": "",
+						"tel1": "+6222-61135483",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "BEKASI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PAM Agency - Bekasi",
+						"address": "Ruko Grand Galaxy, Jl. Boulevard Raya Blok G No. 30 Galaxy City, Bekasi Selatan",
+						"pic": "Marzellinus Thomas Saka",
+						"manager": "",
+						"tel1": "+6221-99273009",
+						"tel2": "+6221-8805822",
+						"tel3": "",
+						"fax1": "+6221-88343120",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Fighters - Bekasi",
+						"address": "Ruko Celebration Boulevard Blok AA12 No. 96-97, Grandwisata, Bekasi",
+						"pic": "Dedi Jumaidi",
+						"manager": "",
+						"tel1": "+6221-37636768",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-82616356",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "BOGOR",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Spirit - Bogor",
+						"address": "Jl. Sholeh Iskandar, Komplek Ruko 16 (Enam Belas) No. I O, Bogor 16165",
+						"pic": "Oyen Tribakti Tjandra",
+						"manager": "",
+						"tel1": "+62251-8654184",
+						"tel2": "+62251-8654581",
+						"tel3": "+62251-8655626",
+						"fax1": "+62251-8653840",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "CIAMIS",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Taqwa - Ciamis",
+						"address": "Jl. Jend. Ahmad Yani No. 57, Ciamis 46211",
+						"pic": "Widi Keswianto",
+						"manager": "",
+						"tel1": "+62265-772716",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "CIANJUR",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Khalifah - Cianjur",
+						"address": "Cianjur Trade Corner Blok J, Jl. Raya Bandung, Sukamulya, Cianjur, Jawa Barat",
+						"pic": "Djati Sulastono",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Reinasta Agency - Cianjur",
+						"address": "Jl. KH Abdullah Bin Nuh No. 5, RT 04 RW 14, Kel. Sawah Gede Kec. Cianjur 43212",
+						"pic": "Hj. Erta Anastasia Anwar",
+						"manager": "",
+						"tel1": "+62263-5083151",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62263-262298",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "CIKARANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Great Star - Cikarang",
+						"address": "Cikarang Technopark, Jl. Inti 1 Blok C1 No. 7, Lippo Cikarang, Bekasi 17550",
+						"pic": "Limen Wilna Winnata",
+						"manager": "",
+						"tel1": "+6221-89905642",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-89915643",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Power Vision - Cikarang",
+						"address": "Ruko Plaza Menteng Blok B No. 6, Jl. MH Thamrin, Lippo Cikarang, Bekasi 17550",
+						"pic": "Susanto",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Sky Agency - Cikarang",
+						"address": "Ruko Metro Boulevard 2, Jl. Niaga Raya Blok B No. 15-16, Cikarang Baru 17550",
+						"pic": "Didik Rakhmad Effendi",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "CIMAHI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Rahmatan Lil Alamin - Cimahi",
+						"address": "Jl. Sentra Raya No. 15, Komp. Town Place, Baros, Cimahi",
+						"pic": "Cipta Hadi",
+						"manager": "",
+						"tel1": "+6222-86001233",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6222-86001233",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Special One Agency - Cimahi",
+						"address": "Jl. H. Amir Machmud (Raya Barat) No. 818B, Padasuka, Cimahi",
+						"pic": "Ariyanto",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "CIREBON",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Abadi  Agency - Cirebon",
+						"address": "Jl. Kapten Samadikun No. 28, Cirebon",
+						"pic": "Andjelo Anasti",
+						"manager": "",
+						"tel1": "+62231-246092",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62231-246092",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "CB8",
+						"agency": "Rising Star Cirebon",
+						"address": "Cirebon Super Blok (CSB) Mal Ruko Chelsea Blue No. 12A Cirebon",
+						"pic": "",
+						"manager": "Cornelius Dandung (00540589)",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Super Agency - Cirebon",
+						"address": "Ruko Permata Hijau No. 4, Jl. Brigjend. Dharsono, Cirebon",
+						"pic": "Dian Anggraeni",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "DEPOK",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Action Inc - Depok",
+						"address": "Komp. Ruko Saladin Blok B No. 10, Jl. Margonda Raya, Depok 16431",
+						"pic": "Avianto Setiawan",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Victory - Depok",
+						"address": "Jl. Ir. H. Juanda, Rukan Pesona View Blok  E No. 3, Kel. Mekarjaya, Kec Sukmajaya, Depok 16411",
+						"pic": "Henny Heryandini",
+						"manager": "",
+						"tel1": "+6221-77840000",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-77840000",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "GARUT",
+				"branches": [
+					{
+						"code": "",
+						"agency": "MRT Amanah - Garut",
+						"address": "Jl. Pramuka / Guntur, Pertokoan IBC Blok D/5, Garut",
+						"pic": "Dadah Masidah",
+						"manager": "",
+						"tel1": "+62262-2246908",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "JATIBARANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Abadi Agency - Jatibarang",
+						"address": "Jl. Raya Cibulak No. 14, Jatibarang",
+						"pic": "Andjelo Anasti",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KARAWANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PAM Agency - Karawang",
+						"address": "Ruko Green Village Blok QG No. 26-27, Sukaluyu, Teluk Jambe Timur, Karawang",
+						"pic": "R. Uminingsih",
+						"manager": "",
+						"tel1": "+62267-7099798",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Titanium Agency - Karawang",
+						"address": "Ruko Dharmawangsa 2, Jl. Tarumanegara Blok B. No.26",
+						"pic": "Andri Susilo",
+						"manager": "",
+						"tel1": "+62267-400339",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62267-8450295",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KOTA BANJAR",
+				"branches": []
+			},
+			{
+				"city": "KUNINGAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Ukhuwah Agency Kuningan - Kuningan",
+						"address": "Ruko Taman Kota No. 12, Kuningan, Jawa Barat",
+						"pic": "Aripin",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "MAJALENGKA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Taqwa - Majalengka",
+						"address": "Komplek Perkantoran Ekuator Blok E2, Jl. KH Abdul Halim Km. 2.5, Majalengka Kulon 45418",
+						"pic": "Widi Keswianto",
+						"manager": "",
+						"tel1": "+62233-8890063",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PURWAKARTA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PAM Agency - Purwakarta",
+						"address": "Jl. Raya Sadang No. 414, Kel. Ciwangi Kec. Bungursari, RT 01 RW 01, Purwakarta, Jawa Barat",
+						"pic": "Novie Istibudhiwati",
+						"manager": "",
+						"tel1": "+62264-8223692",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Sentosa Abadi - Purwakarta",
+						"address": "Jl. Ibrahim Singadilaga No. 103, Purwakarta 41115",
+						"pic": "Pato Ruslie",
+						"manager": "",
+						"tel1": "+62264-201222",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SUBANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Prioritas - Subang",
+						"address": "Jl. Pasar Baru No. 26A, Subang, Jawa Barat, Rantepao, Sulsel 91831",
+						"pic": "Willy A Priyanto",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SUKABUMI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Life Vision Agency - Sukabumi",
+						"address": "Jl. Bhayangkara No. 201, Sekabatu, Gunung Puyuh, Sukabumi 43114",
+						"pic": "Frenky Sutjipto",
+						"manager": "",
+						"tel1": "+62266-6250099",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TASIKMALAYA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "PAM Agency - Tasikmalaya",
+						"address": "Jl. HZ. Mustofa No. 326, Blok C 22A, Tasikmalaya",
+						"pic": "Novie Istibudhiwati",
+						"manager": "",
+						"tel1": "+62265-2355764",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Match Team - Tasikmalaya",
+						"address": "Ruko Sutsen No. 3A, Jl. Sutisna Senjaya No. 199, Tasikmalaya",
+						"pic": "Abdi Istora Simanjuntak",
+						"manager": "",
+						"tel1": "+62265-328880",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "JAWA TENGAH",
+		"cities": [
+			{
+				"city": "CEPU",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Elite Agency - Cepu",
+						"address": "Jl. Surabaya 56-2, Ruko Patra Square-Ketapang, Cepu Blora",
+						"pic": "Elisabeth Sekarninggrat",
+						"manager": "",
+						"tel1": "+62296-422201",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "CILACAP",
+				"branches": [
+					{
+						"code": "",
+						"agency": "MRT Champion - Cilacap",
+						"address": "Ruko Kauman Perwira No. 1, Jl. Kauman, Cilacap",
+						"pic": "Martinus",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Advantage - Cilacap",
+						"address": "Jl. Perintis Kemerdekaan No. 149 Ruko Kebon Manis No. 1 Cilacap 53235",
+						"pic": "Ekandono Hargo Putro",
+						"manager": "",
+						"tel1": "+62282-543372",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Tom Agency - Cilacap",
+						"address": "Ruko Gatsula, Jl. Sulawesi No. 10, Gunung Simping, Cilacap 53224",
+						"pic": "Verry Tom Harry",
+						"manager": "",
+						"tel1": "+62282-5227137",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "JEPARA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Future Team - Jepara",
+						"address": "Jl. Kol. Sugiyono 286A, Jepara 59416",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KUDUS",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Future Team - Kudus",
+						"address": "Ruko Sudirman Square Kav. B21, Jl. Jend. Sudirman No. 101, Kudus",
+						"pic": "Nur Azizah",
+						"manager": "",
+						"tel1": "+62291-443779",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "MAGELANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Future Team - Magelang",
+						"address": "Ruko Metro Square Blok C 10-11, Metroyudan, Magelang",
+						"pic": "Enggar Yustika",
+						"manager": "",
+						"tel1": "+62293-327123",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62293-326799",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PATI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Future Team - Pati",
+						"address": "Jl. Ahmad Yani No. 04, Perumnas Winong, Pati, Jawa Tengah 59112",
+						"pic": "Teguh Widodo",
+						"manager": "",
+						"tel1": "+62295-382495",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Force One - Pati",
+						"address": "Jl. Raya Pati Juwana Km. 3, Growong Lor, Pati 59185",
+						"pic": "Johan F. Mononutu",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PEKALONGAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Hero Agency - Pekalongan",
+						"address": "Dupan Square Ruko, Blok B2 No. 21, Jl. Dr Sutomo, Pekalongan",
+						"pic": "Agus Dwiyanto",
+						"manager": "",
+						"tel1": "+62285-4416464",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Spirit - Pekalongan",
+						"address": "Jl. Diponegoro No. 26 Pekalongan Jawa Tengah",
+						"pic": "Destina Sjamsuri",
+						"manager": "",
+						"tel1": "+62285-437116",
+						"tel2": "+62285-437117",
+						"tel3": "",
+						"fax1": "+62285-437118",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PEMALANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Sehati - Pemalang",
+						"address": "Jl. Jend. Sudirman Ruko No. A1, Pemalang, Jawa Tengah",
+						"pic": "Kusdiarto",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PURWOKERTO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "MRT Champion - Purwokerto",
+						"address": "Gedung Graha MRT, Jl. Jend. Sudirman Timur No. 889, Purwokerto 53147",
+						"pic": "Martinus",
+						"manager": "",
+						"tel1": "+62281-626336",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Brilliant Future Team - Purwokerto",
+						"address": "Jl. Gatot Subroto No. 18-20, Purwokerto 53115",
+						"pic": "Ivan Bahtera, BBA, MBA",
+						"manager": "",
+						"tel1": "+62281-641001",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Sentosa Best - Purwokerto",
+						"address": "Ruko Satria Plaza Blok AB 6, Jl. Jend. Sudirman, Purwokerto 53114",
+						"pic": "Andajani",
+						"manager": "",
+						"tel1": "+62281-5737562",
+						"tel2": "+62281-641211",
+						"tel3": "",
+						"fax1": "+62281-641211",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PURWOREJO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Dinasti Agency - Purworejo",
+						"address": "Jl. A. Yani No. 35, Purworejo",
+						"pic": "Suryadi, S.Sos",
+						"manager": "",
+						"tel1": "+62275-3140879",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "REMBANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Future Team - Rembang",
+						"address": "Jl. Pemuda Km. 3, Perempatan Galonan, Desa Ngotet, Rembang 59219",
+						"pic": "Teguh Widodo",
+						"manager": "",
+						"tel1": "+62295-6980067",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62295-6980067",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Force One - Rembang",
+						"address": "Jl. Gajah Mada No. 48, Rembang, Jawa Tengah",
+						"pic": "Johan F. Mononutu",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SALATIGA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Advantage - Salatiga",
+						"address": "Jl. Imam Bonjol No. 94, Sidorejolor, Salatiga- Jawa Tengah",
+						"pic": "Budi Prasetyo",
+						"manager": "",
+						"tel1": "+62298-316567",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62298-316567",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SEMARANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "fp one - Semarang",
+						"address": "Jl. Singosari Raya No. 69, Semarang 50241",
+						"pic": "Cassandra Farrell",
+						"manager": "",
+						"tel1": "+6224-8453164",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Great Life Agency - Semarang",
+						"address": "Ruko Citra Grand London C/19, Jl. Kompol R. Sokanto, Semarang 50276",
+						"pic": "Drijo Handojo",
+						"manager": "",
+						"tel1": "+6224-76719117",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "HD Ananda Agency - Semarang",
+						"address": "Jl. Jend. Sudirman No.81 A, Semarang 50141",
+						"pic": "Adi Wijaya",
+						"manager": "",
+						"tel1": "+6224-7611929",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6224-7611930",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Larasati Ananda Agency - Semarang",
+						"address": "Jl. Indrapasta No.74, Semarang 50131",
+						"pic": "Affandy Antonius Tedjokusumo",
+						"manager": "",
+						"tel1": "+6224-3587393",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6224-3587393",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Dynamic - Semarang",
+						"address": "Jl. Cipto No. 151 Blok B-C, Semarang",
+						"pic": "Heriyanto",
+						"manager": "",
+						"tel1": "+6224-8452831",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Semarang",
+						"address": "Jl. Lamper Tengah Raya, Ruko Blok C No. 7-8, Semarang 50248",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+6224-76745656",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6224-76745666",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Prioritas - Salatiga",
+						"address": "Ruko Mutiara Gama, Jl. Gajah Raya No. 30, RT 07/IV, Gayamsari, Semarang",
+						"pic": "Willy A Priyanto",
+						"manager": "",
+						"tel1": "+6224-6731508",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "True Agency - Semarang",
+						"address": "Jl. Boulevard Graha Padma B1 No. 1-2, RT 02 RW 03, Kelurahan Tambakharjo, Kecamatan Semarang Barat, Semarang, Jawa Tengah 50146",
+						"pic": "Hermanto Tjahjoseputro",
+						"manager": "",
+						"tel1": "+6224-76431728",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SOLO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Future Team - Solo",
+						"address": "Jl. Kolonel Sutarto Ruko Jebres No. 2, Solo",
+						"pic": "Enggar Yustika",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Prioritas - Solo",
+						"address": "Ruko Solo Baru, Blok HD 4-5, Sukoharjo, Solo 57552",
+						"pic": "Willy A Priyanto",
+						"manager": "",
+						"tel1": "+62271-6727850",
+						"tel2": "+62271-6727853",
+						"tel3": "",
+						"fax1": "+62271-620891",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Raising - Solo",
+						"address": "Jl. Yosodipuro No. 135, Ruko Yosodipuro B-2, Solo 57139",
+						"pic": "Liem Aries Christanto",
+						"manager": "",
+						"tel1": "+62271-736972",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62271-736872",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TEGAL",
+				"branches": [
+					{
+						"code": "",
+						"agency": "FP One - Tegal",
+						"address": "Jl. HOS Cokroaminoto No. 31, Tegal, Jawa Tengah 52114",
+						"pic": "Cassandra Farrell",
+						"manager": "",
+						"tel1": "+62283-353661",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "HD Damar - Tegal",
+						"address": "Palm Town Ruko No. 10, Jl. Arjuna, Tegal 52125",
+						"pic": "Sudarisman",
+						"manager": "",
+						"tel1": "+62283-340286",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62283-340286",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Tegal",
+						"address": "Ruko Taman Sejahtera (TS) No. 9, Jl. Taman Sejahtera, Tegal 52114",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+62283-4532392",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Sehati - Tegal",
+						"address": "Jl. Sultan Agung No. 164, Tegal 52124",
+						"pic": "Kusdiarto",
+						"manager": "",
+						"tel1": "+62283-4531908",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "WONOSOBO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Future Team - Wonosobo",
+						"address": "Ruko Green Harmoni 2 No. 6, Jl. Mayjen Bambang Sugeng, Mirombo, Wonosobo",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+62286-321607",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "JAWA TIMUR",
+		"cities": [
+			{
+				"city": "BANGKALAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Titans Agency - Bangkalan",
+						"address": "Khayangan Residences RBS, Jl. Halim Perdana Kusuma, Bangkalan 69171",
+						"pic": "David Hendrawan",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "MADIUN",
+				"branches": [
+					{
+						"code": "MA2",
+						"agency": "Rising Star Madiun",
+						"address": "Jl. Trunojoyo No. 122 - Madiun",
+						"pic": "Ricky Hoetomo (00028261)",
+						"manager": "PT Muda Dan Luar Biasa",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "BANYUWANGI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Integrity - Banyuwangi",
+						"address": "Jl. A. Yani No. 64, Banyuwangi",
+						"pic": "Fera Hartono",
+						"manager": "",
+						"tel1": "+62333-415465",
+						"tel2": "+62333-416278",
+						"tel3": "",
+						"fax1": "+62333-425447",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "BLITAR",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Winners Agency - Blitar",
+						"address": "Jl. Dr. Wahidin, Ruko Semeru Point No. 15H, Blitar",
+						"pic": "Kartika Dewi",
+						"manager": "",
+						"tel1": "+62342-814074",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "BOJONEGORO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Elite Agency - Bojonegoro",
+						"address": "Jl. Veteran 188, Bojonegoro",
+						"pic": "Elisabeth Sekarninggrat",
+						"manager": "",
+						"tel1": "+62353-889585",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Solid - Bojonegoro",
+						"address": "Jl. DI Panjaitan No. 03, Bojonegoro",
+						"pic": "Edy Theisjen",
+						"manager": "",
+						"tel1": "+62353-351669",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "GRESIK",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Solid - Gresik",
+						"address": "Ruko Grand Kartini, Jl. Ais Nasution Kav. 29, Gresik",
+						"pic": "Andre Wijaya",
+						"manager": "",
+						"tel1": "+6231-3981688",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Sky Star - Gresik",
+						"address": "Jl. Dr. Wahidin Sudiro Husodo No. 788, Ruko Green Garden Blok A2 No. 1, Dahanrejo, Kebomas, Gresik",
+						"pic": "Chintya Cindy Adinata Ong",
+						"manager": "",
+						"tel1": "+6231-5321949",
+						"tel2": "+6231-5612829",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "JEMBER",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Golden Eagle - Jember",
+						"address": "Jl. PB Sudirman Patrang, Jember",
+						"pic": "Tjan Stefani Margareta",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Solid - Jember",
+						"address": "Ruko Gajah Mada Square Blok A-6, Jl. Gajah Mada No. 187, Jember",
+						"pic": "Robert Theisjen",
+						"manager": "",
+						"tel1": "+62331-429113",
+						"tel2": "+62331-429095",
+						"tel3": "",
+						"fax1": "+62331-429103",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Titans Agency - Jember",
+						"address": "Jl. Brawijaya Ruko De Rainbow Square Blok E, Jember 16833",
+						"pic": "David Hendrawan",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "JOMBANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Berlian Agency - Jombang",
+						"address": "Ruko Cempaka Mas B/6, Jombang",
+						"pic": "Sulis Puspita Agung Dewantari",
+						"manager": "",
+						"tel1": "+62321- 8704941",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Prosperity - Jombang",
+						"address": "Jl. Gusdur No. 145 Jombang",
+						"pic": "Goenawan Soehadi",
+						"manager": "",
+						"tel1": "+62321-860190",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KEDIRI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Berlian Agency - Kediri",
+						"address": "Jl. Kilisuci No. 79B, Kediri",
+						"pic": "Sulis Puspita Agung Dewantari",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Family - Kediri",
+						"address": "Ruko Hayam Wuruk Trade Center, Blok G /1, Kediri",
+						"pic": "Nuzul Kifli",
+						"manager": "",
+						"tel1": "+62354-697300",
+						"tel2": "+62354-692449",
+						"tel3": "",
+						"fax1": "+62354-697400",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Optima - Kediri",
+						"address": "Ruko Mojoreto Indah No. 7, Jl. Kawi, Kediri 64112",
+						"pic": "Iwan Setiawan",
+						"manager": "",
+						"tel1": "+62354-777180",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "LAMONGAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Solid - Lamongan",
+						"address": "Ruko Planet Green, Jl. Sumargo No. 01, Lamongan 62218",
+						"pic": "Robert Theisjen",
+						"manager": "",
+						"tel1": "+62322-311431",
+						"tel2": "+62322-311432",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "MALANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "MRT Super Stars - Malang",
+						"address": "Jl. Raya Sulfat No. 236, Pandanwangi, Blimbing, Malang",
+						"pic": "Poo Henry Purtjahjo",
+						"manager": "",
+						"tel1": "+62341-4359235",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Family - Malang",
+						"address": "Jl. Kedawung No. 67, Malang",
+						"pic": "Nuzul Kifli",
+						"manager": "",
+						"tel1": "+62341-4375454",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Winners Agency - Malang",
+						"address": "Pertokoan Wilis Indah Square, Jl. Simpang Wilis Kavling.7, Malang",
+						"pic": "Mediawati Selamat Kusuma",
+						"manager": "",
+						"tel1": "+62341-555600",
+						"tel2": "+62341-557576",
+						"tel3": "",
+						"fax1": "+62341-555601",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "MOJOKERTO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Harvest Agency - Mojokerto",
+						"address": "Ruko Cokro Blok F No. 35, Jl. Hos Cokroaminoto, Mojokerto",
+						"pic": "Kan Ho",
+						"manager": "",
+						"tel1": "+62321-320990",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Solid - Mojokerto",
+						"address": "Jl. Empunala 280, Mojokerto",
+						"pic": "Edy Theisjen",
+						"manager": "",
+						"tel1": "+62321-325646",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62321-325646",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PAMEKASAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Grace - Pemekasan",
+						"address": "Jl. Raya Sumenep (Sebelah Selatan SPBU Asem Manis) Desa Buddagan, Kec. Pademawu, Pemekasan",
+						"pic": "Lanawati Sanusi",
+						"manager": "",
+						"tel1": "+62324-325722",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62324-325722",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PONOROGO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Future Team - Ponorogo",
+						"address": "Jl. Sukarno Hatta No. 216, Ponorogo",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PROBOLINGGO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Solid - Probolinggo",
+						"address": "Jl. Brigjen Katamso No. 4, Probolinggo",
+						"pic": "Ali Sastroamijoyo",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SAMPANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Grace - Sampang",
+						"address": "Jl. Diponegoro No. 50, Sampang, Madura 69216",
+						"pic": "Lanawati Sanusi",
+						"manager": "",
+						"tel1": "+62823-33825882",
+						"tel2": "+62877-50080085",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Titans Agency - Sampang",
+						"address": "Jl. Jamaluddin No. 99, Sampang, Madura",
+						"pic": "David Hendrawan",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SIDOARJO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Harvest Agency - Sidoarjo",
+						"address": "Ruko Citra Garden Rk 18, Jl. Pagerwojo, Sidoarjo",
+						"pic": "Kan Ho",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Prosperous Agency - Sidoarjo",
+						"address": "Ruko Graha Mutiara Delta Blok C-8, Jl. Diponegoro 12, Sidoarjo",
+						"pic": "Oei Hoesen Widianto",
+						"manager": "",
+						"tel1": "+6231-8075920",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SUMENEP",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Grace - Sumenep",
+						"address": "Jl. Trunojoyo No. 301, Sumenep, Madura",
+						"pic": "Lanawati Sanusi",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SURABAYA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Amazing Agency - Surabaya",
+						"address": "Ruko Villa Bukit Mas RB-16, Surabaya",
+						"pic": "Joedy Santosa",
+						"manager": "",
+						"tel1": "+6221-5616223",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-5616290",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "SB30",
+						"agency": "Million Stars - Surabaya",
+						"address": "Jl. Dharmahusada Utara 36-38B - Surabaya",
+						"pic": "",
+						"manager": "Antonie Siady (00280401)",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "SB29",
+						"agency": "MRT Vision Surabaya",
+						"address": "Pakuwon Centre lt. 21  Surabaya 60271",
+						"pic": "Stefen Stanley  (00300473)",
+						"manager": "PT Profitama Makmur Abadi Bersama",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Aurora Agency - Surabaya",
+						"address": "Ruko Icon 21/MERR, Blok R No. 46, Jl. Ir. H. Soekarno, Surabaya",
+						"pic": "Arief Harianja Purbaruna",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Bright Agency - Surabaya",
+						"address": "Ruko Platinum G-II, Jl. Sukomanunggal Raya, Surabaya",
+						"pic": "Oei Hoesen Widianto",
+						"manager": "",
+						"tel1": "+6231-7326878",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-7326880",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Brilliant Agency - Surabaya",
+						"address": "Kompleks Ruko Permata Bintoro Unit 108 -109, Jl. Ketampon No. 1 Surabaya",
+						"pic": "Shirley Boedihartono",
+						"manager": "",
+						"tel1": "+6231- 5622241",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-5618274",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Dream Team Agency - Surabaya",
+						"address": "Jl. Margorejo Baru 12G, Surabaya",
+						"pic": "Adhi Nugroho",
+						"manager": "",
+						"tel1": "+6231-8438599",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-8438699",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "First Finplanner - Surabaya",
+						"address": "Ruko Bavarian Village Kav. 8H, Jl. Raya Darmo Permai III, Surabaya",
+						"pic": "Harijono",
+						"manager": "",
+						"tel1": "+6231-7327576",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-7327519",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Golden Eagle Agency - Surabaya",
+						"address": "Jl. Raya Mulyosari No. 274, Surabaya",
+						"pic": "Tjan Stefani Margareta",
+						"manager": "",
+						"tel1": "+6231-5995477",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Harvest Agency - Surabaya",
+						"address": "Jl. Jemursari 76 Blok C-15, Surabaya",
+						"pic": "Kan Ho",
+						"manager": "",
+						"tel1": "+6231-8415541",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-84115456",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Hoky 88 Agency - Surabaya",
+						"address": "Ruko Grand City Regency A-12, Jl. Rungkut Madya, Surabaya 60293",
+						"pic": "Hariyanto Tje Djen",
+						"manager": "",
+						"tel1": "+6231-8783312",
+						"tel2": "+6231-72828888",
+						"tel3": "+6231-7258888",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Master Agency - Surabaya",
+						"address": "Jl. Raya Arjuna 138/5-F, Surabaya 60251",
+						"pic": "Elvin Nathania",
+						"manager": "",
+						"tel1": "+6231-5479472",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-5479473",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "MBS Agency - Surabaya",
+						"address": "Jl. Raya Jemursari 101B, Surabaya 60237",
+						"pic": "Andy Sutanto",
+						"manager": "",
+						"tel1": "+6231-8495500",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "MRT Stars - Surabaya",
+						"address": "Jl. Genteng Kali No. 11, Surabaya",
+						"pic": "Martinus",
+						"manager": "",
+						"tel1": "+6231-5614310",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-5614299",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "MRT West Stars - Surabaya",
+						"address": "Jl. HR Muhammad, Ruko Surya Inti Permata, D-7, Surabaya",
+						"pic": "Martinus",
+						"manager": "",
+						"tel1": "+6231-7323850",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-7323851",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "One Agency - Surabaya",
+						"address": "Ruko Darmo Galeria Blok D/26, Jl. Mayjend Sungkono No. 75, Sby 60189",
+						"pic": "Suramin Nagari",
+						"manager": "",
+						"tel1": "+6231-5619353",
+						"tel2": "+6231-5616322",
+						"tel3": "",
+						"fax1": "+6231-5616387",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Family - Surabaya",
+						"address": "Jl. Raya Ngagel No. 77 H, Surabaya",
+						"pic": "Nuzul Kifli",
+						"manager": "",
+						"tel1": "+6231-5030479",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Galaxy - Surabaya",
+						"address": "Jl. Raya Prapen 61-E, Surabaya 60299",
+						"pic": "Titik Liana",
+						"manager": "",
+						"tel1": "+6231-8477888",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-8480000",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru One Vision - Surabaya",
+						"address": "Jl. Raya Nginden No. 29, Surabaya",
+						"pic": "Welly Hartono",
+						"manager": "",
+						"tel1": "+6231-5938857",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Smart  Bung Tomo - Surabaya",
+						"address": "Ruko Sentra Kencana,Jl Bung Tomo No.8 Kav.51 ,Ngagel-Surabaya 60246",
+						"pic": "Ivan Suryanata Nyoto P",
+						"manager": "",
+						"tel1": "+6231-5048444",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-5048443",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Solid - Surabaya",
+						"address": "Jl. Raya Kali Rungkut, Ruko Rungkut Megah Raya Blok N No. 20-22, Surabaya 60293, Jawa Timur",
+						"pic": "Edy Theisjen",
+						"manager": "",
+						"tel1": "+6231-8783388",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-8793016",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Rising Stars - Surabaya",
+						"address": "Jl. Mayjen Sungkono 142-143, Ruko Darmo Galeria C No. 7, Surabaya 60189",
+						"pic": "Eric Agustinus Yapmono",
+						"manager": "",
+						"tel1": "+6231- 5612829",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Synergy Solution Agency - Surabaya",
+						"address": "Ruko Landmark n Shophouses, Jl. Indragiri 12-18, Blok A No. 5, Surabaya 60241",
+						"pic": "Michael Alvin",
+						"manager": "",
+						"tel1": "+6231-5688008",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6231-5663036",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Titans Agency - Surabaya",
+						"address": "Ruko Sentra Fortuna Kav. 19, Jl. Suprapto No. 39-41, Surabaya 60272",
+						"pic": "David Hendrawan",
+						"manager": "",
+						"tel1": "+6231-5490911",
+						"tel2": "+6231-5316876",
+						"tel3": "",
+						"fax1": "+6231-5483226",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Trustee Agency - Surabaya",
+						"address": "Galaxy Bumi Permai, Blok I1 No. 6, Surabaya",
+						"pic": "Wibisono Tjitro",
+						"manager": "",
+						"tel1": "+6231-5952357",
+						"tel2": "+6231-5928905",
+						"tel3": "+6231-5928908",
+						"fax1": "+6231-5952357",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "United Agency - Surabaya",
+						"address": "Jl. Sutorejo Prima Utara 2, PDD 8, Surabaya",
+						"pic": "Andy Guyanto",
+						"manager": "",
+						"tel1": "+6231-58258118",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "WE Agency - Surabaya",
+						"address": "Jl. Embong Tanjung 44B, Surabaya",
+						"pic": "Erlina Gunawan",
+						"manager": "",
+						"tel1": "+6231-5487000",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TUBAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Elite Agency - Tuban",
+						"address": "Ruko Basra, Jl. Basuki Rahmat Kav. F No. 88, Tuban",
+						"pic": "Elisabeth Sekarninggrat",
+						"manager": "",
+						"tel1": "+62356-326076",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62356-326076",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Solid - Tuban",
+						"address": "Jl. Letda Soetjipto No. 2, Tuban",
+						"pic": "Edy Theisjen",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TULUNGAGUNG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Family - Tulungagung",
+						"address": "Ruko Sudirman Trade Centre, Blok D, Tulungagung",
+						"pic": "Nuzul Kifli",
+						"manager": "",
+						"tel1": "+62355-333944",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "KALIMANTAN BARAT",
+		"cities": [
+			{
+				"city": "KETAPANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Equator - Ketapang",
+						"address": "Jl. MT Haryono No. 57, Ketapang 78812",
+						"pic": "Michael Hardi Sutiono",
+						"manager": "",
+						"tel1": "+62534-3036716",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62534-3036715",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KUBU RAYA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Titans Revolution - Kubu Raya",
+						"address": "Jl. Arteri Supadio Ruko No. 1, Kubu Raya, Kalimantan Barat",
+						"pic": "David Hendrawan",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PONTIANAK",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Dynamic - Pontianak",
+						"address": "Komp. Ruko Sentra Bisnis A. Yani Mall, Blok H No. 12A-12B & 15-16, Jl. A. Yani Pontianak",
+						"pic": "Heriyanto",
+						"manager": "",
+						"tel1": "+62561-733388",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62561-764832",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Equator - Pontianak",
+						"address": "Jl. A Yani Komp Sentra Bisnis A Yani Mega Mall blok AA 10-12, Pontianak 78122",
+						"pic": "Michael Hardi Sutiono",
+						"manager": "",
+						"tel1": "+62561-768275",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62561-768810",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Victory - Pontianak",
+						"address": "Jl. Nusa Indah 1, Pontianak",
+						"pic": "T.J. Timotius",
+						"manager": "",
+						"tel1": "+62561-740800",
+						"tel2": "+62561-732020",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Warriors Hero Agency - Pontianak",
+						"address": "Jl. A. Yani No. 110B, Bansir Darat, Pontianak",
+						"pic": "Suhaini",
+						"manager": "",
+						"tel1": "+62561-747768",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SAMBAS",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Active - Sambas",
+						"address": "Jl. Ir. Sucitro (samping Teras BRI, dekat lampu merah) Desa Durian, Sambas, Kalimantan Barat 79462",
+						"pic": "Piter Apolo",
+						"manager": "",
+						"tel1": "+62562-393149",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62562-393149",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SINGKAWANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Active - Singkawang",
+						"address": "Jl. Alianyang No. 18A (Depan Kantor PLN Cab. Singkawang), Kel. Pasiran, Singkawang Barat, Singkawang Kalimantan Barat 79123",
+						"pic": "Piter Apolo",
+						"manager": "",
+						"tel1": "+62562-635763",
+						"tel2": "+62811-909198",
+						"tel3": "",
+						"fax1": "+62562-635763",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SINTANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Equator - Sintang",
+						"address": "Jl. MT Haryono (samping lap. terbang, depan asrama polisi), Sintang",
+						"pic": "Michael Hardi Sutiono",
+						"manager": "",
+						"tel1": "+62565-22858",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Victory - Sintang",
+						"address": "Jl. Kelam Mungguk Kemantan Ruko No. 4, Depan Surau AT-Tawwabin, Sintang",
+						"pic": "T.J. Timotius",
+						"manager": "",
+						"tel1": "+62852-45841838",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SOSOK",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Equator - Sosok",
+						"address": "Jl. Raya Sosok, Sosok, Kalimantan Barat",
+						"pic": "Michael Hardi Sutiono",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "KALIMANTAN SELATAN",
+		"cities": [
+			{
+				"city": "BANJARMASIN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Fortune - Banjarmasin",
+						"address": "Jl. Kampung Melayu No. 54B, Kelurahan Melayu, Banjarmasin 70232",
+						"pic": "Hardinata Djajanegara",
+						"manager": "",
+						"tel1": "+62511-3250375",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62511-3250375",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Banjarmasin",
+						"address": "Jl. Ahmad Yani Km. 7.8, RT 003, Seberang Sucofindo, Banjarmasin",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+62852-51573705",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62511-3201171",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Mission Care - Banjarmasin",
+						"address": "Jl. Gatot Subroto No.152 (Dpn Rizqi Motor), Banjarmasin",
+						"pic": "Ir Yulius Kurniawan",
+						"manager": "",
+						"tel1": "+62511-3201377",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "KALIMANTAN TENGAH",
+		"cities": [
+			{
+				"city": "KUALA KAPUAS",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Pioneer - Kapuas",
+						"address": "Patih Rumbih No. 7A, Kapuas, KalTeng 73514",
+						"pic": "Sarjono",
+						"manager": "",
+						"tel1": "+62513-23952",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PALANGKARAYA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Infigy Group - Palangkaraya",
+						"address": "Batang Garing Tower 1st Fl., Jl. D.I. Panjaitan No. 01, Palangkaraya, Kal-Teng 73111",
+						"pic": "Tek Holman Cendana",
+						"manager": "",
+						"tel1": "+62536-3242111",
+						"tel2": "+62536- 3236111",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PANGKALAN BUN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Equator - Pangkalan Bun",
+						"address": "Jl. Jend. Sudirman No. 07, RT 10, Kelurahan Sidorejo, Kecamatan Arsel, Kotawaringin Barat, Pangkalan Bun, Kal-Teng",
+						"pic": "Michael Hardi Sutiono",
+						"manager": "",
+						"tel1": "+62532-21835",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62532-22633",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SAMPIT",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Dahsyat - Sampit",
+						"address": "Jl. MT Haryono No. 59, Depan Ex Plaza Sampit, Sampit, Kalimantan Tengah",
+						"pic": "Didik Mulato ST",
+						"manager": "",
+						"tel1": "+62536-34111",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62536-34111",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "KALIMANTAN TIMUR",
+		"cities": [
+			{
+				"city": "BALIKPAPAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Kinibalu Agency - Balikpapan",
+						"address": "Ruko Sentra Eropa Blok AB/3 No. 19, Kompleks Mall Fantasy, Balikpapan Baru, Balikpapa 76114, KalTim",
+						"pic": "Haryani Jelita Suryadewi",
+						"manager": "",
+						"tel1": "+62542-7204417",
+						"tel2": "+62542-7204419",
+						"tel3": "",
+						"fax1": "+62542-7204417",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "MRT Benisse - Balikpapan",
+						"address": "Jl. MT Haryono No. 11A, RT 41, Balikpapan Selatan 76114",
+						"pic": "Maria C Sahusilawane",
+						"manager": "",
+						"tel1": "+62542-7214016",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Empire - Balikpapan",
+						"address": "Balikpapan Permai Blok F1 No. 12, Balikpapan",
+						"pic": "Domenico Cakrawala",
+						"manager": "",
+						"tel1": "+62542-440978",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62542-441522",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "BONTANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru First - Bontang",
+						"address": "Jl. Ahmad Yani RT 6 No. 6, Bontang",
+						"pic": "Liliana Kurniawan",
+						"manager": "",
+						"tel1": "+6254-823389",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SAMARINDA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Limendo Agency - Samarinda",
+						"address": "Jl. MT Haryono No. 5, Samarinda",
+						"pic": "Lily Melinda E. Dako",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Madani Agency - Samarinda",
+						"address": "Ruko City Pride, Jl. Nginden Semolo 42 Blok B-10, Surabaya",
+						"pic": "Tho Ratna Listiyani, ST",
+						"manager": "",
+						"tel1": "+6231-58204200",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Reality - Samarinda",
+						"address": "Jl. Kartini No. 112, Samarinda",
+						"pic": "Siany Widjaya",
+						"manager": "",
+						"tel1": "+62541-735386",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62541-7777672",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Sky Agency - Samarinda",
+						"address": "Ruko Alaya Junction, Jl. Bukit Alaya Blok LA No. 12, Samarinda Utara, Kal-Tim 75119",
+						"pic": "Elaine Zefanya",
+						"manager": "",
+						"tel1": "+62541-7284471",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TANJUNG REDEB",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Reality - Berau",
+						"address": "Jl. Raja Alam 1 No. 9, Bedungun, Tanjung Redeb, Berau, Kalimantan Timur 77315",
+						"pic": "Siany Widjaya",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "KALIMANTAN UTARA",
+		"cities": [
+			{
+				"city": "TANJUNG SELOR",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Synergy Solution - Tanjung Selor",
+						"address": "Jl. Jend. Sudirman No. 199, Tanjung Selor, Kalimantan Utara",
+						"pic": "Michael Alvin",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TARAKAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Kinibalu Agency - Tarakan",
+						"address": "Jl. Mulawarman (sebelah Royal Crown Restoran), Tarakan",
+						"pic": "Haryani Jelita Suryadewi",
+						"manager": "",
+						"tel1": "+62551-33980",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Rising Star - Tarakan",
+						"address": "Jl. Kh. Agus Salim RT.05 Tarakan",
+						"pic": "Ricky Hoetomo",
+						"manager": "",
+						"tel1": "+62551-23325",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "KEPULAUAN BANGKA BELITUNG",
+		"cities": [
+			{
+				"city": "PANGKAL PINANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Miracle Agency - Bangka",
+						"address": "Jl. Alexander Citraland Commercial Area, Blok 9-10A, Pangkal Pinang",
+						"pic": "Ong Agus Sutina Taslim",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Angel - Bangka",
+						"address": "Jl. Soekarno Hatta No. 8, Pangkal Pinang, Bangka Belitung",
+						"pic": "Sofian Hendi",
+						"manager": "",
+						"tel1": "+62717-4255188",
+						"tel2": "+62717-7002897",
+						"tel3": "+62717-7002887",
+						"fax1": "+62717-421029",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Power Vision - Bangka",
+						"address": "Jl. Basuki Rahman, RT 009 RW 02, Bukit Intan, Pangkal Pinang, Bangka",
+						"pic": "Fifi",
+						"manager": "",
+						"tel1": "+62717-439258",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62717-437189",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SUNGAI LIAT",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Team Agency - Bangka",
+						"address": "Komplek Ruko Citra Square Blok L No. 39, Jl. Pulau Bangka, Air Itam, Bukit Intan, Pangkal Pinang",
+						"pic": "Sin Chen",
+						"manager": "",
+						"tel1": "+62717-4256390",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "KEPULAUAN RIAU",
+		"cities": [
+			{
+				"city": "BATAM",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Damai - Batam",
+						"address": "Komp. Ruko Raffles City Blok A No. 2B, 5, 6, 7, Batam Centre, Batam 29461",
+						"pic": "Damai",
+						"manager": "",
+						"tel1": "+62778-748 3232",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62778-748 3233",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Majesty - Batam",
+						"address": "Jl. Bunga Raya, Komp. Ruko Baloi Kusuma Indah, Blok A No. 15A-B, Batam 29432",
+						"pic": "Tuti",
+						"manager": "",
+						"tel1": "+62778-431700",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62778-428899",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Star One - Batam",
+						"address": "Komp Citra Supermall Blok C No. 07-08, Jl. Duyung Batu Ampar, Batam 29453",
+						"pic": "Lili",
+						"manager": "",
+						"tel1": "+62778-7415091",
+						"tel2": "+62778-7415097",
+						"tel3": "",
+						"fax1": "+62778-7415090",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Prudence - Batam",
+						"address": "Komplek Citra Mas Blok B No. 15, Penuin, Batam 29436",
+						"pic": "Christopher Teow",
+						"manager": "",
+						"tel1": "+62778-425611",
+						"tel2": "+62778-431751",
+						"tel3": "",
+						"fax1": "+62778-431752",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "BATU KAPAL",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Damai - Natuna",
+						"address": "Jl. Datuk Kaya Wan Mohd Benteng No. 200 Rt 02 Rw 01, Batu Kapal, Kel. Ranai Kota, Kec. Bunguran Timur, Natuna 29783",
+						"pic": "Damai",
+						"manager": "",
+						"tel1": "+62773-31484",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62773-31484",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SINGKEP",
+				"branches": []
+			},
+			{
+				"city": "TANJUNG BALAI KARIMUN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Champion - Karimun",
+						"address": "Komplek Padi Mas Blok B No. 10-11, Jl. Pertambangan, Tanjung Balai Karimun 29661",
+						"pic": "Sen Yung",
+						"manager": "",
+						"tel1": "+62777-31211",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Damai - Karimun",
+						"address": "Jl. Telaga Mas Blok A No. 7, RT 01 RW 03, Kolong, Tg. Balai Karimun 29614",
+						"pic": "Damai",
+						"manager": "",
+						"tel1": "+62777-23030",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TANJUNG BATU",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Majesty - Tanjung Batu",
+						"address": "Jl. Jend. Sudirman No. 206, Depan SMP Negeri I Kundur, Tanjung Batu, Kundur 29662",
+						"pic": "Tuti",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TANJUNG PINANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Damai - Tanjung Pinang",
+						"address": "Jl. Pos, Komplek Bintan Indah Mall lt. 3, Tanjung Pinang - 29111, Kepri",
+						"pic": "Damai",
+						"manager": "",
+						"tel1": "+62771-317696",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62771-317697",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TANJUNG UBAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Starshine Agency - Tanjung Uban",
+						"address": "Jl. Permaisuri Blok B1 No. 02, Tanjung Uban",
+						"pic": "Precita Kurniaty",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "LAMPUNG",
+		"cities": [
+			{
+				"city": "BANDAR JAYA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Power Future Team - Bandar Jaya Lampung",
+						"address": "Jl. Raya Negara (Yakum Jaya), Bandar Jaya 52882",
+						"pic": "Susan",
+						"manager": "",
+						"tel1": "+62275-52822",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "LP11",
+						"agency": "Pru Advantage Lampung",
+						"address": "Jl. Jend. Sudirman no. 778 Pring Sewu, Lampung",
+						"pic": "Saiful Bakhry (00001256 )",
+						"manager": "PT Advantage Star Lampung",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "BANDAR LAMPUNG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "One Favor - Bandar Lampung",
+						"address": "Jl. Jend. Sudirman No. 86B, Rawa Laut, Enggal, Bandar Lampung 35111",
+						"pic": "Nety Syamsuddin",
+						"manager": "",
+						"tel1": "+62721-259537",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "METRO LAMPUNG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Metro Agency - Lampung",
+						"address": "Jl. Lintas Timur , Desa Purwa Jaya, Kec. Banjar Margo, Metro, Lampung 34595",
+						"pic": "M. Ridwan S.",
+						"manager": "",
+						"tel1": "+6272-546054",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KOTA GAJAH",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Evolution Team - Lampung",
+						"address": "Jl. Jend. Ahmad Yani, Dusun Margahayu II, Kota Gajah, Lampung 34153",
+						"pic": "Aprilianto Budi Santoso",
+						"manager": "",
+						"tel1": "+62725-5101215",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "METRO LAMPUNG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Ghyna Mulia Agency - Bandar Lampung",
+						"address": "Jl. Jend. Sudirman No. 236, Samping TMP, Metro 34111",
+						"pic": "Ernita Yohana",
+						"manager": "",
+						"tel1": "+62725-43191",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TELUK BETUNG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Power Future Team - Lampung",
+						"address": "Jl. P. Diponegoro No. 77 Kav. 3, Teluk Betung, Bandar Lampung 35214",
+						"pic": "Susan",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "MALUKU",
+		"cities": [
+			{
+				"city": "AMBON",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Fighters - Ambon",
+						"address": "Komplek Ruko Mutiara Superblok No. 2, Ambon 97123",
+						"pic": "Dedi Jumaidi",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Great Team - Ambon",
+						"address": "Jl. Laksda Leo Wittimena Ruko Mega Mas No. A2, Baguala, Ambon 97232",
+						"pic": "Anthony Bendjamin",
+						"manager": "",
+						"tel1": "+62911-362789",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "MALUKU UTARA",
+		"cities": [
+			{
+				"city": "TERNATE",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Fighters - Bekasi",
+						"address": "Jl. Tapak 1 Ruko No. 5, Taman Nukilo, Ternate 97721",
+						"pic": "Dedi Jumaidi",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "NUSA TENGGARA BARAT",
+		"cities": [
+			{
+				"city": "MATARAM",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Dana - Lombok",
+						"address": "Pertokoan Town Palace No. 18, Jl. Sriwijaya, Mataram, Lombok",
+						"pic": "Ketut Sudjana Sadha",
+						"manager": "",
+						"tel1": "+62370-6160528",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62370-622383",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Gemilang - Lombok",
+						"address": "Jl. Majapahit No. 12 J-K, Ampenan Selatan, Mataram 83114",
+						"pic": "Liela Darsana",
+						"manager": "",
+						"tel1": "+62370-648099",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62370-624184",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PANCOR SELONG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Merdeka - Lombok",
+						"address": "Ruko Sriwijaya Blok 10, Jl. Sriwijaya, Mataram NTB",
+						"pic": "M. Putra Wijaya",
+						"manager": "",
+						"tel1": "+62370-7506831",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62376-22170",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "NUSA TENGGARA TIMUR",
+		"cities": [
+			{
+				"city": "ATAMBUA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Grace - Atambua",
+						"address": "Tini, RT 003 RW 001, Manuaman, Atambua Selatan, Bolu, NTT",
+						"pic": "Lanawati Sanusi",
+						"manager": "",
+						"tel1": "+62389-21745",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62389-21745",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "ENDE",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Floresta - Ende",
+						"address": "Jl. Nanas No. 6, RT. 005 RW. 003 Kelurahan Mautapaga, Kecamatan Ende Timur, Ende",
+						"pic": "Yosepha Regina Masi",
+						"manager": "",
+						"tel1": "+62381-22441",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KOTA UNENG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Floresta - Flores",
+						"address": "Jl. Don Djuang, Kota Uneng, Maumere, Flores 86112",
+						"pic": "Yosepha Regina Masi",
+						"manager": "",
+						"tel1": "+62382-23096",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KUPANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Esperanza - Kupang",
+						"address": "Ruko Kupang Sejahtera Regency Blok R2, Jl. Bundaran PU TDM, Kupang 85000",
+						"pic": "Esa Prihana V. Magdalena Klaas",
+						"manager": "",
+						"tel1": "+62380-831388",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "OEBOBO - KUPANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Flobamora - Kupang",
+						"address": "Jl. Fran Seda No. 1B, Kupang, NTT",
+						"pic": "Johannes Paulus",
+						"manager": "",
+						"tel1": "+62380-834310",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62380-834310",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SOE",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Flobamora Cendana - Soe",
+						"address": "Jl. Soekarno No. 18, Soe Timor Tengah Selatan, Nusa Tenggara Timur",
+						"pic": "Johannes Paulus",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "PAPUA",
+		"cities": [
+			{
+				"city": "BIAK",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Fin Winner - Biak",
+						"address": "Jl. Ahmad Yani No. 24, Biak, Papua 98111",
+						"pic": "Helen Susantio",
+						"manager": "",
+						"tel1": "+62981-22155",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62981-22755",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "JAYAPURA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "fp one - Jayapura",
+						"address": "Jl. Kelapa Dua Entrop Ruko 15 A-B, Jayapura",
+						"pic": "Cassandra Farrell",
+						"manager": "",
+						"tel1": "+62967-522899",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62967-522799",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Perwira Future Team - Jayapura",
+						"address": "Jl. Pasifik Permai Blok A No. 3, Distrik Jayapura Utara, Jayapura",
+						"pic": "Suprawito",
+						"manager": "",
+						"tel1": "+62967-537244",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Synergy - Jayapura",
+						"address": "Jl. Raya Sentani Padang Bulan, Ruko Warna Warni No. 9, Jayapura",
+						"pic": "Ibrahim Tambila",
+						"manager": "",
+						"tel1": "+62967-581999",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "NABIRE ",
+				"branches": [
+					{
+						"code": "NAB1",
+						"agency": "Fin Winner Nabire",
+						"address": "Jl. Trikora no. 82 Morgo, Nabire 98000",
+						"pic": "Helen Susantio (00004367)",
+						"manager": "PT Fokus Inti Nugraha",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "MERAUKE",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pioneer Agency - Merauke",
+						"address": "Jl. Nowari RT 1 RW 2, Karang Indah, Merauke, Papua",
+						"pic": "Christine Asry Yani Taha, SH",
+						"manager": "",
+						"tel1": "+62971-324899",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TIMIKA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "BP Fortune - Timika",
+						"address": "Jl. Belibis No. 19B, Timika, Papua 99910",
+						"pic": "Ibrahim Tambila",
+						"manager": "",
+						"tel1": "+62901-322492",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "PAPUA BARAT",
+		"cities": [
+			{
+				"city": "SORONG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Fp One - Sorong",
+						"address": "Jl. Basuki Rahmat Km. 8 No. 104C, Malaingkedi Sorong Utara, Kota Sorong, Papua Barat",
+						"pic": "Yusti Kala Ramba",
+						"manager": "",
+						"tel1": "+62951-3173580",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "RIAU",
+		"cities": [
+			{
+				"city": "DURI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Miracle Team - Duri",
+						"address": "Jl. Jend Sudirman No. 245, Duri, Riau",
+						"pic": "Hendra Tajuddin",
+						"manager": "",
+						"tel1": "+62765-594302",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62765-594302",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Sunrise - Duri",
+						"address": "Jl. HangTuah No. 13, Duri, Riau",
+						"pic": "Suryani Paskah",
+						"manager": "",
+						"tel1": "+62765-595411",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62765-595411",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Prudence - Duri",
+						"address": "Jl. Hang Tuah No. 107, Duri Barat, Riau",
+						"pic": "Christopher Teow",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PANGKALAN KERINCI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Future Team - Kerinci",
+						"address": "Jl. Poros Bumi Lago Permai No. 88, Pangkalan Kerinci, Pekan Baru, Riau",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+62761-494844",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PEKANBARU",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Great Prestasi - Pekan Baru",
+						"address": "Jl. Kenari No. 17A, Pekan Baru",
+						"pic": "Hadisumardi Oscar",
+						"manager": "",
+						"tel1": "+62761-849622",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Advance - Pekan Baru",
+						"address": "Jl. Riau No. 169, Pekan Baru 28292",
+						"pic": "Darmawani",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Damai Team - Pekanbaru",
+						"address": "Jl. Riau Ujung No. 243, Air Hitam, Payung Sekaki, Pekanbaru",
+						"pic": "Damai",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Diamond - Pekanbaru",
+						"address": "Jl. Soekarno Hatta No. 61, Kel. Sidomulyo Timur, Kec. Marpoyan Damai, Pekanbaru, Riau 28125",
+						"pic": "Beben Chaniago",
+						"manager": "",
+						"tel1": "+62761-4815532",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Pekan Baru",
+						"address": "Jl. Tuanku Tambusai Komp. Peninsula Blok B No. 8, Pekan baru 28282",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+62761-571154",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Miracle Team - Pekanbaru",
+						"address": "Jl. Soekarno Hatta/Arengka I No. 28, Pekanbaru",
+						"pic": "Hendra Tajuddin",
+						"manager": "",
+						"tel1": "+62761-29089",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62761-29077",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "RENGAT",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Future Team - Rengat",
+						"address": "Jl. Raya Pematang Reba Rengat, Samping Kantor Samsat Inhu, Indragiri Hulu, Rengat, Riau 29351",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TEMBILAHAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Majesty - Tembilahan",
+						"address": "Jl. Baharuddin Yusuf (Telaga Puri), Tembilahan, Riau 29212",
+						"pic": "Tuti",
+						"manager": "",
+						"tel1": "+62768-22122",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62768-325088",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "SULAWESI SELATAN",
+		"cities": [
+			{
+				"city": "MAKASSAR",
+				"branches": [
+					{
+						"code": "",
+						"agency": "FP One - Makassar",
+						"address": "Jl. Gunung Bawakaraeng No. 45, Makassar, Sulawesi Selatan",
+						"pic": "Cassandra Farrell",
+						"manager": "",
+						"tel1": "+62411-3619025",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "One Agency - Makassar",
+						"address": "Ruko Latanete Blok C/17, Jl. Sungai Saddang Blok C No. 17, Makassar-Sulawesi Selatan",
+						"pic": "Suramin Nagari",
+						"manager": "",
+						"tel1": "+62411-3625054",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62411-325054",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Barokah - Makassar",
+						"address": "Komplek Ruko Citraland Blok A7, Jl. Tun Abdul Razak, Gowa, Sulawesi Selatan",
+						"pic": "Bilkis",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Cahaya - Makassar",
+						"address": "Jl. Toddopuli Raya Utara Blok L No. 16, Makassar",
+						"pic": "Endah Muthiah",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Makassar",
+						"address": "Jl. AP Pettarani No. 33 Petak 2, Makassar 30231",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Light - Makassar",
+						"address": "Gedung Graha Pena Lt. 9 Jl. Urip Sumiharjo Km. 4 No. 20 Makassar 90232",
+						"pic": "Erwin",
+						"manager": "",
+						"tel1": "+62411-421401",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Spirit - Makassar",
+						"address": "Gedung Graha Pena Lt. 1 Kav. 100D, Jl. Urip Sumohardjo No. 20, Makassar",
+						"pic": "Oyen Tribakti Tjandra",
+						"manager": "",
+						"tel1": "+62411-426428",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62411-423617",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "The Lions Agency - Makassar",
+						"address": "Jl. Andalas No. 133B, Makassar",
+						"pic": "Rezky Lion",
+						"manager": "",
+						"tel1": "+62411-3690550",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "RANTEPAO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Agape - Toraja",
+						"address": "Jl. Pongtiku No. 14C, Rantepao, Toraja Utara",
+						"pic": "Esther Sapan",
+						"manager": "",
+						"tel1": "+62852-42573206",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "SULAWESI TENGAH",
+		"cities": [
+			{
+				"city": "PALU",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Metanoia - Palu",
+						"address": "Jl. Emi Saelan No. 19, Palu, Sulawesi Tengah 94126",
+						"pic": "Oni Yosetiawan",
+						"manager": "",
+						"tel1": "+62451-483616",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62451-486552",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "SULAWESI TENGGARA",
+		"cities": [
+			{
+				"city": "KENDARI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "D'Fighter - Kendari",
+						"address": "Jl. Sorumba Kel. Anawi, Kec. Kadia, Komp. Ruko Sentra GMT1 No. 2C Wua-wua, Kendari 93117",
+						"pic": "Dodi Zulgusmen, S.Si",
+						"manager": "",
+						"tel1": "+62401-3111882",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Anugrah - Kendari",
+						"address": "Jl. Malik Raya, Kendari",
+						"pic": "Yuhyung Suhargo",
+						"manager": "",
+						"tel1": "+62401-3124168",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "SULAWESI UTARA",
+		"cities": [
+			{
+				"city": "BITUNG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Grace - Bitung",
+						"address": "Jl. Raya Madidir Link. 1/RT. 04 No. 165, Paceda, Bitung, Sulawesi Utara",
+						"pic": "Lanawati Sanusi",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "MANADO",
+				"branches": [
+					{
+						"code": "",
+						"agency": "One Favor - Manado",
+						"address": "Jl. Pierre Tendean Ruko Megamas Profit, Blok II F2/43, Sario, Manado",
+						"pic": "Hellen Hakim",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Blessing - Manado",
+						"address": "Manado Trade Center, Blok A3 Jl. Pierre Tendean (Boulevard) Manado 95114, Sulut",
+						"pic": "Eddy Gunawan Winarta",
+						"manager": "",
+						"tel1": "+62431-8881424",
+						"tel2": "+62431-8881448",
+						"tel3": "",
+						"fax1": "+62431-8881455",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Synergy - Manado",
+						"address": "Ruko Wanea, Jl. Sam Ratulangi No. 26, Manado",
+						"pic": "Alex Salim",
+						"manager": "",
+						"tel1": "+62431-876731",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Xpand - Manado",
+						"address": "Jl. Pramuka No. 120, Sario Kota Baru, Manado 95114",
+						"pic": "Dewi Sawitri Sudibya",
+						"manager": "",
+						"tel1": "+62431-876827",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TOMOHON",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Eternity - Tomohon",
+						"address": "Keluarga Makalew Goni, Jl. Raya Walian, Lingkungan 6, Tomohon Selatan, Sulawesi Utara",
+						"pic": "Petrus Tri Rahardjo",
+						"manager": "",
+						"tel1": "+62813-98146265",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "SUMATERA BARAT",
+		"cities": [
+			{
+				"city": "BUKIT TINGGI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Diamond - Bukit Tinggi",
+						"address": "Jl. Bypass Atas Parak Tinggi, Aua Kuning, Aur Birugo Tiga Baleh, Bukittinggi",
+						"pic": "Beben Chaniago",
+						"manager": "",
+						"tel1": "+62754-34172",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62752-31757",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Sakato - Bukittinggi",
+						"address": "Jl. Bypass Manggis Ruko Petak 10 No. 5, Bukittinggi, Sumatera Barat",
+						"pic": "Ermawati",
+						"manager": "",
+						"tel1": "+62752-8805051",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62752-8805051",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PADANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Diamond - Padang",
+						"address": "Jl. Veteran No. 74, Padang",
+						"pic": "Beben Chaniago",
+						"manager": "",
+						"tel1": "+62751-7051679",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62751-7059658",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Sumber Terang  Agency - Padang",
+						"address": "Jl. Niaga No.179  Padang 25119, Sumatera Barat",
+						"pic": "Shierly Septriana",
+						"manager": "",
+						"tel1": "+62751-840585",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62751-840585",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PADANG PANJANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Sakato - Padang Panjang",
+						"address": "Jl. Prof Dr. Hamka No. 171, Lukah Pandan, Solok, Sumatera Barat 27315",
+						"pic": "Ermawati",
+						"manager": "",
+						"tel1": "+62752-485346",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62752-485346",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PAYAKUMBUH",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Rahmatan Lil Alamin - Payakumbuh",
+						"address": "Jl. Sudirman No. 66B, Simpang Kembang, Batusangkar, Payakumbuh",
+						"pic": "Cipta Hadi",
+						"manager": "",
+						"tel1": "+62752-94100",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "SUMATERA SELATAN",
+		"cities": [
+			{
+				"city": "BATURAJA",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Prima Agency - Baturaja",
+						"address": "Jl. Dr. Moh Hatta No. 47B, Lintas Sumatera, Baturaja",
+						"pic": "Eddy Sumarjono",
+						"manager": "",
+						"tel1": "+62753-324275",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "LAHAT",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Prima Agency - Lahat",
+						"address": "Jl. Martadinata, Lahat",
+						"pic": "Anggraini Buyut",
+						"manager": "",
+						"tel1": "Anggraini Buyut",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62731-326610",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "LUBUK LINGGAU",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Best - Lahat",
+						"address": "Jl. RE Martadinata Blok A03 Pasar Lama, Lahat",
+						"pic": "Eddy Sumarjono",
+						"manager": "",
+						"tel1": "+62733-320577",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PALEMBANG",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Fin Winner - Palembang",
+						"address": "Jl. Mayor Ruslan No. 7, RT 018 RW 07, 9 Ilir, Ilir Timur II, Palembang 30000",
+						"pic": "Helen Susantio",
+						"manager": "",
+						"tel1": "+62771-719433",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Prima Agency - Palembang",
+						"address": "Jl. Veteran No. 343 D, Palembang",
+						"pic": "Anggraini Buyut",
+						"manager": "",
+						"tel1": "+62711-360233",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62711-362515",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Future Team - Palembang",
+						"address": "Jl. Basuki Rahmat No. 884, Kemuning, Palembang 30128",
+						"pic": "Hawari Tandjaja",
+						"manager": "",
+						"tel1": "+62711-5614489",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Synergy - Palembang",
+						"address": "Jl. Veteran No. 757 C-D Rt. 23 Rw. 07, Palembang - Sumatera Selatan",
+						"pic": "Alex Salim",
+						"manager": "",
+						"tel1": "+62711-364749",
+						"tel2": "+62711-364750",
+						"tel3": "",
+						"fax1": "+62711-355264",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Winner - Palembang",
+						"address": "Jl. R. Sukamto A-1, RT 017 RW 07, 8 Ilir Palembang, Sumatera Selatan",
+						"pic": "Susanto",
+						"manager": "",
+						"tel1": "+62711-815577",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62711-815566",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Trust Advisor  - Palembang",
+						"address": "Jl. Ahmad Yani  No. 1 A-B, Palembang 30252",
+						"pic": "Handoko Lukito",
+						"manager": "",
+						"tel1": "+62711-520144",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62711-511802",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PRABUMULIH",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Prima Agency - Prabumulih",
+						"address": "Jl. Padat Karya No. 1, Prabumulih",
+						"pic": "Anggraini Buyut",
+						"manager": "",
+						"tel1": "+62713-3300718",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "SEKAYU",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Prima Agency - Sekayu",
+						"address": "Jl. Muara Teladan LK3 No. 24, Balai Agung, Sekayu",
+						"pic": "Anggraini Buyut",
+						"manager": "",
+						"tel1": "+62714-321923",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62714-321923",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"state": "SUMATERA UTARA",
+		"cities": [
+			{
+				"city": "BALIGE",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Aini - Balige",
+						"address": "Jl. Bukit Barisan No. 8C, Kelurahan Napitupulu Bagasan, Balige, Sumatera Utara",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "+62632-21770",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "BINJAI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Prestasi Agency - Binjai",
+						"address": "Jl. Sukarno Hatta No. 35, Tunggurono, Binjai",
+						"pic": "Hadisumardi Oscar",
+						"manager": "",
+						"tel1": "+6261-8831398",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "CIKAMPAK",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Advance - Cikampak",
+						"address": "Jl. Lintas Pekan Cikampak, Labuhan Batu Selatan, Torgamba, Sumatera Utara 21464",
+						"pic": "Darmawani",
+						"manager": "",
+						"tel1": "+62624-491298",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "GUNUNG SITOLI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Prodigy - Nias",
+						"address": "Jl. Jend Sudirman No. 36, Gunung Sitoli, Pulau Nias",
+						"pic": "Theresia",
+						"manager": "",
+						"tel1": "+62639-323437",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KABANJAHE",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Aini - Kaban Jahe",
+						"address": "Komplek Ruko Grand Melia Blok A No. 3, Jl. Veteran (Terminal Atas), Kampung Dalam, Kabanajeh, Sumatera Utara",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "+62628-21220",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "KISARAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Advance - Kisaran",
+						"address": "Jl. Cokroaminoto No. 258, Kisaran, Sumatera Utara",
+						"pic": "Darmawani",
+						"manager": "",
+						"tel1": "+6261-4159206",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "MEDAN",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Ethnic Agency - Medan",
+						"address": "Jl. AH Nasution Komp. Ruko Mega Residence No. 11, Medan",
+						"pic": "Rosmeika Tambunan",
+						"manager": "",
+						"tel1": "+6261-7861326",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Focus Agency - Medan",
+						"address": "Jl. Pancing, Komplek MMTC Blok A7, Medan",
+						"pic": "Sui An",
+						"manager": "",
+						"tel1": "+6261-8471696",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Imperium Agency - Medan",
+						"address": "Jl. Setia Budi Komplek Ruko Setia Budi Point Blok I 34-35, Medan",
+						"pic": "Anastasia Sunbulat",
+						"manager": "",
+						"tel1": "+6261-8216692",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6261-8214933",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Louis Agency - Medan",
+						"address": "Jl. Mojopahit No.91, Medan  20112 SU-MUT",
+						"pic": "Sutjipto Louis",
+						"manager": "",
+						"tel1": "+6261-4570085",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6261-4570086",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Mari Sukses Bersama - Medan",
+						"address": "Komp. Malina Raya Ruko No. 6,26,27, Jl. Ring Road Pasar III, Medan 20132",
+						"pic": "Rina Mei Ganda Simanjuntak",
+						"manager": "",
+						"tel1": "+6261-8219418",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6261-8219419",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Prestasi Agency - Medan",
+						"address": "Jl. Padang Golf Komp. CBD Polonia, Blok E 94-98, Medan",
+						"pic": "Hadisumardi Oscar",
+						"manager": "",
+						"tel1": "+6261-80506008",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6261-80506010",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Advance - Medan",
+						"address": "Jl. Adam Malik No. 26, Medan 20114",
+						"pic": "Darmawani",
+						"manager": "",
+						"tel1": "+6261-4552999",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Aini - Medan",
+						"address": "Kompleks Merbau Mas Ruko No. 73,74,75,77,81,82,84,85,85A, Medan 20113",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "+6261-4576991",
+						"tel2": "+6261-4576994",
+						"tel3": "",
+						"fax1": "+6261-4570114",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Priority - Medan",
+						"address": "Jl. Palang Merah No. 13-14, Kompleks Ruko Royal Residence Blok C, Medan 20151",
+						"pic": "dr Djamin Kartarino",
+						"manager": "",
+						"tel1": "+6261-4555088",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6261-4563553",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Victory - Medan",
+						"address": "Jl. Emas Komplek Yang Lim Plaza Ruko No. 33A, Medan",
+						"pic": "Linda Widjaya",
+						"manager": "",
+						"tel1": "+6221-29568733",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+6221-29568761",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "PruStarshine Agency - Medan",
+						"address": "Jl. Taruma No. 17 A-B, Medan 20152",
+						"pic": "Serafinny Ang",
+						"manager": "",
+						"tel1": "+6261-4535307",
+						"tel2": "+6261-4551080",
+						"tel3": "",
+						"fax1": "+6261-4578878",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Wow Aini - Medan",
+						"address": "Grand Palladium Mall Lt. UG US 3 No. #A,5,6,7,8 dan koridor, Jl. Kapten Maulana Lubis No. 8, Medan 20236",
+						"pic": "Darwin Tjemerlang",
+						"manager": "+6261-88741293",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "NIAS",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Aini - Nias",
+						"address": "Jl. Diponegoro No. 16, Nias 22815",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "+62639-21174",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "PEMATANG SIANTAR",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Prestasi Agency - Pematang Siantar",
+						"address": "Jl. Sutomo No. 317, Pematang Siantar 21132",
+						"pic": "Hadisumardi Oscar",
+						"manager": "",
+						"tel1": "+62622-431453",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "+62622-431453",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Aini - Pematang Siantar",
+						"address": "Jl. Wahidin No. 201-B, Pematang Siantar",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "+62622-24348",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "RANTAU PRAPAT",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Advance - Rantau Prapat",
+						"address": "Jl. Kota Pinang No. 1, Rantau Prapat, Sumatera Utara 21412",
+						"pic": "Darmawani",
+						"manager": "",
+						"tel1": "+62264-22850",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					},
+					{
+						"code": "",
+						"agency": "Pru Aini - Rantau Prapat",
+						"address": "Jl. Ahmad Yani No. 73, Rantau Prapat, Labuhan Batu 21415",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "STABAT - LANGKAT",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Pru Aini - Langkat",
+						"address": "Jl. Kiai Haji Zainul Arifin, Komp. Stabat City Blok AA No. 39 Sumatera Utara 20811",
+						"pic": "dr. Arifin",
+						"manager": "",
+						"tel1": "+6261-4155429",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"city": "TEBING TINGGI",
+				"branches": [
+					{
+						"code": "",
+						"agency": "Prestasi Agency - Tebing Tinggi",
+						"address": "Jl. Jend. Sudirman No. 196, Link. IV, Badak Bejuang, Tebing Tinggi, Sumatera Utara",
+						"pic": "Hadisumardi Oscar",
+						"manager": "",
+						"tel1": "+62621-21657",
+						"tel2": "",
+						"tel3": "",
+						"fax1": "",
+						"fax2": "",
+						"members": []
+					}
+				]
+			}
+		]
+	}
+]

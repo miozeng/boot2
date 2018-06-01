@@ -1,0 +1,38 @@
+version: '3'
+services:
+  nginx:
+   container_name: nginx
+   image: nginx:1.13
+   restart: always
+   ports:
+   - 80:80
+  # - 443:443
+   volumes:
+   - ./nginx:/etc/nginx/conf
+    
+  mysql:
+   container_name: mysql
+   image: mysql/mysql-server:5.7
+   environment:
+    MYSQL_DATABASE: mytest
+    MYSQL_ROOT_PASSWORD: root
+    MYSQL_ROOT_HOST: '%'
+   ports:
+   - "3306:3307"
+   restart: always
+  
+   
+  boot2:
+    restart: always
+    build: ./boot2
+    working_dir: /boot2
+    volumes:
+      - ./boot2:/boot2 
+      - ~/.m2:/root/.m2
+    expose:
+      - "8080"
+    command: mvn clean spring-boot:run
+    depends_on:
+      - nginx
+      - mysql
+        

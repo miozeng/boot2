@@ -1,0 +1,7252 @@
+ [
+	{
+		"province": "Hồ Chí Minh",
+		"districts": [
+			{
+				"district": "Quận 1",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 1",
+						"latitude": "10.7846782",
+						"longtitude": "106.697601",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 38240888",
+								"type": ""
+							}
+						],
+						"address": "21 Phùng Khắc Khoan, P. Đa Kao, Quận 1, Tp. HCM",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 2",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 2",
+						"latitude": "10.787717",
+						"longtitude": "106.7627469",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 62819106",
+								"type": ""
+							}
+						],
+						"address": "Số 689 Nguyễn Duy Trinh, Khu phố 4, Phường Bình Trưng Đông, Quận 2, TP Hồ Chí Minh",
+						"fax": "(28) 62819107",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 3",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 3",
+						"latitude": "10.790141",
+						"longtitude": "106.683237",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 38483773 ",
+								"type": ""
+							}
+						],
+						"address": "321 Nam kỳ Khởi Nghĩa, Phường 7, Quận 3 Tp HCM",
+						"fax": "(28) 38483436",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 4",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 4",
+						"latitude": "10.764988",
+						"longtitude": "106.704819",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 39435600",
+								"type": ""
+							}
+						],
+						"address": "Số 68 Nguyễn Trường Tộ, phường 12, Quận 4, HCM",
+						"fax": "(28) 39435603",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 5",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 5",
+						"latitude": "10.7517965",
+						"longtitude": "106.669481",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 38549888",
+								"type": ""
+							}
+						],
+						"address": "Số 35 Nguyễn Tri Phương, Phường 6, Quận 5, Tp HCM",
+						"fax": "(28) 39246219",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 6",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 6",
+						"latitude": "10.746435",
+						"longtitude": "106.642535",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 6293 2724",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(28) 6293 2725",
+								"type": ""
+							}
+						],
+						"address": "Số 299 Bình Tiên, phường 8, Quận 6 , Tp Hồ Chí Minh",
+						"fax": "(28) 38541741",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 7",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 7",
+						"latitude": "10.7144648",
+						"longtitude": "106.7366916",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 37713433",
+								"type": ""
+							}
+						],
+						"address": "Số 1339  Huỳnh Tấn Phát, P. Phú Thuận, Q. 7, Tp Hồ Chí Minh",
+						"fax": "(28) 37713400",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 8",
+				"offices": [
+					{
+						"name": "Trung Tâm Phục Vụ Khách hàng Prudential Plaza",
+						"latitude": "10.747444",
+						"longtitude": "106.660241",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 38569799",
+								"type": ""
+							}
+						],
+						"address": "2-4 Bến Cần Giuộc, Phường 13, Quận 8, TP.HCM",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Bình Chánh",
+						"latitude": "10.7418731",
+						"longtitude": "106.6612729",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 3758 0838",
+								"type": ""
+							}
+						],
+						"address": "1011 Phạm Thế Hiển, phường 5, quận 8, Tp. HCM",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 8",
+						"latitude": "10.734179",
+						"longtitude": "106.658256",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 38569799",
+								"type": ""
+							}
+						],
+						"address": "805A Tạ Quang Bửu, P.5, Quận 8, Tp. HCM",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 9",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 9",
+						"latitude": "10.8466388",
+						"longtitude": "106.7990288",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 37360039",
+								"type": ""
+							}
+						],
+						"address": "436A đđường Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9, Tp HCM",
+						"fax": "(28) 37360102",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 10",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 10",
+						"latitude": "10.7724968",
+						"longtitude": "106.675744",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 38300150",
+								"type": ""
+							}
+						],
+						"address": "Số 139 Đường 3/2, Phường 11, Quận 10, Tp. Hồ Chí Minh",
+						"fax": "(28) 38300193",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 11",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tân Bình",
+						"latitude": "10.768483",
+						"longtitude": "106.643844",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 39753961",
+								"type": ""
+							}
+						],
+						"address": "Số 342 Lạc Long Quân, Phường 5, Quận 11, Tp. Hồ Chí Minh",
+						"fax": "(28) 3975 3962",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận 12",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 12B",
+						"latitude": "10.8589536",
+						"longtitude": "106.5767879",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 37192934",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(28) 37192935",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(28) 371929336  ",
+								"type": ""
+							}
+						],
+						"address": "92 Phan Văn Hớn, P. Tân Thới Nhất, Quận 12, Tp. HCM",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Bình Thạnh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bình Thạnh",
+						"latitude": "10.810472",
+						"longtitude": "106.695325",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 38410914",
+								"type": ""
+							}
+						],
+						"address": "Số 146 Nơ Trang Long, Phường 14, Q Bình Thạnh, Tp HCM",
+						"fax": "(28) 38410905",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Bình Tân",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Bình Tân",
+						"latitude": "10.7751466",
+						"longtitude": "106.6143503",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 39611898",
+								"type": ""
+							}
+						],
+						"address": "135/24 Lê Văn Quới, KP.2, P. Bình Trị Đông, Q. Bình Tân, Tp. Hồ Chí Minh",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Gò Vấp",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Gò Vấp",
+						"latitude": "10.8205565",
+						"longtitude": "106.6828626",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 38943588",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(28) 38943589",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(28) 38943590",
+								"type": ""
+							}
+						],
+						"address": "78C6 đường Phạm Ngũ Lão, phường 3",
+						"fax": "(28) 38943591",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Phú Nhuận",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phú Nhuận",
+						"latitude": "10.8025002",
+						"longtitude": "106.6818326",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 39959939",
+								"type": ""
+							}
+						],
+						"address": "33Bis (bên trái) Phan Xích Long, phường 3, quận Phú Nhuận, Tp Hồ Chí Minh",
+						"fax": "(28) 39959940",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Giao dịch Prudential Phú Nhuận 2",
+						"latitude": "10.792223",
+						"longtitude": "106.67015",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 39951168",
+								"type": ""
+							}
+						],
+						"address": "Số 384/16 Huỳnh Văn Bánh, P. 14, Q. Phú Nhuận, TP. HCM, Việt Nam",
+						"fax": "(28) 39951068",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Tân Bình",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tân Bình 2",
+						"latitude": "10.796804",
+						"longtitude": "106.640978",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 39485294",
+								"type": ""
+							}
+						],
+						"address": "Số 70, đường Trương Công Định, P.14, Q. Tân Bình, Tp Hồ Chí Minh",
+						"fax": "(28) 38117853",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Thủ Đức",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thủ Đức",
+						"latitude": "10.8482981",
+						"longtitude": "106.7596193",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 37225253",
+								"type": ""
+							}
+						],
+						"address": "87 Đặng Văn Bi, Phường Trường Thọ, Quận Thủ Đức, Tp HCM",
+						"fax": "(28) 37225251",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thủ Đức B",
+						"latitude": "10.8489126",
+						"longtitude": "106.7590248",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 66827478",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(28) 66827476",
+								"type": ""
+							}
+						],
+						"address": "209 Đặng Văn Bi, P. Trường Thọ, Quận Thủ Đức, Tp. HCM",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Củ Chi",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Củ Chi",
+						"latitude": "10.9725519",
+						"longtitude": "106.4946279",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 37906645",
+								"type": ""
+							}
+						],
+						"address": "225 tỉnh lộ 8, Khu phố 3, thị trấn Củ Chi, huyện Củ Chi, TP Hồ Chí Minh",
+						"fax": "(28) 37906648",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hóc Môn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quận 12",
+						"latitude": "10.85676",
+						"longtitude": "106.607999",
+						"tel": [
+							{
+								"region": "",
+								"number": "(28) 6254 9559",
+								"type": ""
+							}
+						],
+						"address": "Số 155/3 Nguyễn Ảnh Thủ, Xã Trung Chánh, Huyện Hóc Môn, Tp. HCM",
+						"fax": "(28) 37153950",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Hà Nội",
+		"districts": [
+			{
+				"district": "Quận Nam Từ Liêm",
+				"offices": [
+					{
+						"name": "Trung tâm Phục Vụ Khách hàng Prudential Keangnam",
+						"latitude": "21.008702",
+						"longtitude": "105.776198",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 38 337 209",
+								"type": ""
+							}
+						],
+						"address": "Tầng 29, Tòa tháp Keangnam Landmark 72 - Khu đô thị Cầu Giấy, Phường Mễ Trì",
+						"fax": "(24) 38 337 213",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Hà Đông",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hà Đông",
+						"latitude": "20.9620075",
+						"longtitude": "105.7685814",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 66649161",
+								"type": ""
+							}
+						],
+						"address": "Số 65, TT20, Khu đô thị Văn Phú, Phường Phú La, Quận Hà Đông, Hà Nội",
+						"fax": "(24) 66649160",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Sơn Tây",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Sơn Tây",
+						"latitude": "21.134705",
+						"longtitude": "105.511145",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 33830559",
+								"type": ""
+							}
+						],
+						"address": "Số 368 đường La Thành, Phường Quang Trung, Thị xã Sơn Tây, Thành Phố Hà Nội",
+						"fax": "(24) 33830583",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đông Anh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đông Anh",
+						"latitude": "21.138222",
+						"longtitude": "105.859313",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 39654955",
+								"type": ""
+							}
+						],
+						"address": "Số 339 Phố Cao Lỗ, Xã Uy Nỗ, H Đông Anh, TP Hà Nội",
+						"fax": "(24) 39654965",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hoài Đức",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hoài Đức",
+						"latitude": "21.073616",
+						"longtitude": "105.694214",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 33862936",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 137, quốc lộ 32, thôn Cựu Quán, xã Đức Thượng, huyện Hoài Đức",
+						"fax": "(24) 33862935",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Giao dịch Prudential Nam Từ Liêm",
+						"latitude": "20.987864",
+						"longtitude": "105.712692",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 33862934",
+								"type": ""
+							}
+						],
+						"address": "Tỉnh lộ 423, thôn Ngãi Cầu, xã An Khánh, huyện Hoài Đức, Tp. Hà Nội",
+						"fax": "(24) 33862935",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Sóc Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Sóc Sơn",
+						"latitude": "21.2802077",
+						"longtitude": "105.8466437",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 35955002",
+								"type": ""
+							}
+						],
+						"address": "Số 74 thôn Phù Mã, xã Phù Linh, H. Sóc Sơn, thành phố Hà Nội",
+						"fax": "(24) 35955382",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thường Tín",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thường Tín",
+						"latitude": "20.8713505",
+						"longtitude": "105.8642509",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 3853782",
+								"type": ""
+							}
+						],
+						"address": "Số 123 khu Viện luyện Kim Đen, xã Văn Bình, huyện Thường Tín, Tp. Hà Nội",
+						"fax": "(24) 33766562",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Hoàng Mai",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hoàng Mai",
+						"latitude": "20.984333",
+						"longtitude": "105.843207",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 36343200",
+								"type": ""
+							}
+						],
+						"address": "Tầng 2-Lô 2-3A đường Kim Đồng nối dài-P Hoàng Văn Thụ, quận Hoàng Mai, TP Hà Nội",
+						"fax": "(24) 36343205",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Hoàn Kiếm",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hoàn Kiếm",
+						"latitude": "21.0253493",
+						"longtitude": "105.8602532",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 39329755",
+								"type": ""
+							}
+						],
+						"address": "Số 877 đường Hồng Hà-P Chương Dương, quận Hoàn Kiếm, TP Hà Nội",
+						"fax": "(24) 39329758",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Ba Đình",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Ba Đình",
+						"latitude": "21.037703",
+						"longtitude": "105.813325",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 37661616 ",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(24) 32115282",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(24) 22336689",
+								"type": ""
+							}
+						],
+						"address": "Số 18, nhà G2-218 phố Đội Cấn, phường Cống Vị, quận Ba Đình, Thành Phố Hà Nội",
+						"fax": "(24) 32115344",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Hai Bà Trưng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hai Bà Trưng",
+						"latitude": "21.002988",
+						"longtitude": "105.8655923",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 39727423",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(24) 39727424",
+								"type": ""
+							}
+						],
+						"address": "Số 194 Lạc Trung- Phường Vĩnh Tuy, quận Hai Bà Trưng, Hà Nội ",
+						"fax": "(24) 39727425",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Long Biên",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Gia Lâm",
+						"latitude": "21.0407629",
+						"longtitude": "105.868822",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 36523557",
+								"type": ""
+							}
+						],
+						"address": "Số 102 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội",
+						"fax": "(24) 36523560",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phú Xuyên",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phú Xuyên",
+						"latitude": "20.733944",
+						"longtitude": "105.9141079",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 33791929",
+								"type": ""
+							}
+						],
+						"address": "Tiểu khu Phú Mỹ, thị trấn Phú Xuyên, huyện Phú Xuyên, thành phố Hà Nội",
+						"fax": "(24) 33854456",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Quốc Oai",
+				"offices": [
+					{
+						"name": "Văn phòng giáo dịch Prudential Quốc Oai",
+						"latitude": "20.995037",
+						"longtitude": "105.644185",
+						"tel": [
+							{
+								"region": "",
+								"number": "(024) 32009139",
+								"type": ""
+							}
+						],
+						"address": "Lô 17, khu tái định cư Làng Ngòi, thị trấn Quốc Oai, huyện Quốc Oai, tp. Hà Nội",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thạch Thất",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thạch Thất",
+						"latitude": "21.0589216",
+						"longtitude": "105.5750868",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 33684 446",
+								"type": ""
+							}
+						],
+						"address": "Khu phố Liên Quan, thị trấn Liên Quan, huyện Thạch Thất, thành phố Hà Nội",
+						"fax": "(24) 33684 445",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Đống Đa",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đống Đa",
+						"latitude": "21.0088408",
+						"longtitude": "105.8144077",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 35627355",
+								"type": ""
+							}
+						],
+						"address": "Số 139 phố Yên Lãng, phường Thịnh Quang, quận Đống Đa, thành phố Hà Nội",
+						"fax": "(24)35627356",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Ba Vì",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Ba Vì",
+						"latitude": "21.1993025",
+						"longtitude": "105.4448838",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 3396 0986",
+								"type": ""
+							}
+						],
+						"address": "Phố Mới, xã Chu Minh, huyện Ba Vì, thành phố Hà Nội",
+						"fax": "(24) 3396 0987",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Mê Linh",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Mê Linh",
+						"latitude": "21.1546424",
+						"longtitude": "105.7274759",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 35252385",
+								"type": ""
+							}
+						],
+						"address": "Khu 10, Thôn Thường Lệ (cách địa chỉ cũ 3 số nhà), xã Đại Thịnh, huyện Mê Linh, thành phố Hà Nội",
+						"fax": "(24) 3525 2390",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Cầu Giấy",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Cầu Giấy",
+						"latitude": "21.037491",
+						"longtitude": "105.7750779",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 37957254",
+								"type": ""
+							}
+						],
+						"address": "Số 9, Đường Hồ Tùng Mậu, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",
+						"fax": "(24) 37957253",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đan Phượng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đan Phượng",
+						"latitude": "21.079818",
+						"longtitude": "105.667647",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 33635635",
+								"type": ""
+							}
+						],
+						"address": "Khu cây sung-Vệ lăng, xã Song Phượng, huyện Đan Phượng, thành phố Hà Nội",
+						"fax": "(24) 33635636",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thanh Oai",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thanh Oai",
+						"latitude": "20.856045",
+						"longtitude": "105.767162",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 32505580",
+								"type": ""
+							}
+						],
+						"address": "Tổ 3, phố Kim Bài, thị trấn Kim Bài, huyện Thanh Oai, thành phố Hà Nội.",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Tây Hồ",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Tây Hồ",
+						"latitude": "21.0557477",
+						"longtitude": "105.8102359",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 22401633",
+								"type": ""
+							}
+						],
+						"address": "Số 8, Ngõ 282, Đường Lạc Long Quân, Phường Bưởi, Quận Tây Hồ, Tp. Hà Nội",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tây Hồ",
+						"latitude": "21.0732376",
+						"longtitude": "105.8127501",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 37612880",
+								"type": ""
+							}
+						],
+						"address": "Số 575 đường Lạc Long Quân, P. Xuân La, Quận Tây Hồ, TP. Hà Nội",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phúc Thọ",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Phúc Thọ",
+						"latitude": "21.1329554",
+						"longtitude": "105.5650239",
+						"tel": [
+							{
+								"region": "",
+								"number": "(24) 33610061",
+								"type": ""
+							}
+						],
+						"address": "Khối 11, xã Võng Xuyên, huyện Phúc Thọ, thành phố Hà Nội",
+						"fax": "(24) 33610060",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "An Giang",
+		"districts": [
+			{
+				"district": "Thành phố Long Xuyên",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Long Xuyên",
+						"latitude": "10.3990471",
+						"longtitude": "105.4210989",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0296) 6252098",
+								"type": ""
+							}
+						],
+						"address": "Số 619/31 Trần Hưng Đạo, phường Bình Khánh, Tp Long Xuyên, tỉnh An Giang",
+						"fax": "(0296) 6252094",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Long Xuyên 2",
+						"latitude": "10.3810524",
+						"longtitude": "105.4405022",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0296) 3668998",
+								"type": ""
+							}
+						],
+						"address": "Số 79 Hùng Vương, Phường Mỹ Long, TP Long Xuyên, Tỉnh An Giang",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Châu Đốc",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Châu Đốc",
+						"latitude": "10.7043986",
+						"longtitude": "105.1155617",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0296)  3562629",
+								"type": ""
+							}
+						],
+						"address": "232A Tôn Đức Thắng, Khóm Long Thị D, Phường Long Thạnh,Thị xã Tân Châu,Tỉnh An Giang",
+						"fax": "(0296) 3562669",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Tân Châu",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tân Châu",
+						"latitude": "10.798783",
+						"longtitude": "105.246325",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0296) 3536699",
+								"type": ""
+							}
+						],
+						"address": " 232A Tôn Đức Thắng, Khóm Long Thị D, Phường Long Thạnh,Thị xã Tân Châu,Tỉnh An Giang",
+						"fax": "(0296) 3536689",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tri Tôn",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tri Tôn",
+						"latitude": "10.425071",
+						"longtitude": "105.0033585",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0296) 3778099",
+								"type": ""
+							}
+						],
+						"address": "Đường 3/2, thị trấn Tri Tôn, huyện Tri Tôn, tỉnh An Giang",
+						"fax": "(0296) 3778 089",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bắc Giang",
+		"districts": [
+			{
+				"district": "Huyện Lục Ngạn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Lục Ngạn",
+						"latitude": "21.3742294",
+						"longtitude": "106.5713572",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0240) 3 683 871",
+								"type": ""
+							}
+						],
+						"address": "Khu Cây Lọng ven QL31, thôn Hựu, xã Trù Hựu, huyện Lục Ngạn, tỉnh Bắc Giang",
+						"fax": "(0240) 3 683 873",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Bắc Giang",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bắc Giang",
+						"latitude": "21.2874606",
+						"longtitude": "106.2078033",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0240) 3 823 770",
+								"type": ""
+							}
+						],
+						"address": "Lô 38N18 đường Quách Nhẫn, khu dân cư số 2, phường Xương Giang, thành phố Bắc Giang, tỉnh Bắc Giang",
+						"fax": "(0240) 3 823 775",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bắc Giang 2",
+						"latitude": "21.2799470",
+						"longtitude": "106.1987070",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0240) 3826168",
+								"type": ""
+							}
+						],
+						"address": "52 đường Hùng Vương,  phường Ngô Quyền, thành phố Bắc Giang, tỉnh Bắc Giang",
+						"fax": "(0240) 3825168",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Lục Nam",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Lục Nam",
+						"latitude": "21.3051283",
+						"longtitude": "106.384263",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0240) 3684688",
+								"type": ""
+							}
+						],
+						"address": "Phố Thanh Xuân, Thị trấn Đồi Ngô, Huyện Lục Nam, T. Bắc Giang",
+						"fax": "(0240) 3694688",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Lạng Giang",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Lạng Giang",
+						"latitude": "21.4072937",
+						"longtitude": "106.2801649",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0240) 3636777",
+								"type": ""
+							}
+						],
+						"address": "Khu 3 thị trấn Kép, huyện Lạng Giang, tỉnh Bắc Giang",
+						"fax": "(0240) 3636677",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Yên Dũng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Yên Dũng",
+						"latitude": "21.2529337",
+						"longtitude": "106.2463305",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0240) 3767677",
+								"type": ""
+							}
+						],
+						"address": "Thôn Chanh, xã Hương Gián, H. Yên Dũng, T. Bắc Giang",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bắc Kạn",
+		"districts": [
+			{
+				"district": "Thành phố Bắc Kạn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bắc Kạn",
+						"latitude": "22.1403866",
+						"longtitude": "105.8317498",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0209) 3810689",
+								"type": ""
+							}
+						],
+						"address": "Số 66, tổ 10, phường Phùng Chí Kiên, thành phố Bắc Kạn, tỉnh Bắc Kạn",
+						"fax": "(0209) 3810679",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bạc Liêu",
+		"districts": [
+			{
+				"district": "Thành phố Bạc Liêu",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bạc Liêu",
+						"latitude": "9.2934982",
+						"longtitude": "105.7199531",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0291) 3511999",
+								"type": ""
+							}
+						],
+						"address": "Lô 11, đường Bà Triệu, Phường 3, Thành phố Bạc Liêu, Tỉnh Bạc Liêu",
+						"fax": "(0291) 3511777",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bắc Ninh",
+		"districts": [
+			{
+				"district": "Thành phố Bắc Ninh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bắc Ninh",
+						"latitude": "21.1593432",
+						"longtitude": "106.0561863",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0222) 3870707",
+								"type": ""
+							}
+						],
+						"address": "Số 10LK1, đường Võ Cường 8, Phường Võ Cường, TP Bắc Ninh, Tỉnh Bắc Ninh",
+						"fax": "(0222) 3870708",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Quế Võ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quế Võ",
+						"latitude": "21.1534803",
+						"longtitude": "106.1536828",
+						"tel": [
+							{
+								"region": "",
+								"number": "01659605888",
+								"type": ""
+							}
+						],
+						"address": "Thôn Đỉnh, Thị trấn Phố Mới. Huyện Quế võ. Tỉnh Bắc Ninh",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tiên Du",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tiên Du",
+						"latitude": "21.1436431",
+						"longtitude": "106.0190414",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0222) 6519168",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0222) 6541169",
+								"type": ""
+							}
+						],
+						"address": "Số 168 đường Lý Thường Kiệt, thị trấn Lim, huyện Tiên Du, Tỉnh Bắc Ninh",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Từ Sơn",
+						"latitude": "21.1400879",
+						"longtitude": "106.0081819",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0222) 3711505",
+								"type": ""
+							}
+						],
+						"address": "Khu đất mới bãi Dé, xã Nội Duệ, huyện Tiên Du, tỉnh Bắc Ninh",
+						"fax": "(0222) 3711506",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thuận Thành",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thuận Thành",
+						"latitude": "21.0196693",
+						"longtitude": "106.0861217",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0222) 3775997",
+								"type": ""
+							}
+						],
+						"address": "Thôn Lẽ, phố Đông Côi, thị trấn Hồ, huyện Thuận Thành, Tỉnh Bắc Ninh",
+						"fax": "(0222) 3775913",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bến Tre",
+		"districts": [
+			{
+				"district": "Thành phố Bến Tre",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bến Tre",
+						"latitude": "10.259895",
+						"longtitude": "106.388796",
+						"tel": [
+							{
+								"region": "",
+								"number": "(275) 3815 855",
+								"type": ""
+							}
+						],
+						"address": "Số 315C, Đường số 2, Khu phố 3, Phường 7, Tp. Bến Tre,Tỉnh Bến Tre",
+						"fax": "(275) 3815853",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bến Tre 2",
+						"latitude": "10.234490",
+						"longtitude": "106.363549",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0275) 3810799",
+								"type": ""
+							}
+						],
+						"address": "Số 344D Nguyễn Văn Tư, Phường 7, Tp. Bến Tre,Tỉnh Bến Tre",
+						"fax": "(0275) 3810799",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bến Tre 3",
+						"latitude": "10.222906",
+						"longtitude": "106.366983",
+						"tel": [
+							{
+								"region": "",
+								"number": "(275) 3553333",
+								"type": ""
+							}
+						],
+						"address": "22-24 đường Nguyễn Văn Nguyễn, Ấp An Thuận A,Xã Mỹ Thạnh An,TP Bến Tre,Tỉnh Bến Tre",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Mỏ Cày Nam",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Mỏ Cày Nam",
+						"latitude": "10.128798",
+						"longtitude": "106.334060",
+						"tel": [
+							{
+								"region": "",
+								"number": "(275) 3663 113",
+								"type": ""
+							}
+						],
+						"address": "Ấp Tân Phước, thị trấn Mỏ Cày,  huyện Mỏ Cày Nam, tỉnh Bến Tre",
+						"fax": "(275) 3663 114",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Ba Tri",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Ba Tri",
+						"latitude": "10.0633861",
+						"longtitude": "106.5760857",
+						"tel": [
+							{
+								"region": "",
+								"number": "(275) 3763277",
+								"type": ""
+							}
+						],
+						"address": "273 ấp An Lợi, xã An Bình Tây, huyện Ba Tri , tỉnh Bến Tre",
+						"fax": "(275) 3763278",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Chợ Lách",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Chợ Lách",
+						"latitude": "10.2552774",
+						"longtitude": "106.1228809",
+						"tel": [
+							{
+								"region": "",
+								"number": "(275) 3872888",
+								"type": ""
+							}
+						],
+						"address": "Số 11/2A, Khu phố 1, Thị trấn Chợ Lách, Huyện Chợ Lách, Tỉnh Bến Tre",
+						"fax": "(275) 3571 555",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bình Định",
+		"districts": [
+			{
+				"district": "Huyện Phù Cát",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phù Cát",
+						"latitude": "13.9949875",
+						"longtitude": "109.0583387",
+						"tel": [
+							{
+								"region": "",
+								"number": "(256) 3750247",
+								"type": ""
+							}
+						],
+						"address": " Số 353 Quang Trung, thị trấn Ngô Mây, huyện Phù Cát, tỉnh Bình Định",
+						"fax": "(256) 3750269",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phù Cát 2",
+						"latitude": "13.9976648",
+						"longtitude": "109.0543003",
+						"tel": [
+							{
+								"region": "",
+								"number": "(256) 2478008",
+								"type": ""
+							}
+						],
+						"address": "158 Trần Hưng Đạo, Thị trấn Ngô Mây, Huyện Phù Cát, Tỉnh Bình Định",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tây Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tây Sơn",
+						"latitude": "13.910196",
+						"longtitude": "108.924163",
+						"tel": [
+							{
+								"region": "",
+								"number": "(256) 3580857",
+								"type": ""
+							}
+						],
+						"address": "Lô 41E Khu dân cư QL 19, thị trấn Phú Phong, huyện Tây Sơn, tỉnh Bình Định",
+						"fax": "(256) 3580849",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã An Nhơn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential An Nhơn",
+						"latitude": "13.8840102",
+						"longtitude": "109.1093935",
+						"tel": [
+							{
+								"region": "",
+								"number": "(256) -383 5939",
+								"type": ""
+							}
+						],
+						"address": "43-45 Nguyễn Đình Chiểu, phường Bình Định, thị xã An Nhơn, Tỉnh Bình Định",
+						"fax": "(256) - 383 5933",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Quy Nhơn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Qui Nhơn",
+						"latitude": "13.7824001",
+						"longtitude": "109.2203956",
+						"tel": [
+							{
+								"region": "",
+								"number": "(256) 3828 799",
+								"type": ""
+							}
+						],
+						"address": "Số 592 đường Trần Hưng Đạo, phường Thị Nại, thành phố Quy Nhơn, tỉnh Bình Định",
+						"fax": "(256) 3828 678",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quy Nhơn 2",
+						"latitude": "13.756906",
+						"longtitude": "109.2094711",
+						"tel": [
+							{
+								"region": "",
+								"number": "(256) 3535686",
+								"type": ""
+							}
+						],
+						"address": "584 Nguyễn Thái Học, Phường Quang Trung, Thành phố Quy Nhơn, Tỉnh Bình Định",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hoài Nhơn",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Bồng Sơn",
+						"latitude": "14.4320967",
+						"longtitude": "109.014126",
+						"tel": [
+							{
+								"region": "",
+								"number": "(256) 3561 499",
+								"type": ""
+							}
+						],
+						"address": "Số 122 Trần Hưng Đạo, thị trấn Bồng Sơn, huyện Hoài Nhơn, tỉnh Bình Định",
+						"fax": "(256) 3961 239",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tam Quan 2",
+						"latitude": "14.5511494",
+						"longtitude": "109.0423155",
+						"tel": [
+							{
+								"region": "",
+								"number": "(256) 3665699",
+								"type": ""
+							}
+						],
+						"address": "249 Trần Phú, thị trấn Tam Quan, Huyện Hoài Nhơn, tỉnh Bình Định",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phù Mỹ",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Phù Mỹ",
+						"latitude": "14.1819505",
+						"longtitude": "109.0531797",
+						"tel": [
+							{
+								"region": "",
+								"number": "(256) 3555579",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(256) 3555467",
+								"type": ""
+							}
+						],
+						"address": "Số 548 Quang Trung, thị trấn Phù Mỹ, Huyện Phù Mỹ, tỉnh Bình Định",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bình Dương",
+		"districts": [
+			{
+				"district": "Thị xã Dĩ An",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Dĩ An",
+						"latitude": "10.8919369",
+						"longtitude": "106.7629172",
+						"tel": [
+							{
+								"region": "",
+								"number": "(274) 3796215",
+								"type": ""
+							}
+						],
+						"address": "Số 70, đường M, khu trung tâm hành chính, P. Dĩ An, Tx. Dĩ An, T. Bình Dương",
+						"fax": "(274) 3796315",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phú Giáo",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phú Giáo",
+						"latitude": "11.2938386",
+						"longtitude": "106.7892741",
+						"tel": [
+							{
+								"region": "",
+								"number": "(274) 3675076",
+								"type": ""
+							}
+						],
+						"address": "Số 140 đường Độc Lập, khu phố 2, thị trấn Phước Vĩnh, Huyện Phú Giáo, tỉnh Bình Dương",
+						"fax": "(274) 3675077",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Thủ Dầu Một",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Phú Cường",
+						"latitude": "10.981704",
+						"longtitude": "106.652463",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0274) 3819 866",
+								"type": ""
+							}
+						],
+						"address": "Số 31 Ngô Quyền, phường Phú Cường, Tp, Thủ Dầu Một, tỉnh, Bình Dương",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thủ Dầu Một",
+						"latitude": "10.978058",
+						"longtitude": "106.672043",
+						"tel": [
+							{
+								"region": "",
+								"number": "(274) 384 4450",
+								"type": ""
+							}
+						],
+						"address": "Số 6, lô NP5, đường 30 tháng 4, phường Phú Hòa, thành phố Thủ Dầu Một, tỉnh Bình Dương",
+						"fax": "(274) 3844451",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Bến Cát",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bến Cát",
+						"latitude": "11.1379154",
+						"longtitude": "106.6114474",
+						"tel": [
+							{
+								"region": "",
+								"number": "(274) 3557 614",
+								"type": ""
+							}
+						],
+						"address": "C4-11, đường DA-11, làng Ruby Land, thị trấn Mỹ Phước, huyện Bến Cát, Bình Dương",
+						"fax": "(274) 3557 615",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Dầu Tiếng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Dầu Tiếng",
+						"latitude": "11.2767476",
+						"longtitude": "106.3599994",
+						"tel": [
+							{
+								"region": "",
+								"number": "(274) 3519696",
+								"type": ""
+							}
+						],
+						"address": "Thửa đất 599, tờ bản đồ số 16, Đường Lê Lợi, Khu phố 4B, Thị trấn Dầu Tiếng",
+						"fax": "(274) 3519699",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Thanh Tuyền",
+						"latitude": "11.348909",
+						"longtitude": "106.4641459",
+						"tel": [
+							{
+								"region": "",
+								"number": "(274) 3531866",
+								"type": ""
+							}
+						],
+						"address": "Thửa đất 111, Tờ bản đồ số 14, Ấp Xóm Bưng, Xã Thanh Tuyền",
+						"fax": "(274) 3531866",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tân Uyên",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tân Uyên",
+						"latitude": "11.0841596",
+						"longtitude": "106.7883416",
+						"tel": [
+							{
+								"region": "",
+								"number": "(274) 3642619",
+								"type": ""
+							}
+						],
+						"address": "Số 174C, tổ 4, khu phố 3, thị trấn Uyên Hưng, huyện Tân Uyên, tỉnh Bình Dương",
+						"fax": "(274) 3642618",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Bàu Bàng",
+				"offices": [
+					{
+						"name": "Văn phòng Giao Dịch Prudential Bàu Bàng",
+						"latitude": "11.274983",
+						"longtitude": "107.4263969",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0274) 3557975",
+								"type": ""
+							}
+						],
+						"address": "Số 88, đường N5-5A, Khu Công nghiệp & Đô thị Bàu Bàng, Xã Lai Uyên, Huyện Bàu Bàng, tỉnh Bình Dương",
+						"fax": "(0274) 2220547",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bình Phước",
+		"districts": [
+			{
+				"district": "Thị xã Đồng Xoài",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đồng Xoài",
+						"latitude": "11.5487041",
+						"longtitude": "106.8945456",
+						"tel": [
+							{
+								"region": "",
+								"number": "(271) 3885385",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 17, Quốc Lộ14, Phường Tân Phú, Thị xã Đồng Xoài, Tỉnh Bình Phước",
+						"fax": "(271) 3885380",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Lộc Ninh",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Lộc Ninh",
+						"latitude": "11.840106",
+						"longtitude": "106.590487",
+						"tel": [
+							{
+								"region": "",
+								"number": "(271) 3566030",
+								"type": ""
+							}
+						],
+						"address": "Số 328 Quốc Lộ 13, Khu Phố Ninh Thái, TT Lộc Ninh, H. Lộc Ninh, Tỉnh Bình Phước",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phước Long",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phước Long",
+						"latitude": "11.8167608",
+						"longtitude": "106.9553979",
+						"tel": [
+							{
+								"region": "",
+								"number": "(271) 3773775",
+								"type": ""
+							}
+						],
+						"address": "L1, Đường ĐT759, KP6, TT Phước Bình, Huyện Phước Long, Tỉnh Bình Phước",
+						"fax": "(271) 3773776",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Chơn Thành",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Chơn Thành",
+						"latitude": "11.438829",
+						"longtitude": "106.6173415",
+						"tel": [
+							{
+								"region": "",
+								"number": "(271) 366 0091",
+								"type": ""
+							}
+						],
+						"address": "Số 25 Tổ 1 Khu Phố 4 Thị Trấn Chơn Thành , Huyện Chơn Thành , Tỉnh Bình Phước",
+						"fax": "(271) 366 0092",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị trấn Đức Phong",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Bù Đăng",
+						"latitude": "11.809983",
+						"longtitude": "107.245953",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0651) 3 975 775",
+								"type": ""
+							}
+						],
+						"address": "Đường quốc lộ 14, Khu Tân Hưng, Thị trấn Đức Phong, Huyện Bù Đăng, Tỉnh Bình Phước",
+						"fax": "(0651) 3 975 774",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Bình Long",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bình Long",
+						"latitude": "11.646788",
+						"longtitude": "106.6072517",
+						"tel": [
+							{
+								"region": "",
+								"number": "(271) 3975775",
+								"type": ""
+							}
+						],
+						"address": "Số 149 Nguyễn Huệ, khu phố Phú Trung, phường An Lộc, thị xã Bình Long, tỉnh Bình Phước",
+						"fax": "(271) 3975774",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Bù Đốp",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Bù Đốp",
+						"latitude": "11.954241",
+						"longtitude": "106.797921",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0271) 3563088",
+								"type": ""
+							}
+						],
+						"address": "Đường Nguyễn Trãi, kp. Thanh Xuân, thị trấn Thanh Bình, huyện Bù Đốp, tỉnh Bình Phước",
+						"fax": "(0271) 3563077",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Đồng Phú",
+						"latitude": "11.9583348",
+						"longtitude": "106.7966593",
+						"tel": [
+							{
+								"region": "",
+								"number": "(271) 3563088",
+								"type": ""
+							}
+						],
+						"address": "Số 61 Nguyễn Huệ, TT. Thanh Bình, H. Bù Đốp, T. Bình Phước",
+						"fax": "(271) 3563077",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hớn Quản",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Hớn Quản",
+						"latitude": "11.750403",
+						"longtitude": "106.711406",
+						"tel": [
+							{
+								"region": "",
+								"number": "(271) 3610668",
+								"type": ""
+							}
+						],
+						"address": "Ấp An Quý, Xã Thanh An, Huyện Hớn Quản, Tỉnh Bình Phước",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phú Riềng",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Phú Riềng",
+						"latitude": "11.6713513",
+						"longtitude": "106.8969084",
+						"tel": [
+							{
+								"region": "",
+								"number": "(271) 3777099",
+								"type": ""
+							}
+						],
+						"address": "Số 383, Thôn Phú Thịnh, Xã Phú Riềng, H. Phú Riềng, Tỉnh Bình Phước",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bình Thuận",
+		"districts": [
+			{
+				"district": "Thị xã La Gi",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential La Gi",
+						"latitude": "10.6579694",
+						"longtitude": "107.7735621",
+						"tel": [
+							{
+								"region": "",
+								"number": "(252) 3561127",
+								"type": ""
+							}
+						],
+						"address": "Số 46 đường 234 phường Phước Hội, thị xã La Gi, tỉnh Bình Thuận",
+						"fax": "(252) 3561128",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Phan Thiết",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phan Thiết 3",
+						"latitude": "10.9354048",
+						"longtitude": "108.1038399",
+						"tel": [
+							{
+								"region": "",
+								"number": "(252) 3751079",
+								"type": ""
+							}
+						],
+						"address": "38C, đường Nguyễn Hội, phường Phú Trinh, Tp Phan Thiết, tỉnh Bình Thuận",
+						"fax": "(252) 3751 077",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phan Thiết A",
+						"latitude": "10.933410",
+						"longtitude": "108.111188",
+						"tel": [
+							{
+								"region": "",
+								"number": "(252) 3661666",
+								"type": ""
+							}
+						],
+						"address": "203 Tôn Đức Thắng, P. Phú Thủy, Tp. Phan Thiết, Tỉnh Bình Thuận",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đức Linh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đức Linh",
+						"latitude": "11.1221695",
+						"longtitude": "107.5386809",
+						"tel": [
+							{
+								"region": "",
+								"number": "(252) 3510313",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(252) 3510414",
+								"type": ""
+							}
+						],
+						"address": "Số 94 Đường 3/2, Thị trấn Đức Tài, Huyện Đức Linh, Tỉnh Bình Thuận",
+						"fax": "(252) 3510 515",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Bắc Bình",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tuy Phong",
+						"latitude": "11.186179",
+						"longtitude": "108.530839",
+						"tel": [
+							{
+								"region": "",
+								"number": "(252) 3667222",
+								"type": ""
+							}
+						],
+						"address": "A9 Khu quy hoạch dân cư Cầu Nam, Thôn Bình Long, Xã Phan Rí Thành, Huyện Bắc Bình, Tỉnh Bình Thuận",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Bắc Bình",
+						"latitude": "11.1954413",
+						"longtitude": "108.5341002",
+						"tel": [
+							{
+								"region": "",
+								"number": "(252) 3873078",
+								"type": ""
+							}
+						],
+						"address": "Số 130 Quốc lộ 1A, Thôn Bình Long, Xã Phan Rí Thành, Huyện Bắc Bình, Tỉnh Bình Thuận",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tánh Linh",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tánh Linh",
+						"latitude": "11.0906029",
+						"longtitude": "107.6792469",
+						"tel": [
+							{
+								"region": "",
+								"number": "(252) 3880414",
+								"type": ""
+							}
+						],
+						"address": "Số 174 đường 25/12, khu phố Lạc Thuận, huyện Tánh Linh, tỉnh Bình Thuận",
+						"fax": "(252) 3880 616",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Cà Mau",
+		"districts": [
+			{
+				"district": "Thành phố Cà Mau",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cà Mau",
+						"latitude": "9.1813842",
+						"longtitude": "105.1583831",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0290) 3552929",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0290) 3562626",
+								"type": ""
+							}
+						],
+						"address": "135 Trần Hưng Đạo, Phường 5, Tp Cà Mau, tỉnh Cà Mau",
+						"fax": "(0290) 3552126",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Cái Nước",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Cái Nước",
+						"latitude": "8.9326127",
+						"longtitude": "105.0126425",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0290) 3882268",
+								"type": ""
+							}
+						],
+						"address": "Quốc lộ 1A, Khóm 3, Thị Trấn Cái Nước, Huyện Cái Nước, Tỉnh Cà Mau (cách văn phòng cũ 400m, phía đối diện)",
+						"fax": "(0290) 3882278",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Cần Thơ",
+		"districts": [
+			{
+				"district": "Quận Ninh Kiều",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cần Thơ",
+						"latitude": "10.035505",
+						"longtitude": "105.772665",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0292) 3753111",
+								"type": ""
+							}
+						],
+						"address": "35-37 đường Mậu Thân - Phường Xuân Khánh - QNinh Kiều - TPCần Thơ",
+						"fax": "(0292) 3753222",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cần Thơ 2",
+						"latitude": "10.0461619",
+						"longtitude": "105.7868026",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0292) 3845333",
+								"type": ""
+							}
+						],
+						"address": "Số 171 Trần Văn Khéo, phường Cái Khế, quận Ninh Kiều, Tp. Cần Thơ",
+						"fax": "(0292) 3845 339",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Cao Bằng",
+		"districts": [
+			{
+				"district": "Thành phố Cao Bằng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cao Bằng",
+						"latitude": "22.6728504",
+						"longtitude": "106.2583066",
+						"tel": [
+							{
+								"region": "",
+								"number": "(026) 3 955 955",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 73, tổ 3, đường Pác Bó, Phường Sông Bằng",
+						"fax": "(026) 3 955 567",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Đà Nẵng",
+		"districts": [
+			{
+				"district": "Quận Hải Châu",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hải Châu 2",
+						"latitude": "16.0543310",
+						"longtitude": "108.2200100",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0236) 3 616 144",
+								"type": ""
+							}
+						],
+						"address": "Số 1N Núi Thành, phường Bình Thuận, quận Hải Châu, Tp Đà Nẵng",
+						"fax": "(0236) 3 616 141",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cẩm Lệ",
+						"latitude": "16.045713",
+						"longtitude": "108.209778",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0236) 3 629 777",
+								"type": ""
+							}
+						],
+						"address": "168 Nguyễn Hữu Thọ, Phường Hòa Thuận Tây, Quận Hải Châu, Tp Đà Nẵng",
+						"fax": "(0236) 3 629 776",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Liên Chiểu",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Liên Chiểu",
+						"latitude": "16.0740561",
+						"longtitude": "108.1496715",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0236) 3 740 303",
+								"type": ""
+							}
+						],
+						"address": "171E Nguyễn Lương Bằng,  Phường Hòa Khánh Bắc, Quận Liên Chiểu, Tp Đà Nẵng",
+						"fax": "(0236) 3 740 304",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Thanh Khê",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thanh Khê",
+						"latitude": "16.0672162",
+						"longtitude": "108.1920727",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0236) 3 727 444",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0236) 3 727 446",
+								"type": ""
+							}
+						],
+						"address": "94 Hà Huy Tập, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",
+						"fax": "(0236) 3 727 447",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Giao dịch Prudential Vinh Trung",
+						"latitude": "16.0602960",
+						"longtitude": "108.2123590",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0236) 3956668",
+								"type": ""
+							}
+						],
+						"address": "Tầng 7, Tòa nhà Ngân hàng TMCP Kiên Long, 158-160 Nguyễn Văn Linh, Phường Vĩnh Trung, Quận Thanh Khê, Thành phố Đà Nẵng",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Ngũ Hành Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Ngũ Hành Sơn",
+						"latitude": "16.0498847",
+						"longtitude": "108.2379126",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0236) 3943777",
+								"type": ""
+							}
+						],
+						"address": "Số 90 Ngũ Hành Sơn, P. Mỹ An, Q. Ngũ Hành Sơn, TP. Đà Nẵng",
+						"fax": "(0236) 3943877",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Cẩm Lệ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Khuê Trung",
+						"latitude": "16.0210195",
+						"longtitude": "108.2123401",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0236) 3673999",
+								"type": ""
+							}
+						],
+						"address": "192 Cách Mạng Tháng 8, phường Khuê Trung, quận Cẩm Lệ, tp. Đà Nẵng",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hòa Vang",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Hoà Vang",
+						"latitude": "16.0061839",
+						"longtitude": "108.1129908",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0236) 362 9168",
+								"type": ""
+							}
+						],
+						"address": "Quốc lộ 14G, Hòa Phú 2, Xã Hòa Nhơn, Huyện Hòa Vang, Đà Nẵng",
+						"fax": "(0236) 362 9165",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Đăk Lăk",
+		"districts": [
+			{
+				"district": "Huyện EA Kar",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Ea Kar",
+						"latitude": "12.809117",
+						"longtitude": "108.450035",
+						"tel": [
+							{
+								"region": "",
+								"number": "(262) 3627599",
+								"type": ""
+							}
+						],
+						"address": "Số 21 đường Quang Trung, thị trấn Ea Kar",
+						"fax": "(262) 3627499",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Cư Kuin",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cukuin",
+						"latitude": "12.5800137",
+						"longtitude": "108.1479078",
+						"tel": [
+							{
+								"region": "",
+								"number": "(262) 3639010",
+								"type": ""
+							}
+						],
+						"address": "16, Quốc lộ 27, Xã Đray Bhăng",
+						"fax": "((262) 3639030    ",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Ea H’Leo",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Ea H’Leo",
+						"latitude": "13.2085956",
+						"longtitude": "108.2121849",
+						"tel": [
+							{
+								"region": "",
+								"number": "(262) 3776559",
+								"type": ""
+							}
+						],
+						"address": "282B đường Giải Phóng, thị trấn Ea Đrăng",
+						"fax": "(262) 3778863",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Krông Năng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Krông Năng",
+						"latitude": "12.9522222",
+						"longtitude": "108.3455725",
+						"tel": [
+							{
+								"region": "",
+								"number": "(262) 3674234",
+								"type": ""
+							}
+						],
+						"address": "Số 186 Nguyễn Tất Thành, Tổ dân phố 1, thị trấn Krông Năng, huyện Krông Năng, tỉnh Đắk Lắk",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Krông Bông",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Krông Bông",
+						"latitude": "12.4730320",
+						"longtitude": "108.4750846",
+						"tel": [
+							{
+								"region": "",
+								"number": "(262) 3733234",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 23 Nguyễn Huệ, Tổ dân phố 6, Thị trấn Krông Kmar, Huyện Krông Bông, Tỉnh Đắk Lắk",
+						"fax": "(262) 3733235",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Cư M’gar",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cư M’gar",
+						"latitude": "12.819907",
+						"longtitude": "108.0768123",
+						"tel": [
+							{
+								"region": "",
+								"number": "(262) 3898686",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(262) 3945678",
+								"type": ""
+							}
+						],
+						"address": "Số 54 Hùng Vương, thị trấn Quảng Phú",
+						"fax": "(262) 3539797",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Buôn Ma Thuột",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Buôn Ma Thuột",
+						"latitude": "12.6886263",
+						"longtitude": "108.0532341",
+						"tel": [
+							{
+								"region": "",
+								"number": "(262) 3970379",
+								"type": ""
+							}
+						],
+						"address": "Số 3 đường Tú Xương, Phường Tân Lợi, TP Buôn Ma Thuột, tỉnh Đăk Lăk",
+						"fax": "(262) 3970279",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Đắk Nông",
+		"districts": [
+			{
+				"district": "Thị xã Gia Nghĩa",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đắc Nông",
+						"latitude": "11.9787578",
+						"longtitude": "107.6556536",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0501) 3 544 212",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 14, đường 233, phường Nghĩa Tân, thị xã Gia Nghĩa, tỉnh Đắk Nông",
+						"fax": "(0501) 3 544 112",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đắk R\"lấp",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Kiến Đức",
+						"latitude": "11.9920630",
+						"longtitude": "107.5103769",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0501) 364 7676",
+								"type": ""
+							}
+						],
+						"address": "Số 130 Nguyễn Tất Thành, thị trấn Kiến Đức",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Điện Biên",
+		"districts": [
+			{
+				"district": "Thành phố Điện Biên Phủ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Điện Biên",
+						"latitude": "21.3943667",
+						"longtitude": "103.0198524",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0215) 3835246",
+								"type": ""
+							}
+						],
+						"address": "Số 261, tổ dân phố 12, phường Him Lam, thành phố Điện Biên Phủ, tỉnh Điện Biên",
+						"fax": "(0215) 3835247",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Đồng Nai",
+		"districts": [
+			{
+				"district": "Thị xã Long Khánh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Long Khánh",
+						"latitude": "10.9141609",
+						"longtitude": "107.2341324",
+						"tel": [
+							{
+								"region": "",
+								"number": "(251) 3784 772",
+								"type": ""
+							}
+						],
+						"address": "Số B8, KP.2, P. Phú Bình, TX. Long Khánh",
+						"fax": "(251) 3784 773",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Biên Hoà",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Biên Hòa",
+						"latitude": "10.9690126",
+						"longtitude": "106.8651269",
+						"tel": [
+							{
+								"region": "",
+								"number": "(251) 3947 898",
+								"type": ""
+							}
+						],
+						"address": "1467 Nguyễn Ái Quốc, KP.5, P. Tân Tiến, Tp. Biên Hòa, T. Đồng Nai",
+						"fax": "(251) 3947899",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Biên Hòa 2",
+						"latitude": "10.958373",
+						"longtitude": "106.837646",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0251) 3822208",
+								"type": ""
+							}
+						],
+						"address": "Số 1279 Phạm Văn Thuận, KP2, Phường Thống Nhất, Tp. Biên Hòa, Tỉnh Đồng Nai",
+						"fax": "(0251) 3822219",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị Trấn Long Thành",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Long Thành",
+						"latitude": "10.7694455",
+						"longtitude": "106.9537535",
+						"tel": [
+							{
+								"region": "",
+								"number": "(251) 2814668",
+								"type": ""
+							}
+						],
+						"address": "A2-7 Chợ Long Thành, Khu Cầu Xẻo, Thị trấn Long Thành, Tỉnh Đồng Nai",
+						"fax": "(251) 2814667",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Định Quán",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Định Quán",
+						"latitude": "11.231686",
+						"longtitude": "107.378734",
+						"tel": [
+							{
+								"region": "",
+								"number": "(251) 3851799",
+								"type": ""
+							}
+						],
+						"address": "Khu dân cư 3, ấp 5, Xã Phú Vinh, H. Định Quán, Tỉnh Đồng Nai",
+						"fax": "(251) 3851788",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thống Nhất",
+						"latitude": "11.136228",
+						"longtitude": "107.302107",
+						"tel": [
+							{
+								"region": "",
+								"number": "(251) 3684468",
+								"type": ""
+							}
+						],
+						"address": "24/7 Ấp 2, Xã Phú Ngọc, H. Định Quán, Tỉnh Đồng Nai",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": " Huyện Xuân Lộc",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Xuân Lộc",
+						"latitude": "10.9281732",
+						"longtitude": "107.4144526",
+						"tel": [
+							{
+								"region": "",
+								"number": "(251) 3871099",
+								"type": ""
+							}
+						],
+						"address": "Tổ 3, KP. 6, thị trấn Gia Ray, huyện Xuân Lộc, tỉnh Đồng Nai",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tân Phú",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tân Phú",
+						"latitude": "11.267745",
+						"longtitude": "107.429239",
+						"tel": [
+							{
+								"region": "",
+								"number": "(251) 3856889",
+								"type": ""
+							}
+						],
+						"address": "Số 944, tổ 6, khu phố 10, quốc lộ 20, thị trấn Tân Phú, huyện Tân Phú, tỉnh Đồng Nai",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Tân Phú",
+						"latitude": "11.27291",
+						"longtitude": "107.437313",
+						"tel": [
+							{
+								"region": "",
+								"number": "(251) 3856889",
+								"type": ""
+							}
+						],
+						"address": "Số 429, tổ 1, Khu 3, Thị trấn Tân Phú, Huyện Tân Phú, Tỉnh Đồng Nai",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Đồng Tháp",
+		"districts": [
+			{
+				"district": "Thành phố Cao Lãnh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cao Lãnh",
+						"latitude": "10.468711",
+						"longtitude": "105.626450",
+						"tel": [
+							{
+								"region": "",
+								"number": "(277) 3877661",
+								"type": ""
+							}
+						],
+						"address": "238 Nguyễn Thị Minh Khai, Phường 1, Tp. Cao Lãnh, Tỉnh Đồng Tháp",
+						"fax": "(277) 3877662",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Sa Đéc",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Sa Đéc",
+						"latitude": "10.303561",
+						"longtitude": "105.757467",
+						"tel": [
+							{
+								"region": "",
+								"number": "(277) 3867177",
+								"type": ""
+							}
+						],
+						"address": "Số 52 Đường Trần Thị Nhượng, Khóm 3, P. 1, TP. Sa Đéc, T. Đồng Tháp",
+						"fax": "(277) 3867577",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Hồng Ngự",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hồng Ngự",
+						"latitude": "10.8136181",
+						"longtitude": "105.3354051",
+						"tel": [
+							{
+								"region": "",
+								"number": "(277) 3584111",
+								"type": ""
+							}
+						],
+						"address": "Tổ 7, khóm Sở Thượng, phường An Lạc, Thị xã Hồng Ngự, tỉnh Đồng Tháp",
+						"fax": "(277) 3585234",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Gia Lai",
+		"districts": [
+			{
+				"district": "Thành phố Pleiku",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Gia Lai",
+						"latitude": "13.987415",
+						"longtitude": "108.014655",
+						"tel": [
+							{
+								"region": "",
+								"number": "(269) 3715165",
+								"type": ""
+							}
+						],
+						"address": "Số 153, đường CMT8, phường Hoa Lư, Tp Pleiku, Tỉnh Gia Lai",
+						"fax": "(269) 3826372",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Ayun Pa",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Ayun Pa",
+						"latitude": "13.399586",
+						"longtitude": "108.446800",
+						"tel": [
+							{
+								"region": "",
+								"number": "(269) 3852679",
+								"type": ""
+							}
+						],
+						"address": "353 Trần Hưng Đạo, phường Hòa Bình, thị xã Ayun Pa",
+						"fax": "(269) 3852348",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã An Khê",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential An Khê",
+						"latitude": "13.9541168",
+						"longtitude": "108.6600423",
+						"tel": [
+							{
+								"region": "",
+								"number": "(269) 3533 705",
+								"type": ""
+							}
+						],
+						"address": "173 Đỗ Trạc, tổ 4, P. Tây Sơn",
+						"fax": "(269) 6250 229",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Kbang",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Kbang",
+						"latitude": "14.1409194",
+						"longtitude": "108.6022610",
+						"tel": [
+							{
+								"region": "",
+								"number": "(269) 3880880",
+								"type": ""
+							}
+						],
+						"address": "155 Lê Văn Tám, TT Kbang",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Hà Giang",
+		"districts": [
+			{
+				"district": "Thành phố Hà Giang",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hà Giang",
+						"latitude": "22.838902",
+						"longtitude": "104.981279",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0219) 3868466",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 217 đường Trần Hưng Đạo, tổ 8, phường Trần Phú, thành phố Hà Giang, tỉnh Hà Giang",
+						"fax": "(0219) 3875444",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Bắc Quang",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bắc Quang",
+						"latitude": "22.42043",
+						"longtitude": "104.824175",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0219) 3821818",
+								"type": ""
+							}
+						],
+						"address": "Số 201A, tổ 1, thị trấn Việt Quang, huyện Bắc Quang, tỉnh Hà Giang",
+						"fax": "(0219) 3822685",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Yên Minh",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Yên Minh",
+						"latitude": "23.118864",
+						"longtitude": "105.140173",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0219) 3850889",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 70, Tổ 2, Thị trấn Yên Minh, Huyện Yên Minh, tỉnh Hà Giang",
+						"fax": "(0219) 3850889",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Hà Nam",
+		"districts": [
+			{
+				"district": "Thành phố Phủ Lý",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phủ Lý",
+						"latitude": "20.5430094",
+						"longtitude": "105.9123685",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0226) 3855073",
+								"type": ""
+							}
+						],
+						"address": "Tầng 4, Số 114, Đường Trần Phú, Phường Quang Trung, Thành phố Phủ Lý",
+						"fax": "(0226) 3849727",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Lý Nhân",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Lý Nhân",
+						"latitude": "20.5530847",
+						"longtitude": "106.0308227",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0226) 3585585",
+								"type": ""
+							}
+						],
+						"address": "Số 9 đường Trần Thánh Tông, thị trấn Vĩnh Trụ, huyện Lý Nhân",
+						"fax": "(0226) 3585585",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thanh Liêm",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Thanh Liêm",
+						"latitude": "20.4602739",
+						"longtitude": "105.9406128",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0226) 3887171",
+								"type": ""
+							}
+						],
+						"address": "Xóm Tô Vũ, xã Thanh Lưu, huyện Thanh Liêm",
+						"fax": "(0226) 388 7171",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Hà Tĩnh",
+		"districts": [
+			{
+				"district": "Thành phố Hà Tĩnh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hà Tĩnh",
+						"latitude": "18.3355800",
+						"longtitude": "105.8982720",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0239) 3852 717",
+								"type": ""
+							}
+						],
+						"address": "Số 77 đường Hà Huy Tập, phường Nam Hà, TP Hà Tĩnh",
+						"fax": "(0239) 3 852 715",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Hồng Lĩnh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hồng Lĩnh",
+						"latitude": "18.523821",
+						"longtitude": "105.729249",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0239) 3787 555",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 399, đường Quang Trung, phường Đậu Liêu, thị xã Hồng Lĩnh, tỉnh Hà Tĩnh",
+						"fax": "(0239) 3787 444",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Kỳ Anh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Kỳ Anh",
+						"latitude": "18.0648343",
+						"longtitude": "106.2963486",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0239) 3721949",
+								"type": ""
+							}
+						],
+						"address": "Tiểu khu 6, khối phố Hưng Thịnh, Thị trấn Kỳ Anh",
+						"fax": "(0239) 3721948",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hương Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Hương Sơn",
+						"latitude": "18.5075895",
+						"longtitude": "105.4199962",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0239) 3516456",
+								"type": ""
+							}
+						],
+						"address": "Khối 1, thị trấn Phố Châu, huyện Hương Sơn, tỉnh Hà Tĩnh",
+						"fax": "(0239) 3516345",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hương Khê",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Hương Khê",
+						"latitude": "18.1761046",
+						"longtitude": "105.6986033",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0239) 387 2555",
+								"type": ""
+							}
+						],
+						"address": "Số 238 Trần Phú, Thị trấn Hương Khê, huyện Hương Khê, Hà Tĩnh",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Nghi Xuân",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Nghi Xuân",
+						"latitude": "18.6405151",
+						"longtitude": "105.7292491",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0239) 3828888",
+								"type": ""
+							}
+						],
+						"address": "Nhà bà Võ Thị Đào, khối 2, thị trấn Xuân An, huyện Nghi Xuân, tỉnh Hà Tĩnh",
+						"fax": "(0239) 3822456",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Hải Dương",
+		"districts": [
+			{
+				"district": "Huyện Gia Lộc",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Gia Lộc",
+						"latitude": "20.8244858",
+						"longtitude": "106.2786937",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3514807",
+								"type": ""
+							}
+						],
+						"address": "Phố Đoan Thượng, khu đô thị phía Tây, thị trấn Gia Lộc",
+						"fax": "(0220) 3514808",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Chí Linh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Chí Linh",
+						"latitude": "21.0651184",
+						"longtitude": "106.3114357",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3884323",
+								"type": ""
+							}
+						],
+						"address": "Khu dân cư Ninh Chấp 7, phường Thái Học, thị xã Chí Linh",
+						"fax": "(0220) 3594495",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Nam Sách",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Nam Sách",
+						"latitude": "20.9943083",
+						"longtitude": "106.3345567",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3754499",
+								"type": ""
+							}
+						],
+						"address": "Số 405, đường Trần Phú, Thị trấn Nam Sách",
+						"fax": "(0220) 3756222",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Kinh Môn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Kinh Môn",
+						"latitude": "20.9944813",
+						"longtitude": "106.5495683",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3826788",
+								"type": ""
+							}
+						],
+						"address": "Ngã 4 Phụ Sơn, TT Kinh Môn",
+						"fax": "(0220) 3826786",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Kinh Môn 2",
+						"latitude": "21.002820",
+						"longtitude": "106.535814",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3826188",
+								"type": ""
+							}
+						],
+						"address": "Thôn Hiệp Thạch, xã Hiệp Sơn",
+						"fax": "(0220) 3826288",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Bình Giang",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Bình Giang",
+						"latitude": "20.9000923",
+						"longtitude": "106.1551531",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3772266",
+								"type": ""
+							}
+						],
+						"address": "Số 88 Đường 20, Xã Tráng Liệt",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thanh Miện",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Thanh Miện",
+						"latitude": "20.7873431",
+						"longtitude": "106.2428047",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 6263019",
+								"type": ""
+							}
+						],
+						"address": "Số 179 phố Nguyễn Lương Bằng, Thị trấn Thanh Miện",
+						"fax": "(0220) 626 3019",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thanh Hà",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Thanh Hà",
+						"latitude": "20.8875120",
+						"longtitude": "106.4027380",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3815528",
+								"type": ""
+							}
+						],
+						"address": "Thôn An Liệt, Xã Thanh Hải",
+						"fax": "(0220) 381 5528",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Kim Thành",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Kim Thành",
+						"latitude": "20.964838",
+						"longtitude": "106.515599",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3726888",
+								"type": ""
+							}
+						],
+						"address": "Số 66 quốc lộ 5, thị trấn Phú Thái",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Ninh Giang",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Ninh Giang",
+						"latitude": "20.7328025",
+						"longtitude": "106.4037820",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3765885",
+								"type": ""
+							}
+						],
+						"address": "LK 8-6 khu dịch vụ phía bắc , thị trấn Ninh Giang ",
+						"fax": "(0220) 3765889",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Hải Dương",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hải Dương",
+						"latitude": "20.9320750",
+						"longtitude": "106.3383472",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0320) 3 848 767",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0220) 384 8767",
+								"type": ""
+							}
+						],
+						"address": "Số 215 Nguyễn Bỉnh Khiêm, phường Hải Tân",
+						"fax": "(0220) 384 8764",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cẩm Giàng",
+						"latitude": "20.8989553",
+						"longtitude": "106.3677193",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3892228",
+								"type": ""
+							}
+						],
+						"address": "Lô 120.134 khu biệt thự Đỉnh Long, P. Tân Bình",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cẩm Giàng 2",
+						"latitude": "20.934106",
+						"longtitude": "106.254487",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3867363",
+								"type": ""
+							}
+						],
+						"address": "Thôn Nghĩa, thị trấn Lai Cách, huyện Cẩm Giàng, tỉnh Hải Dương",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hải Dương 2",
+						"latitude": "20.9437154",
+						"longtitude": "20.9437154",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 856566",
+								"type": ""
+							}
+						],
+						"address": "Sô 142C Quang Trung, P. Quang Trung",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hải Dương 3",
+						"latitude": "20.925162",
+						"longtitude": "106.331885",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3852358",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 33 đường Thanh Niên, phường Hải Tân, thành phố Hải Dương",
+						"fax": "(0220) 3852359",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tứ Kỳ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tứ Kỳ",
+						"latitude": "20.816540",
+						"longtitude": "106.411208",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0220) 3747768",
+								"type": ""
+							}
+						],
+						"address": "Số 523 đường 391, thị trấn Tứ Kỳ, huyện Tứ Kỳ, tỉnh Hải Dương",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Hải Phòng",
+		"districts": [
+			{
+				"district": "Thành Phố Hải Phòng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hải Phòng 2",
+						"latitude": "20.840826",
+						"longtitude": "106.645710",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3293 499",
+								"type": ""
+							}
+						],
+						"address": "128 chung cư Hoàng Mai, xã Đồng Thái, huyện An Dương, Tp. Hải Phòng",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Ngô Quyền",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hồng Bàng",
+						"latitude": "20.8624050",
+						"longtitude": "106.6931730",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 757398",
+								"type": ""
+							}
+						],
+						"address": "Số 5 Võ Thị Sáu, P. Máy Tơ",
+						"fax": "(0225) 757397",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hải Phòng 1",
+						"latitude": "20.8567406",
+						"longtitude": "106.6871780",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3552898",
+								"type": ""
+							}
+						],
+						"address": "Số 88 Lương Khánh Thiện, P. Lương Khánh Thiện",
+						"fax": "(0225) 3552998",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Hải An",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential An Dương 2",
+						"latitude": "20.843335",
+						"longtitude": "106.719118",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3670018",
+								"type": ""
+							}
+						],
+						"address": "Số 58 Lũng Bắc, Phường Đằng Hải",
+						"fax": "(0225) 3670016",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Đồ Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Dương Kinh",
+						"latitude": "20.7120691",
+						"longtitude": "106.7884911",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3633386",
+								"type": ""
+							}
+						],
+						"address": "Số 89 Lý Thánh Tông, P. Vạn Sơn",
+						"fax": "(0225) 3633385",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tiên Lãng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Vĩnh Bảo",
+						"latitude": "20.7274827",
+						"longtitude": "106.5613534",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3899666",
+								"type": ""
+							}
+						],
+						"address": "Số 263 đường 354, khu 4 thị trấn Tiên Lãng",
+						"fax": "(0225) 3899699",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tiên Lãng",
+						"latitude": "20.706086",
+						"longtitude": "106.602606",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3683683",
+								"type": ""
+							}
+						],
+						"address": "Xóm 10 chợ Đông Quy, xã Toàn Thắng",
+						"fax": "(0225) 3683683",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thuỷ Nguyên",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thủy Nguyên",
+						"latitude": "20.9174105",
+						"longtitude": "106.6752827",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3916599",
+								"type": ""
+							}
+						],
+						"address": "Số 21 đường Đà Nẵng, Thị trấn Núi Đèo",
+						"fax": "(0225) 3916586",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Hồng Bàng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quán Toan",
+						"latitude": "20.861909",
+						"longtitude": "106.672588",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3553980",
+								"type": ""
+							}
+						],
+						"address": "Số 4B Bạch Đằng, phường Hạ Lý",
+						"fax": "(0225) 355 3983",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Lê Chân",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential An Dương",
+						"latitude": "20.8512483",
+						"longtitude": "106.6631225",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3770839",
+								"type": ""
+							}
+						],
+						"address": "Số 121 Lán Bè, P. Lam Sơn",
+						"fax": "(0225) 3770838",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Quận Kiến An",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Kiến An",
+						"latitude": "20.821682",
+						"longtitude": "106.648242",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0225) 3542039",
+								"type": ""
+							}
+						],
+						"address": "Số 1 No 17 đường Lê Duẩn, phường Bắc Sơn, quận Kiến An",
+						"fax": "(0225) 3542036",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Hậu Giang",
+		"districts": [
+			{
+				"district": "Thành phố Vị Thanh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Vị Thanh",
+						"latitude": "9.7817622",
+						"longtitude": "105.4696599",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0293) 3582431",
+								"type": ""
+							}
+						],
+						"address": "Số 69 Hải Thượng Lãn Ông, P. 1",
+						"fax": "(0293) 3582433",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Hòa Bình",
+		"districts": [
+			{
+				"district": "Thành phố Hòa Bình",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hòa Bình",
+						"latitude": "20.827167",
+						"longtitude": "105.340487",
+						"tel": [
+							{
+								"region": "",
+								"number": "(021) 8628 8098",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 29, tổ 1A, P. Tân Thịnh,",
+						"fax": "(021) 8628 8095",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hòa Bình 2",
+						"latitude": "20.821336",
+						"longtitude": "105.358125",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0218) 3856956",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 216, xóm 6, xã Sủ Ngòi, thành phố Hòa Bình, tỉnh Hòa Bình",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Lương Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Lương Sơn",
+						"latitude": "20.893670",
+						"longtitude": "105.518130",
+						"tel": [
+							{
+								"region": "",
+								"number": "(021) 83826956",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 18, tiểu khu 7, thị trấn Lương Sơn, tỉnh Hòa Bình",
+						"fax": "(021) 83826958",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tân Lạc",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tân Lạc",
+						"latitude": "20.6213895",
+						"longtitude": "105.2775923",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0218) 3832581",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 33, khu 2, Thị trấn Mường Khến",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Hưng Yên",
+		"districts": [
+			{
+				"district": "Thành phố Hưng Yên",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Nam Hưng Yên",
+						"latitude": "20.678388",
+						"longtitude": "106.081787",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0221) 3559198",
+								"type": ""
+							}
+						],
+						"address": "Đội 7, thôn Đào Đặng, xã Trung Nghĩa",
+						"fax": "(0221) 3559197",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Mỹ Hào",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phố Nối",
+						"latitude": "20.9260286",
+						"longtitude": "106.0567653",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0221) 3942 946",
+								"type": ""
+							}
+						],
+						"address": "Số 83 Phố Nối, Thị trấn Bần Yên Nhân",
+						"fax": "(0221) 3942 945",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Văn Giang",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Văn Giang",
+						"latitude": "20.9502376",
+						"longtitude": "105.9437337",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0221) 3933636",
+								"type": ""
+							}
+						],
+						"address": "Số 338, Thị trấn Văn Giang",
+						"fax": "(0221) 393 3616",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Yên Mỹ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Yên Mỹ",
+						"latitude": "20.887880",
+						"longtitude": "106.037265",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0221) 3962345",
+								"type": ""
+							}
+						],
+						"address": "Khu giãn dân, thôn Trai Trang, thị trấn Yên Mỹ, huyện Yên Mỹ, tỉnh Hưng Yên",
+						"fax": "(0221) 3962570",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Khoái Châu",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Văn Lâm",
+						"latitude": "20.8432211",
+						"longtitude": "106.0097355",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0221) 3714696",
+								"type": ""
+							}
+						],
+						"address": "Đường 39A, thôn Yên Lịch, xã Dân Tiến",
+						"fax": "(0221) 371 4696",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Văn Lâm",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Khoái Châu",
+						"latitude": "20.9885788",
+						"longtitude": "105.9876149",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0221) 6539976",
+								"type": ""
+							}
+						],
+						"address": "Cụm dân cư số 3, thị trấn Như Quỳnh",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Kim Động",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Kim Động",
+						"latitude": "20.732982",
+						"longtitude": "106.053783",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0221) 3810488",
+								"type": ""
+							}
+						],
+						"address": "Số 25 đường Tân Hưng, thị trấn Lương Bằng, huyện Kim Động, tỉnh Hưng Yên",
+						"fax": "(0221) 3810489",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Khánh Hòa",
+		"districts": [
+			{
+				"district": "Thị trấn Ninh Hòa",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Ninh Hòa",
+						"latitude": "12.5464580",
+						"longtitude": "109.2165220",
+						"tel": [
+							{
+								"region": "",
+								"number": "(258) 3632255",
+								"type": ""
+							}
+						],
+						"address": "Lô 15, Khu quy hoạch dân cư, đường Trần Quý Cáp, thôn 1",
+						"fax": "(258) 3632266",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Cam Ranh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cam Ranh",
+						"latitude": "11.9313066",
+						"longtitude": "109.1382900",
+						"tel": [
+							{
+								"region": "",
+								"number": "(258) 3956889",
+								"type": ""
+							}
+						],
+						"address": "Số nhà A 4, Chung cư Lạc Hòa,P. Cam Lộc",
+						"fax": "(258) 3956898",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Nha Trang",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Nha Trang",
+						"latitude": "12.2477221",
+						"longtitude": "109.1894510",
+						"tel": [
+							{
+								"region": "",
+								"number": "(258) 6261279",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(258) 351 0577",
+								"type": ""
+							}
+						],
+						"address": "50 Lý Thánh Tôn, phường Phương Sài",
+						"fax": "(058) 351 0577",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Cam Lâm",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cam Lâm",
+						"latitude": "12.057750",
+						"longtitude": "109.158275",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0258) 3900679",
+								"type": ""
+							}
+						],
+						"address": "Số 499 Trường Chinh, tổ dân phố Bãi Giếng Nam, thị trấn Cam Đức, huyện Cam Lâm, tỉnh Khánh Hòa",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Diên Khánh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Diên Khánh",
+						"latitude": "12.2707339",
+						"longtitude": "109.0963133",
+						"tel": [
+							{
+								"region": "",
+								"number": "(258) 3761139",
+								"type": ""
+							}
+						],
+						"address": "Phú Ân Nam, Xã Diên An",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Vạn Ninh",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Vạn Ninh",
+						"latitude": "12.691700",
+						"longtitude": "109.220895",
+						"tel": [
+							{
+								"region": "",
+								"number": "(258) 3912579",
+								"type": ""
+							}
+						],
+						"address": "Tổ dân phố 14, đường Hùng Vương, thị trấn Vạn Giã, Huyện Vạn Ninh, tỉnh Khánh Hòa",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Kiên Giang",
+		"districts": [
+			{
+				"district": "Huyện Phú Quốc",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phú Quốc",
+						"latitude": "10.2233002",
+						"longtitude": "103.9652149",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0297) 3994843",
+								"type": ""
+							}
+						],
+						"address": "87, đường Nguyễn Trung Trực, Khu phố 4",
+						"fax": "(0297) 994 842",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Kiên Lương",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Kiên Lương",
+						"latitude": "10.250751",
+						"longtitude": "104.591136",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0297) 3751019",
+								"type": ""
+							}
+						],
+						"address": "Số 15, 16 Đường Trần Hưng Đạo, TTTM 3, Khu phố Ba Hòn, Thị trấn Kiên Lương",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện An Biên",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential An Biên",
+						"latitude": "10.0603863",
+						"longtitude": "105.2289042",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0297) 3739739",
+								"type": ""
+							}
+						],
+						"address": "Số 339, ấp 7 Chợ, xã Đông Thái, huyện An Biên, tỉnh Kiên Giang",
+						"fax": "(0297) 3739839",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Rạch Giá",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Rạch Giá",
+						"latitude": "9.987296",
+						"longtitude": "105.089348",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0297) 3944499",
+								"type": ""
+							}
+						],
+						"address": "Số 519-521 đường 3/2, phường vĩnh Lạc, thành phố Rạch Giá, T. Kiên Giang",
+						"fax": "(0297) 3944497",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Kon Tum",
+		"districts": [
+			{
+				"district": "Thành phố Kon Tum",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential KonTum",
+						"latitude": "14.355046",
+						"longtitude": "108.014511",
+						"tel": [
+							{
+								"region": "",
+								"number": "(260) 6255777",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(260) 6255999",
+								"type": ""
+							}
+						],
+						"address": "177 đường Bà Triệu, phường Thắng Lợi, tp. Kon Tum, tỉnh Kon Tum",
+						"fax": "(260) 6255093",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đắk Hà",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đắk Hà",
+						"latitude": "14.510073",
+						"longtitude": "107.922627",
+						"tel": [
+							{
+								"region": "",
+								"number": "(260) 3862877",
+								"type": ""
+							}
+						],
+						"address": "278 đường Hùng Vương, thị trấn Đắk Hà, huyện Đắk Hà, tỉnh Kon Tum",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Lai Châu",
+		"districts": [
+			{
+				"district": "Thị xã Lai Châu",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Lai Châu",
+						"latitude": "22.388000",
+						"longtitude": "103.471409",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0213) 3 791 999",
+								"type": ""
+							}
+						],
+						"address": "Số 16, đường Lò Văn Hặc, tổ 9, P. Tân Phong",
+						"fax": "(0213) 3 792 899",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Lai Châu 2",
+						"latitude": "22.399737",
+						"longtitude": "103.446091",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0213) 3881973",
+								"type": ""
+							}
+						],
+						"address": "Số 532 đường Trần Hưng Đạo, tổ 6, phường Quyết Tiến, Tp. Lai Châu, tỉnh Lai Châu",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Lâm Đồng",
+		"districts": [
+			{
+				"district": "Thành Phố Bảo Lộc",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bảo Lộc",
+						"latitude": "11.5428598",
+						"longtitude": "107.8019595",
+						"tel": [
+							{
+								"region": "",
+								"number": "(263) 3732509",
+								"type": ""
+							}
+						],
+						"address": "Số 837A Đường Trần Phú, phường B’Lao, thành phố Bảo Lộc",
+						"fax": "(263) 3732505",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bảo Lộc 2",
+						"latitude": "11.537011",
+						"longtitude": "107.815665",
+						"tel": [
+							{
+								"region": "",
+								"number": "(263) 866608",
+								"type": ""
+							}
+						],
+						"address": "Số 415 Trần Phú, Phường Lộc Sơn, Thành Phố Bảo Lộc",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Đà Lạt",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đà Lạt 2",
+						"latitude": "11.9414243",
+						"longtitude": "108.4321912",
+						"tel": [
+							{
+								"region": "",
+								"number": "(263) 3819123",
+								"type": ""
+							}
+						],
+						"address": "84 Đường 3/2, Phường 1",
+						"fax": "(263) 3511009",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đà Lạt 3",
+						"latitude": "11.9576730",
+						"longtitude": "108.4425546",
+						"tel": [
+							{
+								"region": "",
+								"number": "(263) 3541368",
+								"type": ""
+							}
+						],
+						"address": "Số 21C Phù Đổng Thiên Vương, P. 8",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Giao dịch Prudential Trạm Hành",
+						"latitude": "11.8739969",
+						"longtitude": "108.5596741",
+						"tel": [
+							{
+								"region": "",
+								"number": "(263) 3818299",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(263) 3818699",
+								"type": ""
+							}
+						],
+						"address": "Tổ 2 Thôn Phát Chi , Xã Trạm Hành",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Giao dịch Prudential Tà Nung",
+						"latitude": "11.9210557",
+						"longtitude": "108.3682641",
+						"tel": [
+							{
+								"region": "",
+								"number": "",
+								"type": ""
+							}
+						],
+						"address": "Tổ 6 thôn 5 xã Tà Nung",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đạ Huoai",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đạ Huoai",
+						"latitude": "11.384058",
+						"longtitude": "107.541764",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0263) 3 932 222",
+								"type": ""
+							}
+						],
+						"address": "38A tổ 13, KP 6, thị trấn Ma Đa Guôi, huyện Đạ Huoai, tỉnh Lâm Đồng",
+						"fax": "(063) 3 875 995",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đơn Dương",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Đơn Dương",
+						"latitude": "11.7600458",
+						"longtitude": "108.4803396",
+						"tel": [
+							{
+								"region": "",
+								"number": "(263) 3621768",
+								"type": ""
+							}
+						],
+						"address": "246 Đường 2/4, Thị Trấn Thạnh Mỹ",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đức Trọng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đức Trọng",
+						"latitude": "11.726800",
+						"longtitude": "108.376598",
+						"tel": [
+							{
+								"region": "",
+								"number": "(263) 3648200",
+								"type": ""
+							}
+						],
+						"address": "Số 27A Thống Nhất , Thị trấn Liên Nghĩa, Huyện Đức Trọng , Tỉnh Lâm Đồng ",
+						"fax": "(263) 3648201",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Bảo Lâm",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bảo Lâm",
+						"latitude": "11.678116",
+						"longtitude": "107.816923",
+						"tel": [
+							{
+								"region": "",
+								"number": "(263) 3962679",
+								"type": ""
+							}
+						],
+						"address": "Tổ 1,Thị trấn Lộc Thắng,huyện Bảo Lâm",
+						"fax": "(263) 396 2679",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Di Linh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Di Linh",
+						"latitude": "11.5909524",
+						"longtitude": "108.0786528",
+						"tel": [
+							{
+								"region": "",
+								"number": "(263) 766 005",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(263) 766 006",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(263) 766 007",
+								"type": ""
+							}
+						],
+						"address": "Số 725 Hùng Vương, KP 10, Thị trấn Di Linh",
+						"fax": "(263) 766 009",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Lạng Sơn",
+		"districts": [
+			{
+				"district": "Huyện Chi Lăng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Chi Lăng",
+						"latitude": "21.651192",
+						"longtitude": "106.579290",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0205) 3720068",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 21 khu Hòa Bình 1, thị trấn Đồng Mỏ, huyện Chi Lăng, tỉnh Lạng Sơn",
+						"fax": "(0205) 3720069",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Lạng Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Lạng Sơn",
+						"latitude": "21.828736",
+						"longtitude": "106.767414",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0205) 3716831",
+								"type": ""
+							}
+						],
+						"address": "Khu A, tái định cư 1 Mai Pha, xã Mai Pha, Tp. Lạng Sơn, tỉnh Lạng Sơn",
+						"fax": "(0205) 3716832",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Lào Cai",
+		"districts": [
+			{
+				"district": "Thành phố Lào Cai",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Lào Cai",
+						"latitude": "22.447167",
+						"longtitude": "104.003223",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0214)3823484",
+								"type": ""
+							}
+						],
+						"address": "Số 239( lô 22 liền kề 2), đại lộ Trần Hưng Đạo, phường Bắc Cường, thành phố Lào Cai",
+						"fax": "(0214)3823486",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Lào Cai 2",
+						"latitude": "22.498501",
+						"longtitude": "103.965673",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0214) 3838183",
+								"type": ""
+							}
+						],
+						"address": "Số 010 đường Đặng Văn Ngữ, phường Cốc Lếu, Tp. Lào Cai, Tỉnh Lào Cai",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Long An",
+		"districts": [
+			{
+				"district": "Huyện Bến Lức",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bến Lức",
+						"latitude": "10.6430233",
+						"longtitude": "106.4828449",
+						"tel": [
+							{
+								"region": "",
+								"number": "(272) 3637831",
+								"type": ""
+							}
+						],
+						"address": "Số 103 Nguyễn Hữu Thọ, khu phố 1, Thị trấn Bến Lức",
+						"fax": "(272) 3637832",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Cần Giuộc",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cần Giuộc",
+						"latitude": "10.6047673",
+						"longtitude": "106.6707992",
+						"tel": [
+							{
+								"region": "",
+								"number": "(272) 3874877",
+								"type": ""
+							}
+						],
+						"address": "Số 297, tổ 13, Khu phố 3, Quốc Lộ 50, Thị Trấn Cần Giuộc,",
+						"fax": "(272) 3874878",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đức Hòa",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hậu Nghĩa",
+						"latitude": "10.9029348",
+						"longtitude": "106.4190502",
+						"tel": [
+							{
+								"region": "",
+								"number": "(272) 3814707",
+								"type": ""
+							}
+						],
+						"address": "Số 141, tỉnh lộ 823, ấp Chánh, xã Đức Lập Hạ",
+						"fax": "(272) 3814708",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Giao dịch Prudential Đức Hòa",
+						"latitude": "10.7910682",
+						"longtitude": "106.4762306",
+						"tel": [
+							{
+								"region": "",
+								"number": "(272) 3850881",
+								"type": ""
+							}
+						],
+						"address": "Tỉnh lộ 825, Ấp Bình Tiền 1, xã Đức Hòa Hạ",
+						"fax": "(272) 3850861",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Tân An",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tân An",
+						"latitude": "10.5375822",
+						"longtitude": "106.4071262",
+						"tel": [
+							{
+								"region": "",
+								"number": "(272) 3838757",
+								"type": ""
+							}
+						],
+						"address": "Số 17-19 Đỗ Tường Phong, Phường 2",
+						"fax": "(272) 3838758",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị Xã Kiến Tường",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Mộc Hóa",
+						"latitude": "10.771262",
+						"longtitude": "105.911855",
+						"tel": [
+							{
+								"region": "",
+								"number": "(272) 3957153",
+								"type": ""
+							}
+						],
+						"address": "Số 418, khu phố 4, Phường 2, thị xã Kiến Tường, tỉnh Long An",
+						"fax": "(272) 3958153",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Cần Đước",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Cần Đước",
+						"latitude": "10.515535",
+						"longtitude": "106.605341",
+						"tel": [
+							{
+								"region": "",
+								"number": "(272) 3881830",
+								"type": ""
+							}
+						],
+						"address": "Số 171A, tổ 3, khu phố 3, quốc lộ 50, thị trấn Cần Đước, huyện Cần Đước, tỉnh Long An",
+						"fax": "(272) 3 881 831",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Vĩnh Hưng",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Vĩnh Hưng",
+						"latitude": "10.902861",
+						"longtitude": "105.805547",
+						"tel": [
+							{
+								"region": "",
+								"number": "(272) 3979153",
+								"type": ""
+							}
+						],
+						"address": "Đường 831, thị trấn Vĩnh Hưng, huyện Vĩnh Hưng, tỉnh Long An",
+						"fax": "(272) 3 979 157",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Châu Thành",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tầm Vu",
+						"latitude": "10.4399554",
+						"longtitude": "106.4665592",
+						"tel": [
+							{
+								"region": "",
+								"number": "(272) 3667676",
+								"type": ""
+							}
+						],
+						"address": "22 Trần Văn Giàu-Thị Trấn Tầm Vu",
+						"fax": "(272) 3667677",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Nam Định",
+		"districts": [
+			{
+				"district": "Thành phố Nam Định",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Nam Định 2",
+						"latitude": "20.4298099",
+						"longtitude": "106.1821712",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0228) 3527779",
+								"type": ""
+							}
+						],
+						"address": "67 Lê Hồng Phong Phường Nguyễn Du",
+						"fax": "(0228) 3527 399",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hải Hậu",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hải Hậu",
+						"latitude": "20.194558",
+						"longtitude": "106.294472",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0228) 3775769",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0228) 3775789",
+								"type": ""
+							}
+						],
+						"address": "Số 308 Khu 3, Thị trấn Yên Định",
+						"fax": "(0228) 3775799",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Xuân Trường",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Xuân Trường",
+						"latitude": "20.2868482",
+						"longtitude": "106.3375493",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0228) 3754999",
+								"type": ""
+							}
+						],
+						"address": "Tổ dân phố 12, Thị trấn Xuân Trường",
+						"fax": "(0228) 3753 888",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Nghĩa Hưng",
+				"offices": [
+					{
+						"name": "Văn Phòng Giao Dịch Prudential Nghĩa Hưng",
+						"latitude": "20.217742",
+						"longtitude": "106.187566",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0228) 3870678",
+								"type": ""
+							}
+						],
+						"address": "Số 36A, tổ dân phố 3, thị trấn Liễu Đề, huyện Nghĩa Hưng, tỉnh Nam Định",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Nghệ An",
+		"districts": [
+			{
+				"district": "Thị xã Thái Hòa",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Nghĩa Đàn",
+						"latitude": "19.320777",
+						"longtitude": "105.431322",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3814 814",
+								"type": ""
+							}
+						],
+						"address": "Km 33, Quốc lộ 48. Phường Long Sơn",
+						"fax": "(0238) 3961961",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị trấn Diễn Châu",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Diễn Châu",
+						"latitude": "18.988780",
+						"longtitude": "105.599469",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3 624 565",
+								"type": ""
+							}
+						],
+						"address": "Khối 2, thị trấn Diễn Châu, huyện Diễn Châu, tỉnh Nghệ An",
+						"fax": "(0283) 3 624 265",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Giao Dịch Prudential Diễn Yên",
+						"latitude": "19.105372",
+						"longtitude": "105.568464",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3670666",
+								"type": ""
+							}
+						],
+						"address": "Km02, quốc lộ 48, xã Diễn Yên, huyện Diễn Châu, Tỉnh Nghệ An",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Vinh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bắc Vinh",
+						"latitude": "18.6928574",
+						"longtitude": "105.6748594",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3 512 888",
+								"type": ""
+							}
+						],
+						"address": "Số 3C Đường Mai Hắc Đế, Khối 1, P. Quán Bàu",
+						"fax": "(0238) 3 512 777",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tây Vinh",
+						"latitude": "18.6659113",
+						"longtitude": "105.6671251",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3 542 999",
+								"type": ""
+							}
+						],
+						"address": "Số 1 đường Phan Đình Phùng, P. Cửa Nam",
+						"fax": "(0238) 3 542 997",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Con Cuông",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Con Cuông",
+						"latitude": "19.0482862",
+						"longtitude": "104.8819489",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3733 999",
+								"type": ""
+							}
+						],
+						"address": "Khối 6, thị trấn Con Cuông, huyện Con Cuông, tỉnh Nghệ An",
+						"fax": "(0238) 3736 999",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Kỳ Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Kỳ Sơn",
+						"latitude": "19.393329",
+						"longtitude": "104.155651",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3751 999",
+								"type": ""
+							}
+						],
+						"address": "Khối 2, Thị trấn Mường Xén, Huyện Kỳ Sơn, Tỉnh Nghệ An",
+						"fax": "(0238) 3933 999",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tân Kỳ",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tân Kỳ",
+						"latitude": "19.0407239",
+						"longtitude": "105.2692193",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3973 999",
+								"type": ""
+							}
+						],
+						"address": "Khối 8, thị trấn Tân Kỳ, huyện Tân Kỳ, tỉnh Nghệ An",
+						"fax": "(0238) 3975 999",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thanh Chương",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Thanh Chương",
+						"latitude": "18.7869792",
+						"longtitude": "105.3391202",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 38681869",
+								"type": ""
+							}
+						],
+						"address": "Khối 9, thị trấn Thanh Chương, huyện Thanh Chương, tỉnh Nghệ An",
+						"fax": "(0238) 38681889",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Quỳnh Lưu",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Quỳnh Lưu",
+						"latitude": "19.141670",
+						"longtitude": "105.628057",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 8 642 999",
+								"type": ""
+							}
+						],
+						"address": "Khối 1, thị trấn Cầu Giát, huyện Quỳnh Lưu, tỉnh Nghệ An",
+						"fax": "(0238) 8 642 888",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Quỳ Châu",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Quỳ Châu",
+						"latitude": "19.5487903",
+						"longtitude": "105.1010459",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3884 999",
+								"type": ""
+							}
+						],
+						"address": "Khối 4 thị trấn Quỳ Châu, huyện Quỳ Châu, tỉnh Nghệ An",
+						"fax": "(0238) 3884 789",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Quỳ Hợp",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quỳ Hợp",
+						"latitude": "19.3230569",
+						"longtitude": "105.3189726",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3 988 666",
+								"type": ""
+							}
+						],
+						"address": "KM54, trục mặt đường 48, xã Nghĩa Xuân",
+						"fax": "(0238) 3 988 555",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đô Lương",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đô Lương",
+						"latitude": "18.8992000",
+						"longtitude": "105.3062585",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 3696 888",
+								"type": ""
+							}
+						],
+						"address": "Khu Hưng Vượng A, khối 7, Vườn Xanh, thị trấn Đô Lương",
+						"fax": "(0238) 3696 999",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Yên Thành",
+				"offices": [
+					{
+						"name": "Văn phòng Giao Dịch Prudential Yên Thành",
+						"latitude": "18.994510",
+						"longtitude": "105.460629",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0238) 363 5999",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0238) 363 0456",
+								"type": ""
+							}
+						],
+						"address": "Xóm 8, xã Tăng Thành, huyện Yên Thành, tỉnh Nghệ An",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Ninh Bình",
+		"districts": [
+			{
+				"district": "Thành phố Ninh Bình",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Ninh Bình",
+						"latitude": "20.2818610",
+						"longtitude": "105.9607258",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0229) 3899511",
+								"type": ""
+							}
+						],
+						"address": "Số 263 Đường Trần Hưng Đạo, phố Bình Hòa, phường Ninh Khánh",
+						"fax": "(0229) 3899500",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Ninh Thuận",
+		"districts": [
+			{
+				"district": "Thành phố Phan Rang-Tháp Chàm",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phan Rang",
+						"latitude": "11.5660954",
+						"longtitude": "108.9916658",
+						"tel": [
+							{
+								"region": "",
+								"number": "(259) 3835600",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(259) 3522791",
+								"type": ""
+							}
+						],
+						"address": "Số 39 đường 16/4, thành phố Phan Rang-Tháp Chàm, tỉnh Ninh Thuận",
+						"fax": "(259) 3835699",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Phú Thọ",
+		"districts": [
+			{
+				"district": "Thành phố Việt Trì",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phú Thọ",
+						"latitude": "21.3104375",
+						"longtitude": "105.4007185",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0210) 6 251 932",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 1682, Đại lộ Hùng Vương, P. Nông Trang",
+						"fax": "(0210) 6 251 939",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Phú Thọ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phú Lộc",
+						"latitude": "21.4511689",
+						"longtitude": "105.2434874",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0210) 3 950 777",
+								"type": ""
+							}
+						],
+						"address": "Khu 18, xã Phú Hộ, thị xã Phú Thọ, tỉnh Phú Thọ",
+						"fax": "(0210) 3 950 779",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Phú Yên",
+		"districts": [
+			{
+				"district": "Thành phố Tuy Hòa",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tuy Hòa",
+						"latitude": "13.0854159",
+						"longtitude": "109.3013687",
+						"tel": [
+							{
+								"region": "",
+								"number": "(257) 3824428",
+								"type": ""
+							}
+						],
+						"address": "111 Trần Hưng Đạo, Phường 1",
+						"fax": "(257) 3826299",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tuy Hòa 2",
+						"latitude": "13.0898068",
+						"longtitude": "109.307276",
+						"tel": [
+							{
+								"region": "",
+								"number": "(257) 3811821",
+								"type": ""
+							}
+						],
+						"address": "Số 190A Lê Lợi, phường 4, thành phố Tuy Hòa, tỉnh Phú Yên",
+						"fax": "(257) 3899968",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Sông Cầu",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Sông Cầu",
+						"latitude": "13.3969685",
+						"longtitude": "109.1041594",
+						"tel": [
+							{
+								"region": "",
+								"number": "(257) 3876989",
+								"type": ""
+							}
+						],
+						"address": "34 Trần Hưng Đạo, phường Xuân Phú",
+						"fax": "(257) 3876998",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Quảng Bình",
+		"districts": [
+			{
+				"district": "Thị xã Ba Đồn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Ba Đồn",
+						"latitude": "17.760111",
+						"longtitude": "106.424036",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0232) 351 5526",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0232) 351 5527",
+								"type": ""
+							}
+						],
+						"address": "107 Lê Lợi, Phường Ba Đồn, Thị xã Ba Đồn, Tỉnh Quảng Bình",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bắc Quảng Bình",
+						"latitude": "17.758203",
+						"longtitude": "106.422672",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0232) 3511888",
+								"type": ""
+							}
+						],
+						"address": "374 Quang Trung, Phường  Ba Đồn, Thị xã, Ba Đồn, tỉnh Quảng Bình",
+						"fax": "(0232) 3519555",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Tp Đồng Hới",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đồng Hới 1",
+						"latitude": "17.463755",
+						"longtitude": "106.606818",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0232) 3 818 255",
+								"type": ""
+							}
+						],
+						"address": "Đường Phạm Văn Đồng (gần văn phòng Đại Biểu Quốc Hội), phường Nam Lý, Tp.Đồng Hới, Tỉnh Quảng Bình",
+						"fax": "(0232) 3 818 252",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Lệ Thủy",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Lệ Thủy",
+						"latitude": "17.2240932",
+						"longtitude": "106.7898163",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0232) 3 966 009",
+								"type": ""
+							}
+						],
+						"address": "Tổ dân phố 5, Thị trấn Kiến Giang, Huyện Lệ Thủy, Tỉnh Quảng Bình",
+						"fax": "(0232) 3 966 007",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Quảng Nam",
+		"districts": [
+			{
+				"district": "Thành phố Tam Kỳ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quảng Nam",
+						"latitude": "15.5766630",
+						"longtitude": "108.4702201",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0235) 3829235",
+								"type": ""
+							}
+						],
+						"address": "Lô A 15 Trần Quý Cáp, P. Tân Thạnh",
+						"fax": "(0235) 3829238",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Núi Thành",
+						"latitude": "15.559664",
+						"longtitude": "108.502237",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0235) 3824868",
+								"type": ""
+							}
+						],
+						"address": "556 Phan Chu Trinh, phường An Sơn, thành phố Tam Kỳ, tỉnh Quảng Nam",
+						"fax": "(0235) 3570077",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Núi Thành",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Núi Thành",
+						"latitude": "15.429882",
+						"longtitude": "108.658675",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0235) 3570075",
+								"type": ""
+							}
+						],
+						"address": "300 Phạm Văn Đồng,TT Núi Thành, Tỉnh Quảng Nam",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị Xã Điện Bàn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Điện Bàn",
+						"latitude": "15.8902573",
+						"longtitude": "108.2522087",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0235) 3755777",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0235) 3755779",
+								"type": ""
+							}
+						],
+						"address": "70 Mẹ Thứ, Phường Vĩnh Điện, Thị xã Điện Bàn, Tỉnh Quảng Nam",
+						"fax": "(0235) 3755779",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Duy Xuyên",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Nam Phước",
+						"latitude": "15.842916",
+						"longtitude": "108.282447",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0235) 3777236",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0235) 3777237",
+								"type": ""
+							}
+						],
+						"address": "92 Điện Biên Phủ, Thị Trấn Nam Phước, Huyện Duy Xuyên, Tỉnh Quảng Nam.",
+						"fax": "(0235) 3777238",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Hội An",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hội An",
+						"latitude": "15.8916886",
+						"longtitude": "108.3126482",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0235) 3923237",
+								"type": ""
+							}
+						],
+						"address": "Số 315A Nguyễn Tất Thành, P. Thanh Hà",
+						"fax": "(0235) 3923238",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đại Lộc",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đại Lộc",
+						"latitude": "15.8872607",
+						"longtitude": "108.1126633",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0235) 3748559",
+								"type": ""
+							}
+						],
+						"address": "KHU 5, THỊ TRẤN ÁI NGHĨA, HUYỆN ĐẠI LỘC",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Quế Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hương An",
+						"latitude": "15.7884703",
+						"longtitude": "108.3385977",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0235) 3886399",
+								"type": ""
+							}
+						],
+						"address": "Thôn 7, xã Hương An, H. Quế Sơn, T. Quảng Nam",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Quảng Ngãi",
+		"districts": [
+			{
+				"district": "Thành phố Quảng Ngãi",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quảng Ngãi",
+						"latitude": "15.1326524",
+						"longtitude": "108.8027684",
+						"tel": [
+							{
+								"region": "",
+								"number": "(255) 3835959",
+								"type": ""
+							}
+						],
+						"address": "Số 4 bà Triệu, P. Lê Hồng Phong",
+						"fax": "(255) 3835956",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quảng Ngãi 2",
+						"latitude": "15.1128626",
+						"longtitude": "108.784864",
+						"tel": [
+							{
+								"region": "",
+								"number": "(255) 3719098",
+								"type": ""
+							}
+						],
+						"address": "Số 105 Nguyễn Trãi, phường Nghĩa Lộ, thành phố Quảng Ngãi, tỉnh Quảng Ngãi",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đức Phổ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đức Phổ",
+						"latitude": "14.8112095",
+						"longtitude": "108.9594841",
+						"tel": [
+							{
+								"region": "",
+								"number": "(255) 3976587",
+								"type": ""
+							}
+						],
+						"address": "Số 35-37 Huỳnh Công Thiệu, thị trấn Đức Phổ, huyện Đức Phổ, tỉnh Quảng Ngãi",
+						"fax": "(255) 3976588",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Bình Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Bình Sơn",
+						"latitude": "15.3057271",
+						"longtitude": "108.7586113",
+						"tel": [
+							{
+								"region": "",
+								"number": "(255) 3515516",
+								"type": ""
+							}
+						],
+						"address": "Tổ dân phố 2, thị trấn Châu Ổ, huyện Bình Sơn, tỉnh Quảng Ngãi.",
+						"fax": "(255) 3515517",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Mộ Đức",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Mộ Đức",
+						"latitude": "14.9350549",
+						"longtitude": "108.8878278",
+						"tel": [
+							{
+								"region": "",
+								"number": "(255) 6526879",
+								"type": ""
+							}
+						],
+						"address": "Tổ dân phố 2, thị trấn Mộ Đức",
+						"fax": "(255) 6526879",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Quảng Ninh",
+		"districts": [
+			{
+				"district": "Thành phố Móng Cái",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Móng Cái",
+						"latitude": "21.5296336",
+						"longtitude": "107.9695337",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0203) 3778858  ",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0203) 3884836",
+								"type": ""
+							}
+						],
+						"address": "Số 120 Đường Đông Trì, Phường Trần Phú",
+						"fax": "(0203) 3778848",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Hạ Long",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hòn Gai 2",
+						"latitude": "20.9519649",
+						"longtitude": "107.0761878",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0203) 3816448",
+								"type": ""
+							}
+						],
+						"address": "Số 19, Đường 25/4, Phường Hồng Gai,",
+						"fax": "(0203) 3816458",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bãi Cháy",
+						"latitude": "20.955323",
+						"longtitude": "107.012790",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0203) 3646066",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 23, tổ hợp thương mại và giải trí Hạ Long Marine Plaza, đường Hoàng Quốc Việt, phường Hùng Thắng, Tp. Hạ Long",
+						"fax": "(0203) 3646688",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Cẩm Phả",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Cẩm Phả",
+						"latitude": "21.0089322",
+						"longtitude": "107.2711165",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0203) 3969333",
+								"type": ""
+							}
+						],
+						"address": "Tầng 4 tòa nhà Golden Cam Pha Hotel, số 493 đường Trần Phú, P. Cẩm Trung, Tp Cẩm Phả",
+						"fax": "(0203) 3969 848",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Uông Bí",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Uông Bí",
+						"latitude": "21.0344880",
+						"longtitude": "106.7518514",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0203) 3566868",
+								"type": ""
+							}
+						],
+						"address": "Tầng 3 tòa nhà Yên Thanh, số 299 Đường Trần Nhân Tông, Phường Yên Thanh",
+						"fax": "(0203) 3855091",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hải Hà",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Hải Hà",
+						"latitude": "21.4552772",
+						"longtitude": "107.7082523",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0203) 3761988",
+								"type": ""
+							}
+						],
+						"address": "Tổ 5, Phường Quang Chinh",
+						"fax": "(0203) 3761839",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đông Triều",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Mạo Khê",
+						"latitude": "21.0581632",
+						"longtitude": "106.5942160",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0203) 6266009",
+								"type": ""
+							}
+						],
+						"address": "Số 195, tổ 5 khu Hoàng Hoa Thám, P. Mạo Khê",
+						"fax": "(0203) 6266001",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Đông Triều",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đông Triều",
+						"latitude": "21.1013797",
+						"longtitude": "106.5378818",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0203) 3582260",
+								"type": ""
+							}
+						],
+						"address": "Số 608, khu 2, phường Hưng Đạo, thị xã Đông Triều, tỉnh Quảng Ninh",
+						"fax": "(0203) 3582268",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đầm Hà",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đầm Hà",
+						"latitude": "21.351746",
+						"longtitude": "107.594892",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0203) 376 8168",
+								"type": ""
+							}
+						],
+						"address": "Số 8, phố Chu Văn An, đường Lê Lương, thị trấn Đầm Hà, huyện Đầm Hà, tỉnh Quảng Ninh",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Quảng Trị",
+		"districts": [
+			{
+				"district": "Thành phố Đông Hà",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đông Hà",
+						"latitude": "16.818latitude3649",
+						"longtitude": "107.0957257",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0233) 3551571",
+								"type": ""
+							}
+						],
+						"address": "Số 49 Nguyễn Huệ, P. 1",
+						"fax": "(0233) 3551574",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đông Hà 2",
+						"latitude": "16.8148584",
+						"longtitude": "107.1104878",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0233) 3899555",
+								"type": ""
+							}
+						],
+						"address": "299 Lê Duẫn,  Phường Đông Lễ, TP Đông Hà, tỉnh Quảng Trị",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyên Vĩnh Linh",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Vĩnh Linh",
+						"latitude": "17.0710932",
+						"longtitude": "107.0009579",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0233) 3610055",
+								"type": ""
+							}
+						],
+						"address": "186 Lê Duẩn, Khóm Lao Động, TT Hồ Xá, H Vĩnh Linh, T Quảng Trị",
+						"fax": "(0233) 3610068",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Quảng Trị",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Quảng Trị",
+						"latitude": "16.7491140",
+						"longtitude": "107.1850717",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0233) 3661555",
+								"type": ""
+							}
+						],
+						"address": "244 Trần Hưng Đạo, Phường 2",
+						"fax": "(0233) 3661555",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Sóc Trăng",
+		"districts": [
+			{
+				"district": "Thành phố Sóc Trăng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Sóc Trăng",
+						"latitude": "9.5985710",
+						"longtitude": "105.9635494",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0299) 3645333",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0299) 3645333",
+								"type": ""
+							}
+						],
+						"address": "Số 182 Phú Lợi, phường 2, Tp Sóc Trăng, Tỉnh Sóc Trăng",
+						"fax": "(0299) 3645335",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Vĩnh Châu",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Vĩnh Châu",
+						"latitude": "9.3302040",
+						"longtitude": "105.9788011",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0299) 3911234",
+								"type": ""
+							}
+						],
+						"address": "Số 211A, Đường 30/4, P 1",
+						"fax": "(0299) 3911236",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Long Phú",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Long Phú",
+						"latitude": "9.6221576",
+						"longtitude": "106.1169299",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0299) 3844555",
+								"type": ""
+							}
+						],
+						"address": "Số 261/4 Đoàn Thế Trung, Ấp 4, Thị trấn Long Phú",
+						"fax": "(0299) 3844 556",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Sơn La",
+		"districts": [
+			{
+				"district": "Thành phố Sơn La",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Sơn La",
+						"latitude": "21.3105305",
+						"longtitude": "103.9274388",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0212) 3751809",
+								"type": ""
+							}
+						],
+						"address": "Số 295 Trần Đăng Ninh, tổ 7, P. Quyết Tâm",
+						"fax": "(0212)3751877",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Mai Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Mai Sơn",
+						"latitude": "21.206816",
+						"longtitude": "104.093810",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0212) 3745599",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 105, tiểu khu 19, thị trấn Hát Lót, huyện Mai Sơn, tỉnh Sơn La",
+						"fax": "(0212) 3745595",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Mộc Châu",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Mộc Châu",
+						"latitude": "20.8482707",
+						"longtitude": "104.6192813",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0212)  3 868 863",
+								"type": ""
+							}
+						],
+						"address": "Tiểu khu 12, Thị trấn Mộc Châu",
+						"fax": "(0212) 3 868 330",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Tây Ninh",
+		"districts": [
+			{
+				"district": "Huyện Tân Biên",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tân Biên",
+						"latitude": "11.5388906",
+						"longtitude": "106.0060567",
+						"tel": [
+							{
+								"region": "",
+								"number": "(276) 3714444",
+								"type": ""
+							}
+						],
+						"address": "84 Nguyễn Văn Linh, KP.3, TT. Tân Biên",
+						"fax": "(276) 3717188",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tân Châu",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tân Châu",
+						"latitude": "11.3041734",
+						"longtitude": "106.1046806",
+						"tel": [
+							{
+								"region": "",
+								"number": "(276) 3731731",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(276) 3731733",
+								"type": ""
+							}
+						],
+						"address": "868A Tôn Đức Thắng, Xã Thạnh Đông, H. Tân Châu, Tp. Tây Ninh",
+						"fax": "(276) 3731732",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Trảng Bàng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Trảng Bàng",
+						"latitude": "11.031104",
+						"longtitude": "106.357118",
+						"tel": [
+							{
+								"region": "",
+								"number": "(276) 3890887",
+								"type": ""
+							}
+						],
+						"address": "Số 34 Quốc lộ 22, Ấp Hòa Bình, Xã An Hòa, Huyện Trảng Bàng, Tỉnh Tây Ninh",
+						"fax": "(276) 3890888",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Tây Ninh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Gò Dầu",
+						"latitude": "11.315708",
+						"longtitude": "106.131562",
+						"tel": [
+							{
+								"region": "",
+								"number": "(276) 3818431",
+								"type": ""
+							}
+						],
+						"address": "Số 563 Điện Biên Phủ, khu phố Ninh Đức, phường Ninh Thạnh, Tp. Tây Ninh, Tỉnh Tây Ninh",
+						"fax": "(276) 3818430",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tân Châu",
+						"latitude": "11.304173",
+						"longtitude": "106.104681",
+						"tel": [
+							{
+								"region": "",
+								"number": "(276) 772566",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(276) 772 568",
+								"type": ""
+							}
+						],
+						"address": "123 Hoàng Lê Kha, khu phố 3, phường 3, thành phố Tây Ninh, T. Tây Ninh",
+						"fax": "(276) 772 558",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Thái Bình",
+		"districts": [
+			{
+				"district": "Thành phố Thái Bình",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thái Bình",
+						"latitude": "20.4439666",
+						"longtitude": "106.3259488",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0227) 3844666",
+								"type": ""
+							}
+						],
+						"address": "Lô 3-02 đường Trần Thái Tông, tổ 28, phường Trần Hưng Đạo, thành phố Thái Bình",
+						"fax": "(0227) 3844464",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đông Hưng",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đông Hưng",
+						"latitude": "20.556982",
+						"longtitude": "106.355339",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0227) 3555118",
+								"type": ""
+							}
+						],
+						"address": "Nhà Ông Nguyễn Trọng Bỉnh, Tổ 2, Thị trấn Đông Hưng, Huyện Đông Hưng",
+						"fax": "(0227) 3555119",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Hưng Hà",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Hưng Hà",
+						"latitude": "20.591443",
+						"longtitude": "106.224635",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0227) 6275222",
+								"type": ""
+							}
+						],
+						"address": "Nhà ông Đặng Gia Hạnh, khu Nhân Cầu 1, thị trấn Hưng Hà, huyện Hưng Hà",
+						"fax": "(0227) 6275333",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thái Thụy",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Thái Thụy",
+						"latitude": "20.560464",
+						"longtitude": "106.570239",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0227) 3555118",
+								"type": ""
+							}
+						],
+						"address": "Số 72, Khu 7, thị trấn Diêm Điền, huyện Thái Thụy",
+						"fax": "(0227) 3555119",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tiền Hải",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tiền Hải",
+						"latitude": "20.4032521",
+						"longtitude": "106.5018143",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0227) 3651118",
+								"type": ""
+							}
+						],
+						"address": "Số nhà 23 phố Tiểu Hoàng, thị trấn Tiền Hải, huyện Tiền Hải, tỉnh Thái Bình",
+						"fax": "(0227) 3844464",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Thái Nguyên",
+		"districts": [
+			{
+				"district": "Thành phố Thái Nguyên",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thái Nguyên",
+						"latitude": "21.5891904",
+						"longtitude": "105.8375266",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0208) 3659699",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(0208) 3659799",
+								"type": ""
+							}
+						],
+						"address": "Lô 1, Tổ 3, khu dân cư số 5, đường Minh Cầu, P. Phan Đình Phùng",
+						"fax": "(0208) 3659899",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thái Nguyên 2",
+						"latitude": "21.579256",
+						"longtitude": "105.816793",
+						"tel": [
+							{
+								"region": "",
+								"number": "0983686608",
+								"type": ""
+							}
+						],
+						"address": "Số 259 đường Quang Trung, tổ 12, phường Tân Thịnh, thành phố Thái Nguyên",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phổ Yên",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Sông Công",
+						"latitude": "21.4223186",
+						"longtitude": "105.8688640",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0208) 3663116",
+								"type": ""
+							}
+						],
+						"address": "Số 166 đường Phạm Văn Đồng, xóm Đông Sinh, xã Hồng Tiến",
+						"fax": "(0208) 3764599",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phú Bình",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Phú Bình",
+						"latitude": "21.4609759",
+						"longtitude": "105.9846769",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0208) 3767899",
+								"type": ""
+							}
+						],
+						"address": "Tổ 2, thị trấn Hương Sơn",
+						"fax": "(0208) 3576589",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Đại Từ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Đại Từ",
+						"latitude": "21.633442",
+						"longtitude": "105.635824",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0208) 3924899",
+								"type": ""
+							}
+						],
+						"address": "Phố Đình, thị trấn Hùng Sơn, huyện Đại Từ, tỉnh Thái Nguyên",
+						"fax": "(0208) 3924799",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phú Lương",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Phú Lương",
+						"latitude": "21.7860570",
+						"longtitude": "105.7116464",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0208) 3774568",
+								"type": ""
+							}
+						],
+						"address": "Số 445 tiểu khu Trần Phú, thị trấn Đu",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Thanh Hóa",
+		"districts": [
+			{
+				"district": "Thành phố Thanh Hóa",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bắc Thanh Hóa",
+						"latitude": "19.811823",
+						"longtitude": "105.811151",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0237) 3716355",
+								"type": ""
+							}
+						],
+						"address": "Lô A102 MBQH 934, UBND-QLĐT, phường Đông Hải",
+						"fax": "(0237) 3750299",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thanh Hóa 1",
+						"latitude": "19.7957450",
+						"longtitude": "105.7923700",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0237) 8699689",
+								"type": ""
+							}
+						],
+						"address": "Số 353 Đường Lê Lai, P. Đông Sơn, TP Thanh Hóa",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Nam Thanh Hóa",
+						"latitude": "19.817494",
+						"longtitude": "105.775360",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0237) 3728350",
+								"type": ""
+							}
+						],
+						"address": " Lô 25 MBQH số 103 XDTH/UB, đường Bà Triệu",
+						"fax": "(0237) 3728439",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Bỉm Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bỉm Sơn",
+						"latitude": "20.099096",
+						"longtitude": "105.863525",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0237) 3778 599",
+								"type": ""
+							}
+						],
+						"address": "Khu phố 5, phường Phú Sơn, thị xã Bỉm Sơn, tỉnh Thanh Hóa",
+						"fax": "(0237) 3771 386",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Sầm Sơn",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Sầm Sơn",
+						"latitude": "19.735113",
+						"longtitude": "105.892429",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0237) 3826 838",
+								"type": ""
+							}
+						],
+						"address": "Kiốt số 18, chợ Cột Đỏ, phường Trường Sơn, thị xã Sầm Sơn, tỉnh Thanh Hóa",
+						"fax": "(0237) 3726 737",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Yên Định",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Quán Lào",
+						"latitude": "19.9918394",
+						"longtitude": "105.6500504",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0237) 3869989",
+								"type": ""
+							}
+						],
+						"address": "Thôn 5, xã Định Long, huyện Yên Định",
+						"fax": "(0237) 3513979",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Vĩnh Lộc",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Vĩnh Lộc",
+						"latitude": "20.0414500",
+						"longtitude": "105.6522964",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0237) 3716355",
+								"type": ""
+							}
+						],
+						"address": "Phố Mới, Xã Vĩnh Tiến, Huyện Vĩnh Lộc",
+						"fax": "(0237) 3750299",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tĩnh Gia",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tĩnh Gia",
+						"latitude": "19.4471343",
+						"longtitude": "105.7762920",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0237) 8718999",
+								"type": ""
+							}
+						],
+						"address": "Tiểu khu 7, thị trấn Tĩnh Gia, huyện Tĩnh Gia",
+						"fax": "(0237) 8718999",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Thạch Thành",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Thạch Thành",
+						"latitude": "20.1367132",
+						"longtitude": "105.6825304",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0237) 365 8898",
+								"type": ""
+							}
+						],
+						"address": "Thôn 1, Tân Sơn, xã Thành Kim, huyện Thạch Thành",
+						"fax": "(0237) 365 8899",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Thừa Thiên Huế",
+		"districts": [
+			{
+				"district": "Thị xã Hương Thủy",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Hương Thủy",
+						"latitude": "16.3694476",
+						"longtitude": "107.7044085",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0234) 3 862333",
+								"type": ""
+							}
+						],
+						"address": "Thôn 1B, Xã Thủy Phù",
+						"fax": "(0234) 3 955377",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Huế",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Huế 2",
+						"latitude": "16.4600948",
+						"longtitude": "107.6047025",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0234) 3934999",
+								"type": ""
+							}
+						],
+						"address": "108 Trường Chinh, P. An Đông",
+						"fax": "(0234) 3934998",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Huế 3",
+						"latitude": "16.4579880",
+						"longtitude": "107.5814090",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0234) 3810559",
+								"type": ""
+							}
+						],
+						"address": "Sô 12 Nguyễn Huệ, P. Vĩnh Ninh",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Phú Lộc",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Phú Lộc",
+						"latitude": "16.2799276",
+						"longtitude": "107.8606518",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0234) 3871686",
+								"type": ""
+							}
+						],
+						"address": "Số 180 Lý Thánh Tông, TT. Phú Lộc",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Tiền Giang",
+		"districts": [
+			{
+				"district": "Thị xã Gò Công",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Gò Công 2",
+						"latitude": "10.3566010",
+						"longtitude": "106.6750683",
+						"tel": [
+							{
+								"region": "",
+								"number": "(273) 3514888",
+								"type": ""
+							}
+						],
+						"address": "Số 169 Trương Định, Khu Phố 2, Phường 5",
+						"fax": "(273) 3513828",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Mỹ Tho",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Mỹ Tho",
+						"latitude": "10.360116",
+						"longtitude": "106.357462",
+						"tel": [
+							{
+								"region": "",
+								"number": "(273) 3979631",
+								"type": ""
+							}
+						],
+						"address": "Số 923A, đường Trần Hưng Đạo, Phường 5, tp. Mỹ Tho",
+						"fax": "(273) 3979 633",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Mỹ Tho 2",
+						"latitude": "10.3589757",
+						"longtitude": "106.3525966",
+						"tel": [
+							{
+								"region": "",
+								"number": "(273) 3998 899",
+								"type": ""
+							}
+						],
+						"address": "Số 675 đường Lý Thường Kiệt, phường 5, thành phố Mỹ Tho, tỉnh Tiền Giang",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Cai Lậy",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Cai Lậy",
+						"latitude": "10.4058712",
+						"longtitude": "106.1296089",
+						"tel": [
+							{
+								"region": "",
+								"number": "(273) 3919633",
+								"type": ""
+							}
+						],
+						"address": "Số 23/630 QL. 1, khu 5, Thị trấn Cai Lậy",
+						"fax": "(273) 3829 633",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Gò Công Tây",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Gò Công Tây",
+						"latitude": "10.3727729",
+						"longtitude": "106.5555529",
+						"tel": [
+							{
+								"region": "",
+								"number": "(273) 3537999",
+								"type": ""
+							}
+						],
+						"address": "Ấp Bình Đông Trung, Xã Bình Nhì",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Gò Công Tây",
+						"latitude": "10.372773",
+						"longtitude": "106.555553",
+						"tel": [
+							{
+								"region": "",
+								"number": "(273) 353 8339",
+								"type": ""
+							}
+						],
+						"address": "Ấp Bình Đông Trung, Xã Bình Nhì,Huyện Gò Công Tây",
+						"fax": "(273) 353 8339",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Trà Vinh",
+		"districts": [
+			{
+				"district": "Thành phố Trà Vinh",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Trà Vinh",
+						"latitude": "9.930530",
+						"longtitude": "106.343896",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0294) 3868777",
+								"type": ""
+							}
+						],
+						"address": "Số 199 Nguyễn Đáng, khóm 6, phường 7",
+						"fax": "(0294) 3868000",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Giao dịch Prudential Trà Vinh 2",
+						"latitude": "9.9345480",
+						"longtitude": "106.3375330",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0294) 3753953",
+								"type": ""
+							}
+						],
+						"address": "87 Trần Quốc Tuấn, khóm 4, Phường 3",
+						"fax": "(0294) 3753953",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tiểu Cần",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Tiểu Cần",
+						"latitude": "9.811862",
+						"longtitude": "106.188712",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0294) 3613777",
+								"type": ""
+							}
+						],
+						"address": "Số 35, đường 30/4, khóm 1, thị trấn Tiểu Cần, huyện Tiểu Cần",
+						"fax": "(0294) 3613555",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị Xã Duyên Hải",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Duyên Hải",
+						"latitude": "9.6347567",
+						"longtitude": "106.4975478",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0294) 3732777",
+								"type": ""
+							}
+						],
+						"address": "Đường 19 tháng 5, khóm 1, phường 1",
+						"fax": "(0294) 3732666",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Tuyên Quang",
+		"districts": [
+			{
+				"district": "Thành phố Tuyên Quang",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tuyên Quang",
+						"latitude": "21.821465",
+						"longtitude": "105.203392",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0207) 6252256",
+								"type": ""
+							}
+						],
+						"address": "340 Trường Chinh, tổ 23, phường Tân Hà",
+						"fax": "(0207) 6252257",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Vĩnh Long",
+		"districts": [
+			{
+				"district": "Thành phố Vĩnh Long",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Vĩnh Long",
+						"latitude": "10.2368813",
+						"longtitude": "105.9811187",
+						"tel": [
+							{
+								"region": "",
+								"number": "(270) 3833599",
+								"type": ""
+							}
+						],
+						"address": "Số 33/5F đường Phạm Thái Bường, khóm 4, phường 4,",
+						"fax": "(270) 3833598",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Vũng Liêm",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Vũng Liêm",
+						"latitude": "10.0910316",
+						"longtitude": "106.1904426",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0270) 6533 339",
+								"type": ""
+							}
+						],
+						"address": "Số 61, tổ 3, ấp Tân Quang, xã Hiếu Phụng, huyện Vũng Liêm, tỉnh Vĩnh Long",
+						"fax": "(270) 6055 888",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Vĩnh Phúc",
+		"districts": [
+			{
+				"district": "Thành phố Vĩnh Yên",
+				"offices": [
+					{
+						"name": "ăn phòng Tổng Đại lý Prudential Vĩnh Yên",
+						"latitude": "21.3241802",
+						"longtitude": "105.5995605",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0211) 3726808",
+								"type": ""
+							}
+						],
+						"address": "L3 S4 Đường Trần Phú, Khu Đô thị Chùa Hà Tiên",
+						"fax": "(0211) 3726608",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thị xã Phúc Yên",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Phúc Yên",
+						"latitude": "21.2357824",
+						"longtitude": "105.7107067",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0211) 3511766",
+								"type": ""
+							}
+						],
+						"address": "Số B48 – CL14, Khu đô thị mới Đồng Sơn, Phường Trưng Trắc",
+						"fax": "(0211) 3511767",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Vĩnh Tường",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Vĩnh Tường",
+						"latitude": "21.2872303",
+						"longtitude": "105.4976181",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0211) 3793558",
+								"type": ""
+							}
+						],
+						"address": "Đường Quốc Lộ 2A, thôn Sen, xã Nghĩa Hưng",
+						"fax": "(0211) 3793 559",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Bà Rịa - Vũng Tàu",
+		"districts": [
+			{
+				"district": "Thành phố Vũng Tàu",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Vũng Tàu",
+						"latitude": "10.3495827",
+						"longtitude": "107.0858074",
+						"tel": [
+							{
+								"region": "",
+								"number": "(254) 3614111",
+								"type": ""
+							}
+						],
+						"address": "Số 173 Nam Kỳ Khởi Nghĩa, phường 3",
+						"fax": "(254) 3614466",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Bà Rịa",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Bà Rịa",
+						"latitude": "10.4932517",
+						"longtitude": "107.1733897",
+						"tel": [
+							{
+								"region": "",
+								"number": "(254) 3741 688",
+								"type": ""
+							},
+							{
+								"region": "",
+								"number": "(254) 3741 588",
+								"type": ""
+							}
+						],
+						"address": "Số 72, đường Nguyễn Hữu Thọ, Phường Phước Trung, Thành phố Bà Rịa",
+						"fax": "(254) 3741 488",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Xuyên Mộc",
+				"offices": [
+					{
+						"name": "Văn phòng Đại lý Kinh Doanh Prudential Xuyên Mộc",
+						"latitude": "10.5353285",
+						"longtitude": "107.4055814",
+						"tel": [
+							{
+								"region": "",
+								"number": "(254) 3771368",
+								"type": ""
+							}
+						],
+						"address": "Số 102 Đường 27 tháng 4, Khu phố Phước An, Thị trấn Phước Bửu",
+						"fax": "(254) 3771 369",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Xuyên Mộc",
+						"latitude": "10.531355",
+						"longtitude": "107.397515",
+						"tel": [
+							{
+								"region": "",
+								"number": "(254) 3797888",
+								"type": ""
+							}
+						],
+						"address": "252 đường 27 tháng 4, thị trấn Phước Bửu",
+						"fax": "",
+						"members": []
+					},
+					{
+						"name": "Văn phòng Giao dịch Prudential Xuyên Mộc 1",
+						"latitude": "10.534223",
+						"longtitude": "107.399587",
+						"tel": [
+							{
+								"region": "",
+								"number": "(254) 3771368",
+								"type": ""
+							}
+						],
+						"address": "Số 50 Huỳnh Minh Thạnh, Thị Trấn Phước Bửu, Huyện Xuyên Mộc, Tỉnh Bà Rịa - Vũng Tàu",
+						"fax": "(254) 3771369",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Châu Đức",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Châu Đức",
+						"latitude": "10.6516660",
+						"longtitude": "107.2408330",
+						"tel": [
+							{
+								"region": "",
+								"number": "(254) 3882666",
+								"type": ""
+							}
+						],
+						"address": "Số 10B4 Lê Lợi, Trung tâm thương mại Ngãi Giao, Thị trấn Ngãi Giao",
+						"fax": "(254) 3882686",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Long Điền",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Long ĐIền",
+						"latitude": "10.395902",
+						"longtitude": "107.237087",
+						"tel": [
+							{
+								"region": "",
+								"number": "(254)3841688",
+								"type": ""
+							}
+						],
+						"address": "Đường số 7, tổ 5, Khu phố Hải Bình, TT. Long Hải, H. Long Điền, Tỉnh Bà Rịa Vũng Tàu",
+						"fax": "",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Tân Thành",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Tân Thành",
+						"latitude": "10.591062",
+						"longtitude": "107.048270",
+						"tel": [
+							{
+								"region": "",
+								"number": "(254) 3898633",
+								"type": ""
+							}
+						],
+						"address": "150 Độc Lập, Tổ 1, KP. Tân Phú, TT. Phú Mỹ, H. Tân Thành, Tỉnh Bà Rịa Vũng Tàu",
+						"fax": "",
+						"members": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"province": "Yên Bái",
+		"districts": [
+			{
+				"district": "Thị xã Nghĩa Lộ",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Nghĩa Lộ",
+						"latitude": "21.601877",
+						"longtitude": "104.506265",
+						"tel": [
+							{
+								"region": "",
+								"number": " (0216) 3871 868",
+								"type": ""
+							}
+						],
+						"address": "Số 249 đường Điện Biên, tổ 6, phường Tân An, thị xã Nghĩa Lộ, tỉnh Yên Bái",
+						"fax": "(0216) 3871 818",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Thành phố Yên Bái",
+				"offices": [
+					{
+						"name": "Văn phòng Tổng Đại lý Prudential Yên Bái",
+						"latitude": "21.7228697",
+						"longtitude": "104.9159347",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0216) 3890875",
+								"type": ""
+							}
+						],
+						"address": "Tổ 45 đường Nguyễn Tất Thành, phường Đồng Tâm",
+						"fax": "(0216) 3890876",
+						"members": []
+					}
+				]
+			},
+			{
+				"district": "Huyện Văn Yên",
+				"offices": [
+					{
+						"name": "Văn phòng Giao dịch Prudential Văn Yên",
+						"latitude": "21.5997630",
+						"longtitude": "104.5126458",
+						"tel": [
+							{
+								"region": "",
+								"number": "(0216)  6265 666",
+								"type": ""
+							}
+						],
+						"address": "Số 169 đường Trần Quốc Toản, thị trấn Mậu A",
+						"fax": "(0216)  6265 678",
+						"members": []
+					}
+				]
+			}
+		]
+	}
+]
